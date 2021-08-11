@@ -1,0 +1,298 @@
+outcome,category,sub_category,total
+failed,Art,Art,144
+failed,Art,Ceramics,6
+failed,Art,"Conceptual Art",9
+failed,Art,"Digital Art",24
+failed,Art,Illustration,38
+failed,Art,Installations,6
+failed,Art,"Mixed Media",43
+failed,Art,Painting,56
+failed,Art,"Performance Art",38
+failed,Art,"Public Art",39
+failed,Art,Sculpture,24
+failed,Art,Textiles,2
+failed,Art,"Video Art",3
+failed,Comics,Anthologies,5
+failed,Comics,"Comic Books",38
+failed,Comics,Comics,76
+failed,Comics,"Graphic Novels",18
+failed,Comics,Webcomics,1
+failed,Crafts,Candles,7
+failed,Crafts,Crafts,93
+failed,Crafts,Crochet,4
+failed,Crafts,DIY,26
+failed,Crafts,Embroidery,4
+failed,Crafts,Glass,2
+failed,Crafts,Knitting,2
+failed,Crafts,Pottery,1
+failed,Crafts,Printing,4
+failed,Crafts,Quilts,3
+failed,Crafts,Stationery,2
+failed,Crafts,Weaving,2
+failed,Crafts,Woodworking,17
+failed,Dance,Dance,21
+failed,Dance,Performances,8
+failed,Dance,Workshops,1
+failed,Design,Architecture,12
+failed,Design,"Civic Design",8
+failed,Design,Design,62
+failed,Design,"Graphic Design",25
+failed,Design,"Interactive Design",7
+failed,Design,"Product Design",334
+failed,Design,Typography,1
+failed,Fashion,Accessories,47
+failed,Fashion,Apparel,130
+failed,Fashion,Childrenswear,10
+failed,Fashion,Couture,8
+failed,Fashion,Fashion,179
+failed,Fashion,Footwear,13
+failed,Fashion,Jewelry,17
+failed,Fashion,Ready-to-wear,11
+failed,"Film & Video",Action,13
+failed,"Film & Video",Animation,49
+failed,"Film & Video",Comedy,36
+failed,"Film & Video",Documentary,318
+failed,"Film & Video",Drama,41
+failed,"Film & Video",Family,10
+failed,"Film & Video","Film & Video",188
+failed,"Film & Video",Horror,21
+failed,"Film & Video","Movie Theaters",6
+failed,"Film & Video","Music Videos",10
+failed,"Film & Video","Narrative Film",95
+failed,"Film & Video",Romance,2
+failed,"Film & Video","Science Fiction",16
+failed,"Film & Video",Shorts,162
+failed,"Film & Video",Television,19
+failed,"Film & Video",Thrillers,15
+failed,"Film & Video",Webseries,142
+failed,Food,Bacon,3
+failed,Food,"Community Gardens",5
+failed,Food,Cookbooks,12
+failed,Food,Drinks,38
+failed,Food,Events,13
+failed,Food,"Farmer's Markets",14
+failed,Food,Farms,32
+failed,Food,Food,216
+failed,Food,"Food Trucks",41
+failed,Food,Restaurants,59
+failed,Food,"Small Batch",38
+failed,Food,Spaces,9
+failed,Food,Vegan,8
+failed,Games,Games,39
+failed,Games,"Gaming Hardware",4
+failed,Games,"Live Games",17
+failed,Games,"Mobile Games",23
+failed,Games,"Playing Cards",32
+failed,Games,Puzzles,2
+failed,Games,"Tabletop Games",127
+failed,Games,"Video Games",165
+failed,Journalism,Audio,4
+failed,Journalism,Journalism,32
+failed,Journalism,Photo,3
+failed,Journalism,Print,13
+failed,Journalism,Video,7
+failed,Music,Blues,2
+failed,Music,"Classical Music",16
+failed,Music,"Country & Folk",49
+failed,Music,"Electronic Music",32
+failed,Music,Faith,11
+failed,Music,Hip-Hop,101
+failed,Music,"Indie Rock",67
+failed,Music,Jazz,23
+failed,Music,Kids,1
+failed,Music,Latin,2
+failed,Music,Metal,10
+failed,Music,Music,206
+failed,Music,Pop,59
+failed,Music,Punk,11
+failed,Music,R&B,12
+failed,Music,Rock,101
+failed,Music,"World Music",27
+failed,Photography,Animals,3
+failed,Photography,"Fine Art",12
+failed,Photography,Nature,9
+failed,Photography,People,18
+failed,Photography,Photobooks,10
+failed,Photography,Photography,104
+failed,Photography,Places,11
+failed,Publishing,Academic,19
+failed,Publishing,"Art Books",32
+failed,Publishing,Calendars,3
+failed,Publishing,"Children's Books",111
+failed,Publishing,Fiction,208
+failed,Publishing,"Literary Journals",5
+failed,Publishing,Nonfiction,193
+failed,Publishing,Periodicals,20
+failed,Publishing,Poetry,32
+failed,Publishing,Publishing,91
+failed,Publishing,"Radio & Podcasts",16
+failed,Publishing,Translations,1
+failed,Publishing,"Young Adult",18
+failed,Publishing,Zines,2
+failed,Technology,"3D Printing",14
+failed,Technology,Apps,114
+failed,Technology,"Camera Equipment",2
+failed,Technology,"DIY Electronics",13
+failed,Technology,"Fabrication Tools",5
+failed,Technology,Flight,7
+failed,Technology,Gadgets,32
+failed,Technology,Hardware,47
+failed,Technology,Makerspaces,2
+failed,Technology,Robots,3
+failed,Technology,Software,58
+failed,Technology,Sound,6
+failed,Technology,"Space Exploration",5
+failed,Technology,Technology,135
+failed,Technology,Wearables,18
+failed,Technology,Web,98
+failed,Theater,Experimental,16
+failed,Theater,Festivals,6
+failed,Theater,Immersive,4
+failed,Theater,Musical,14
+failed,Theater,Plays,10
+failed,Theater,Theater,93
+successful,Art,Art,89
+successful,Art,Ceramics,5
+successful,Art,"Conceptual Art",13
+successful,Art,"Digital Art",12
+successful,Art,Illustration,39
+successful,Art,Installations,10
+successful,Art,"Mixed Media",37
+successful,Art,Painting,37
+successful,Art,"Performance Art",35
+successful,Art,"Public Art",46
+successful,Art,Sculpture,26
+successful,Art,Textiles,2
+successful,Art,"Video Art",4
+successful,Comics,Anthologies,15
+successful,Comics,"Comic Books",51
+successful,Comics,Comics,86
+successful,Comics,"Graphic Novels",38
+successful,Comics,Webcomics,16
+successful,Crafts,Crafts,44
+successful,Crafts,DIY,6
+successful,Crafts,Embroidery,1
+successful,Crafts,Knitting,6
+successful,Crafts,Letterpress,1
+successful,Crafts,Pottery,3
+successful,Crafts,Printing,3
+successful,Crafts,Stationery,3
+successful,Crafts,Weaving,1
+successful,Crafts,Woodworking,5
+successful,Dance,Dance,51
+successful,Dance,Performances,17
+successful,Dance,Workshops,1
+successful,Design,Architecture,8
+successful,Design,"Civic Design",4
+successful,Design,Design,22
+successful,Design,"Graphic Design",25
+successful,Design,"Interactive Design",3
+successful,Design,"Product Design",256
+successful,Design,Typography,2
+successful,Fashion,Accessories,28
+successful,Fashion,Apparel,37
+successful,Fashion,Childrenswear,2
+successful,Fashion,Couture,2
+successful,Fashion,Fashion,70
+successful,Fashion,Footwear,6
+successful,Fashion,Jewelry,11
+successful,Fashion,"Pet Fashion",2
+successful,"Film & Video",Action,2
+successful,"Film & Video",Animation,27
+successful,"Film & Video",Comedy,19
+successful,"Film & Video",Documentary,219
+successful,"Film & Video",Drama,20
+successful,"Film & Video",Family,1
+successful,"Film & Video",Fantasy,4
+successful,"Film & Video","Film & Video",116
+successful,"Film & Video",Horror,14
+successful,"Film & Video","Music Videos",8
+successful,"Film & Video","Narrative Film",63
+successful,"Film & Video",Romance,2
+successful,"Film & Video","Science Fiction",9
+successful,"Film & Video",Shorts,235
+successful,"Film & Video",Television,3
+successful,"Film & Video",Thrillers,3
+successful,"Film & Video",Webseries,55
+successful,Food,Bacon,3
+successful,Food,"Community Gardens",5
+successful,Food,Cookbooks,2
+successful,Food,Drinks,18
+successful,Food,Events,11
+successful,Food,"Farmer's Markets",2
+successful,Food,Farms,11
+successful,Food,Food,110
+successful,Food,"Food Trucks",8
+successful,Food,Restaurants,15
+successful,Food,"Small Batch",23
+successful,Food,Spaces,10
+successful,Food,Vegan,5
+successful,Games,Games,22
+successful,Games,"Gaming Hardware",2
+successful,Games,"Live Games",4
+successful,Games,"Mobile Games",2
+successful,Games,"Playing Cards",24
+successful,Games,Puzzles,1
+successful,Games,"Tabletop Games",224
+successful,Games,"Video Games",60
+successful,Journalism,Journalism,21
+successful,Journalism,Print,5
+successful,Music,Blues,2
+successful,Music,"Classical Music",61
+successful,Music,"Country & Folk",101
+successful,Music,"Electronic Music",14
+successful,Music,Faith,22
+successful,Music,Hip-Hop,21
+successful,Music,"Indie Rock",148
+successful,Music,Jazz,38
+successful,Music,Kids,3
+successful,Music,Metal,8
+successful,Music,Music,244
+successful,Music,Pop,48
+successful,Music,Punk,8
+successful,Music,R&B,8
+successful,Music,Rock,124
+successful,Music,"World Music",28
+successful,Photography,Animals,2
+successful,Photography,"Fine Art",6
+successful,Photography,Nature,2
+successful,Photography,People,5
+successful,Photography,Photobooks,15
+successful,Photography,Photography,81
+successful,Photography,Places,1
+successful,Publishing,Academic,3
+successful,Publishing,"Art Books",41
+successful,Publishing,Calendars,4
+successful,Publishing,"Children's Books",83
+successful,Publishing,Fiction,76
+successful,Publishing,"Literary Journals",4
+successful,Publishing,Nonfiction,86
+successful,Publishing,Periodicals,19
+successful,Publishing,Poetry,17
+successful,Publishing,Publishing,49
+successful,Publishing,"Radio & Podcasts",21
+successful,Publishing,Translations,1
+successful,Publishing,"Young Adult",7
+successful,Publishing,Zines,4
+successful,Technology,"3D Printing",3
+successful,Technology,Apps,14
+successful,Technology,"Camera Equipment",8
+successful,Technology,"DIY Electronics",14
+successful,Technology,"Fabrication Tools",3
+successful,Technology,Flight,1
+successful,Technology,Gadgets,20
+successful,Technology,Hardware,37
+successful,Technology,Makerspaces,3
+successful,Technology,Robots,9
+successful,Technology,Software,8
+successful,Technology,Sound,6
+successful,Technology,"Space Exploration",4
+successful,Technology,Technology,40
+successful,Technology,Wearables,6
+successful,Technology,Web,10
+successful,Theater,Experimental,14
+successful,Theater,Festivals,6
+successful,Theater,Immersive,2
+successful,Theater,Musical,16
+successful,Theater,Plays,14
+successful,Theater,Theater,157

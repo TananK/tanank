@@ -1,0 +1,3232 @@
+outcome,category_name,backers,total
+failed,Art,0,92
+failed,Art,1,70
+failed,Art,2,35
+failed,Art,3,35
+failed,Art,4,22
+failed,Art,5,19
+failed,Art,6,16
+failed,Art,7,5
+failed,Art,8,11
+failed,Art,9,14
+failed,Art,10,6
+failed,Art,11,13
+failed,Art,12,3
+failed,Art,13,9
+failed,Art,14,9
+failed,Art,15,2
+failed,Art,16,5
+failed,Art,17,5
+failed,Art,18,4
+failed,Art,19,2
+failed,Art,20,3
+failed,Art,21,1
+failed,Art,22,3
+failed,Art,23,1
+failed,Art,24,3
+failed,Art,25,2
+failed,Art,26,2
+failed,Art,27,2
+failed,Art,28,3
+failed,Art,29,1
+failed,Art,30,2
+failed,Art,32,1
+failed,Art,33,2
+failed,Art,34,1
+failed,Art,35,1
+failed,Art,36,1
+failed,Art,38,2
+failed,Art,40,1
+failed,Art,43,1
+failed,Art,45,2
+failed,Art,47,2
+failed,Art,48,2
+failed,Art,51,1
+failed,Art,52,1
+failed,Art,55,1
+failed,Art,67,1
+failed,Art,70,1
+failed,Art,71,1
+failed,Art,74,1
+failed,Art,78,1
+failed,Art,79,1
+failed,Art,83,1
+failed,Art,86,1
+failed,Art,111,1
+failed,Art,158,1
+failed,Art,170,1
+failed,Art,292,1
+failed,Art,393,1
+failed,Comics,0,11
+failed,Comics,1,11
+failed,Comics,2,10
+failed,Comics,3,10
+failed,Comics,4,11
+failed,Comics,5,6
+failed,Comics,6,8
+failed,Comics,7,5
+failed,Comics,9,6
+failed,Comics,10,2
+failed,Comics,11,2
+failed,Comics,12,3
+failed,Comics,13,3
+failed,Comics,14,3
+failed,Comics,15,3
+failed,Comics,16,4
+failed,Comics,17,1
+failed,Comics,19,2
+failed,Comics,24,4
+failed,Comics,25,1
+failed,Comics,28,2
+failed,Comics,30,2
+failed,Comics,31,2
+failed,Comics,32,2
+failed,Comics,37,2
+failed,Comics,38,1
+failed,Comics,39,1
+failed,Comics,40,1
+failed,Comics,41,1
+failed,Comics,42,1
+failed,Comics,44,1
+failed,Comics,47,1
+failed,Comics,51,1
+failed,Comics,56,1
+failed,Comics,57,2
+failed,Comics,58,1
+failed,Comics,64,1
+failed,Comics,68,1
+failed,Comics,77,1
+failed,Comics,81,1
+failed,Comics,94,1
+failed,Comics,96,1
+failed,Comics,99,1
+failed,Comics,103,1
+failed,Comics,217,1
+failed,Comics,265,1
+failed,Crafts,0,41
+failed,Crafts,1,35
+failed,Crafts,2,22
+failed,Crafts,3,17
+failed,Crafts,4,15
+failed,Crafts,5,5
+failed,Crafts,7,6
+failed,Crafts,9,1
+failed,Crafts,10,1
+failed,Crafts,11,3
+failed,Crafts,13,1
+failed,Crafts,14,2
+failed,Crafts,15,1
+failed,Crafts,17,1
+failed,Crafts,18,1
+failed,Crafts,20,3
+failed,Crafts,21,2
+failed,Crafts,24,1
+failed,Crafts,25,1
+failed,Crafts,26,1
+failed,Crafts,29,1
+failed,Crafts,36,1
+failed,Crafts,39,1
+failed,Crafts,41,1
+failed,Crafts,42,1
+failed,Crafts,49,1
+failed,Crafts,62,1
+failed,Dance,0,4
+failed,Dance,1,1
+failed,Dance,2,8
+failed,Dance,3,1
+failed,Dance,4,1
+failed,Dance,5,1
+failed,Dance,6,3
+failed,Dance,7,1
+failed,Dance,8,1
+failed,Dance,11,1
+failed,Dance,12,1
+failed,Dance,14,1
+failed,Dance,18,2
+failed,Dance,22,1
+failed,Dance,24,1
+failed,Dance,38,1
+failed,Dance,54,1
+failed,Design,0,35
+failed,Design,1,36
+failed,Design,2,33
+failed,Design,3,24
+failed,Design,4,22
+failed,Design,5,21
+failed,Design,6,16
+failed,Design,7,8
+failed,Design,8,11
+failed,Design,9,16
+failed,Design,10,5
+failed,Design,11,8
+failed,Design,12,12
+failed,Design,13,14
+failed,Design,14,6
+failed,Design,15,9
+failed,Design,16,6
+failed,Design,17,4
+failed,Design,18,3
+failed,Design,19,3
+failed,Design,20,4
+failed,Design,21,5
+failed,Design,22,4
+failed,Design,23,1
+failed,Design,24,2
+failed,Design,25,2
+failed,Design,26,6
+failed,Design,27,5
+failed,Design,28,6
+failed,Design,29,6
+failed,Design,30,2
+failed,Design,31,4
+failed,Design,33,2
+failed,Design,34,2
+failed,Design,35,3
+failed,Design,36,3
+failed,Design,37,3
+failed,Design,38,5
+failed,Design,39,1
+failed,Design,40,3
+failed,Design,42,3
+failed,Design,43,2
+failed,Design,44,3
+failed,Design,45,1
+failed,Design,46,1
+failed,Design,47,1
+failed,Design,48,1
+failed,Design,49,2
+failed,Design,50,1
+failed,Design,52,1
+failed,Design,53,2
+failed,Design,54,2
+failed,Design,55,2
+failed,Design,57,1
+failed,Design,58,3
+failed,Design,59,1
+failed,Design,60,5
+failed,Design,63,1
+failed,Design,64,1
+failed,Design,67,1
+failed,Design,70,2
+failed,Design,75,2
+failed,Design,79,1
+failed,Design,83,1
+failed,Design,84,1
+failed,Design,85,1
+failed,Design,86,3
+failed,Design,91,1
+failed,Design,95,1
+failed,Design,98,1
+failed,Design,99,1
+failed,Design,100,1
+failed,Design,107,3
+failed,Design,109,1
+failed,Design,112,1
+failed,Design,120,1
+failed,Design,126,1
+failed,Design,129,1
+failed,Design,130,1
+failed,Design,133,1
+failed,Design,134,1
+failed,Design,135,1
+failed,Design,136,2
+failed,Design,138,2
+failed,Design,139,1
+failed,Design,141,1
+failed,Design,149,1
+failed,Design,158,1
+failed,Design,159,1
+failed,Design,174,1
+failed,Design,193,1
+failed,Design,194,1
+failed,Design,199,1
+failed,Design,214,1
+failed,Design,227,1
+failed,Design,238,1
+failed,Design,245,1
+failed,Design,253,1
+failed,Design,265,1
+failed,Design,316,1
+failed,Design,390,1
+failed,Design,406,1
+failed,Design,460,1
+failed,Design,621,1
+failed,Design,780,1
+failed,Fashion,0,91
+failed,Fashion,1,73
+failed,Fashion,2,49
+failed,Fashion,3,32
+failed,Fashion,4,17
+failed,Fashion,5,10
+failed,Fashion,6,13
+failed,Fashion,7,17
+failed,Fashion,8,9
+failed,Fashion,9,7
+failed,Fashion,10,6
+failed,Fashion,11,7
+failed,Fashion,12,3
+failed,Fashion,13,4
+failed,Fashion,14,4
+failed,Fashion,15,5
+failed,Fashion,17,4
+failed,Fashion,18,4
+failed,Fashion,19,7
+failed,Fashion,20,5
+failed,Fashion,21,2
+failed,Fashion,22,3
+failed,Fashion,23,3
+failed,Fashion,24,3
+failed,Fashion,28,1
+failed,Fashion,29,1
+failed,Fashion,32,1
+failed,Fashion,33,4
+failed,Fashion,34,1
+failed,Fashion,35,2
+failed,Fashion,36,1
+failed,Fashion,37,1
+failed,Fashion,42,1
+failed,Fashion,43,2
+failed,Fashion,46,1
+failed,Fashion,47,1
+failed,Fashion,51,1
+failed,Fashion,52,1
+failed,Fashion,55,1
+failed,Fashion,60,1
+failed,Fashion,63,1
+failed,Fashion,64,1
+failed,Fashion,65,1
+failed,Fashion,68,1
+failed,Fashion,69,2
+failed,Fashion,78,1
+failed,Fashion,83,1
+failed,Fashion,111,1
+failed,Fashion,117,1
+failed,Fashion,120,1
+failed,Fashion,136,1
+failed,Fashion,139,1
+failed,Fashion,263,1
+failed,Fashion,273,1
+failed,Fashion,338,1
+failed,"Film & Video",0,251
+failed,"Film & Video",1,153
+failed,"Film & Video",2,111
+failed,"Film & Video",3,66
+failed,"Film & Video",4,59
+failed,"Film & Video",5,48
+failed,"Film & Video",6,32
+failed,"Film & Video",7,35
+failed,"Film & Video",8,25
+failed,"Film & Video",9,17
+failed,"Film & Video",10,18
+failed,"Film & Video",11,13
+failed,"Film & Video",12,6
+failed,"Film & Video",13,16
+failed,"Film & Video",14,18
+failed,"Film & Video",15,12
+failed,"Film & Video",16,16
+failed,"Film & Video",17,18
+failed,"Film & Video",18,9
+failed,"Film & Video",19,7
+failed,"Film & Video",20,13
+failed,"Film & Video",21,8
+failed,"Film & Video",22,10
+failed,"Film & Video",23,6
+failed,"Film & Video",24,7
+failed,"Film & Video",25,6
+failed,"Film & Video",26,8
+failed,"Film & Video",27,9
+failed,"Film & Video",28,8
+failed,"Film & Video",29,4
+failed,"Film & Video",30,2
+failed,"Film & Video",31,5
+failed,"Film & Video",32,3
+failed,"Film & Video",33,3
+failed,"Film & Video",34,5
+failed,"Film & Video",35,4
+failed,"Film & Video",36,2
+failed,"Film & Video",38,2
+failed,"Film & Video",40,1
+failed,"Film & Video",42,2
+failed,"Film & Video",43,4
+failed,"Film & Video",44,2
+failed,"Film & Video",45,3
+failed,"Film & Video",46,3
+failed,"Film & Video",48,4
+failed,"Film & Video",49,1
+failed,"Film & Video",50,3
+failed,"Film & Video",51,1
+failed,"Film & Video",52,4
+failed,"Film & Video",53,2
+failed,"Film & Video",54,2
+failed,"Film & Video",56,3
+failed,"Film & Video",58,1
+failed,"Film & Video",59,2
+failed,"Film & Video",60,1
+failed,"Film & Video",61,1
+failed,"Film & Video",63,2
+failed,"Film & Video",64,4
+failed,"Film & Video",65,2
+failed,"Film & Video",66,1
+failed,"Film & Video",67,2
+failed,"Film & Video",69,1
+failed,"Film & Video",70,1
+failed,"Film & Video",71,1
+failed,"Film & Video",72,2
+failed,"Film & Video",73,2
+failed,"Film & Video",74,2
+failed,"Film & Video",76,1
+failed,"Film & Video",78,1
+failed,"Film & Video",79,1
+failed,"Film & Video",80,1
+failed,"Film & Video",81,1
+failed,"Film & Video",82,3
+failed,"Film & Video",83,1
+failed,"Film & Video",87,3
+failed,"Film & Video",89,1
+failed,"Film & Video",91,1
+failed,"Film & Video",92,1
+failed,"Film & Video",93,1
+failed,"Film & Video",94,3
+failed,"Film & Video",95,1
+failed,"Film & Video",96,2
+failed,"Film & Video",104,1
+failed,"Film & Video",108,1
+failed,"Film & Video",113,1
+failed,"Film & Video",124,1
+failed,"Film & Video",125,2
+failed,"Film & Video",127,1
+failed,"Film & Video",130,1
+failed,"Film & Video",135,1
+failed,"Film & Video",136,1
+failed,"Film & Video",139,1
+failed,"Film & Video",140,1
+failed,"Film & Video",155,2
+failed,"Film & Video",165,1
+failed,"Film & Video",166,1
+failed,"Film & Video",169,1
+failed,"Film & Video",212,1
+failed,"Film & Video",218,1
+failed,"Film & Video",224,1
+failed,"Film & Video",242,1
+failed,"Film & Video",264,1
+failed,"Film & Video",266,1
+failed,"Film & Video",441,1
+failed,"Film & Video",684,1
+failed,"Film & Video",3873,1
+failed,Food,0,94
+failed,Food,1,63
+failed,Food,2,59
+failed,Food,3,35
+failed,Food,4,18
+failed,Food,5,22
+failed,Food,6,13
+failed,Food,7,6
+failed,Food,8,9
+failed,Food,9,13
+failed,Food,10,6
+failed,Food,11,6
+failed,Food,12,7
+failed,Food,13,7
+failed,Food,14,3
+failed,Food,15,9
+failed,Food,16,5
+failed,Food,17,3
+failed,Food,18,3
+failed,Food,19,3
+failed,Food,20,4
+failed,Food,21,6
+failed,Food,22,2
+failed,Food,23,5
+failed,Food,24,2
+failed,Food,25,1
+failed,Food,26,4
+failed,Food,27,1
+failed,Food,28,6
+failed,Food,29,3
+failed,Food,30,4
+failed,Food,31,1
+failed,Food,32,6
+failed,Food,33,5
+failed,Food,34,4
+failed,Food,35,2
+failed,Food,36,2
+failed,Food,37,4
+failed,Food,38,3
+failed,Food,39,1
+failed,Food,41,1
+failed,Food,43,1
+failed,Food,44,1
+failed,Food,45,3
+failed,Food,46,3
+failed,Food,49,2
+failed,Food,50,1
+failed,Food,51,1
+failed,Food,53,2
+failed,Food,55,1
+failed,Food,59,1
+failed,Food,60,2
+failed,Food,62,1
+failed,Food,63,1
+failed,Food,64,1
+failed,Food,66,2
+failed,Food,73,1
+failed,Food,74,1
+failed,Food,76,2
+failed,Food,80,1
+failed,Food,83,1
+failed,Food,95,1
+failed,Food,97,1
+failed,Food,104,1
+failed,Food,138,1
+failed,Food,159,1
+failed,Food,163,1
+failed,Food,241,1
+failed,Food,247,1
+failed,Games,0,36
+failed,Games,1,34
+failed,Games,2,37
+failed,Games,3,26
+failed,Games,4,18
+failed,Games,5,15
+failed,Games,6,8
+failed,Games,7,9
+failed,Games,8,11
+failed,Games,9,6
+failed,Games,10,8
+failed,Games,11,7
+failed,Games,12,11
+failed,Games,13,10
+failed,Games,14,8
+failed,Games,15,5
+failed,Games,16,5
+failed,Games,17,6
+failed,Games,18,1
+failed,Games,19,1
+failed,Games,20,2
+failed,Games,21,3
+failed,Games,22,4
+failed,Games,23,4
+failed,Games,24,1
+failed,Games,25,6
+failed,Games,26,2
+failed,Games,27,4
+failed,Games,29,4
+failed,Games,30,1
+failed,Games,31,1
+failed,Games,32,1
+failed,Games,33,1
+failed,Games,34,2
+failed,Games,35,2
+failed,Games,36,1
+failed,Games,37,3
+failed,Games,38,2
+failed,Games,39,1
+failed,Games,40,1
+failed,Games,41,1
+failed,Games,42,3
+failed,Games,44,5
+failed,Games,45,2
+failed,Games,46,2
+failed,Games,47,2
+failed,Games,48,3
+failed,Games,50,3
+failed,Games,51,1
+failed,Games,52,1
+failed,Games,53,1
+failed,Games,54,1
+failed,Games,55,2
+failed,Games,56,2
+failed,Games,57,1
+failed,Games,59,2
+failed,Games,65,3
+failed,Games,67,1
+failed,Games,68,1
+failed,Games,73,1
+failed,Games,74,2
+failed,Games,75,2
+failed,Games,79,1
+failed,Games,87,2
+failed,Games,89,2
+failed,Games,90,1
+failed,Games,95,1
+failed,Games,97,1
+failed,Games,99,1
+failed,Games,102,1
+failed,Games,109,1
+failed,Games,115,1
+failed,Games,116,1
+failed,Games,120,1
+failed,Games,122,1
+failed,Games,123,1
+failed,Games,130,2
+failed,Games,131,1
+failed,Games,138,2
+failed,Games,139,1
+failed,Games,142,1
+failed,Games,147,2
+failed,Games,148,1
+failed,Games,149,1
+failed,Games,152,1
+failed,Games,162,1
+failed,Games,169,1
+failed,Games,176,1
+failed,Games,177,1
+failed,Games,200,1
+failed,Games,202,2
+failed,Games,205,1
+failed,Games,214,1
+failed,Games,215,1
+failed,Games,224,1
+failed,Games,226,1
+failed,Games,236,1
+failed,Games,253,1
+failed,Games,260,1
+failed,Games,272,1
+failed,Games,288,1
+failed,Games,320,1
+failed,Games,412,1
+failed,Games,414,1
+failed,Games,415,1
+failed,Games,427,1
+failed,Games,431,1
+failed,Games,464,1
+failed,Games,470,1
+failed,Games,510,1
+failed,Games,591,1
+failed,Games,787,1
+failed,Games,1296,1
+failed,Games,3858,1
+failed,Journalism,0,17
+failed,Journalism,1,12
+failed,Journalism,2,5
+failed,Journalism,3,3
+failed,Journalism,4,4
+failed,Journalism,5,2
+failed,Journalism,6,4
+failed,Journalism,7,1
+failed,Journalism,8,1
+failed,Journalism,9,1
+failed,Journalism,12,1
+failed,Journalism,13,1
+failed,Journalism,14,1
+failed,Journalism,15,1
+failed,Journalism,20,1
+failed,Journalism,28,1
+failed,Journalism,30,1
+failed,Journalism,44,1
+failed,Journalism,69,1
+failed,Music,0,169
+failed,Music,1,122
+failed,Music,2,72
+failed,Music,3,40
+failed,Music,4,35
+failed,Music,5,35
+failed,Music,6,19
+failed,Music,7,21
+failed,Music,8,18
+failed,Music,9,16
+failed,Music,10,12
+failed,Music,11,16
+failed,Music,12,11
+failed,Music,13,10
+failed,Music,14,7
+failed,Music,15,9
+failed,Music,16,4
+failed,Music,17,7
+failed,Music,18,7
+failed,Music,19,8
+failed,Music,20,7
+failed,Music,21,1
+failed,Music,22,3
+failed,Music,23,6
+failed,Music,24,1
+failed,Music,25,4
+failed,Music,26,4
+failed,Music,27,3
+failed,Music,28,4
+failed,Music,29,5
+failed,Music,30,2
+failed,Music,31,3
+failed,Music,32,3
+failed,Music,33,1
+failed,Music,34,1
+failed,Music,35,1
+failed,Music,36,4
+failed,Music,37,2
+failed,Music,38,2
+failed,Music,39,2
+failed,Music,42,2
+failed,Music,44,1
+failed,Music,45,2
+failed,Music,46,2
+failed,Music,49,1
+failed,Music,50,1
+failed,Music,53,1
+failed,Music,54,2
+failed,Music,56,2
+failed,Music,57,3
+failed,Music,60,1
+failed,Music,63,1
+failed,Music,66,1
+failed,Music,70,2
+failed,Music,72,1
+failed,Music,73,1
+failed,Music,76,1
+failed,Music,79,1
+failed,Music,81,1
+failed,Music,86,1
+failed,Music,98,1
+failed,Music,100,1
+failed,Music,129,1
+failed,Music,181,1
+failed,Music,1051,1
+failed,Photography,0,32
+failed,Photography,1,26
+failed,Photography,2,16
+failed,Photography,3,17
+failed,Photography,4,10
+failed,Photography,5,4
+failed,Photography,6,5
+failed,Photography,7,5
+failed,Photography,8,2
+failed,Photography,9,5
+failed,Photography,10,2
+failed,Photography,11,2
+failed,Photography,12,2
+failed,Photography,13,1
+failed,Photography,14,1
+failed,Photography,15,4
+failed,Photography,16,1
+failed,Photography,17,2
+failed,Photography,18,3
+failed,Photography,19,1
+failed,Photography,20,4
+failed,Photography,21,1
+failed,Photography,24,1
+failed,Photography,25,1
+failed,Photography,26,2
+failed,Photography,28,1
+failed,Photography,30,1
+failed,Photography,33,1
+failed,Photography,38,2
+failed,Photography,43,1
+failed,Photography,44,2
+failed,Photography,45,1
+failed,Photography,47,1
+failed,Photography,52,1
+failed,Photography,65,1
+failed,Photography,69,1
+failed,Photography,73,1
+failed,Photography,75,1
+failed,Photography,79,1
+failed,Photography,1199,1
+failed,Publishing,0,193
+failed,Publishing,1,116
+failed,Publishing,2,74
+failed,Publishing,3,50
+failed,Publishing,4,46
+failed,Publishing,5,16
+failed,Publishing,6,25
+failed,Publishing,7,19
+failed,Publishing,8,14
+failed,Publishing,9,15
+failed,Publishing,10,9
+failed,Publishing,11,12
+failed,Publishing,12,17
+failed,Publishing,13,12
+failed,Publishing,14,10
+failed,Publishing,15,4
+failed,Publishing,16,11
+failed,Publishing,17,3
+failed,Publishing,18,7
+failed,Publishing,19,3
+failed,Publishing,20,6
+failed,Publishing,21,5
+failed,Publishing,22,2
+failed,Publishing,23,3
+failed,Publishing,24,3
+failed,Publishing,25,3
+failed,Publishing,26,6
+failed,Publishing,27,4
+failed,Publishing,28,1
+failed,Publishing,29,3
+failed,Publishing,30,1
+failed,Publishing,31,3
+failed,Publishing,32,6
+failed,Publishing,33,1
+failed,Publishing,34,1
+failed,Publishing,36,1
+failed,Publishing,37,1
+failed,Publishing,39,2
+failed,Publishing,40,2
+failed,Publishing,41,2
+failed,Publishing,43,1
+failed,Publishing,45,2
+failed,Publishing,46,1
+failed,Publishing,48,1
+failed,Publishing,49,1
+failed,Publishing,51,1
+failed,Publishing,52,1
+failed,Publishing,53,2
+failed,Publishing,54,2
+failed,Publishing,55,2
+failed,Publishing,59,1
+failed,Publishing,65,2
+failed,Publishing,66,3
+failed,Publishing,67,1
+failed,Publishing,70,2
+failed,Publishing,72,2
+failed,Publishing,73,1
+failed,Publishing,77,1
+failed,Publishing,82,1
+failed,Publishing,89,1
+failed,Publishing,92,1
+failed,Publishing,93,1
+failed,Publishing,97,1
+failed,Publishing,114,1
+failed,Publishing,136,1
+failed,Publishing,148,1
+failed,Publishing,158,1
+failed,Publishing,161,1
+failed,Publishing,187,1
+failed,Publishing,192,1
+failed,Technology,0,118
+failed,Technology,1,85
+failed,Technology,2,48
+failed,Technology,3,35
+failed,Technology,4,25
+failed,Technology,5,22
+failed,Technology,6,25
+failed,Technology,7,19
+failed,Technology,8,11
+failed,Technology,9,13
+failed,Technology,10,7
+failed,Technology,11,5
+failed,Technology,12,4
+failed,Technology,13,9
+failed,Technology,14,5
+failed,Technology,15,6
+failed,Technology,16,2
+failed,Technology,17,4
+failed,Technology,18,1
+failed,Technology,19,3
+failed,Technology,20,7
+failed,Technology,21,3
+failed,Technology,22,4
+failed,Technology,23,3
+failed,Technology,24,4
+failed,Technology,25,3
+failed,Technology,26,3
+failed,Technology,27,6
+failed,Technology,28,2
+failed,Technology,29,3
+failed,Technology,30,2
+failed,Technology,31,1
+failed,Technology,32,1
+failed,Technology,34,2
+failed,Technology,35,1
+failed,Technology,37,1
+failed,Technology,39,3
+failed,Technology,40,1
+failed,Technology,43,1
+failed,Technology,44,1
+failed,Technology,45,3
+failed,Technology,46,1
+failed,Technology,47,2
+failed,Technology,48,1
+failed,Technology,50,1
+failed,Technology,51,2
+failed,Technology,52,4
+failed,Technology,54,1
+failed,Technology,55,3
+failed,Technology,57,1
+failed,Technology,58,1
+failed,Technology,63,1
+failed,Technology,64,2
+failed,Technology,67,1
+failed,Technology,68,1
+failed,Technology,69,1
+failed,Technology,72,1
+failed,Technology,73,1
+failed,Technology,82,1
+failed,Technology,86,1
+failed,Technology,88,1
+failed,Technology,95,1
+failed,Technology,99,2
+failed,Technology,103,1
+failed,Technology,105,1
+failed,Technology,106,2
+failed,Technology,117,1
+failed,Technology,127,1
+failed,Technology,139,1
+failed,Technology,149,1
+failed,Technology,151,1
+failed,Technology,169,1
+failed,Technology,170,1
+failed,Technology,176,1
+failed,Technology,177,1
+failed,Technology,196,2
+failed,Technology,217,1
+failed,Technology,256,1
+failed,Technology,318,1
+failed,Technology,331,1
+failed,Technology,388,1
+failed,Technology,413,1
+failed,Technology,489,1
+failed,Technology,515,1
+failed,Technology,542,1
+failed,Technology,573,1
+failed,Technology,739,1
+failed,Theater,0,38
+failed,Theater,1,15
+failed,Theater,2,14
+failed,Theater,3,8
+failed,Theater,4,9
+failed,Theater,5,3
+failed,Theater,6,3
+failed,Theater,7,6
+failed,Theater,8,2
+failed,Theater,9,2
+failed,Theater,10,1
+failed,Theater,11,1
+failed,Theater,12,2
+failed,Theater,13,3
+failed,Theater,14,2
+failed,Theater,15,3
+failed,Theater,16,1
+failed,Theater,17,3
+failed,Theater,18,4
+failed,Theater,19,1
+failed,Theater,20,2
+failed,Theater,21,3
+failed,Theater,25,3
+failed,Theater,28,1
+failed,Theater,30,1
+failed,Theater,32,1
+failed,Theater,33,1
+failed,Theater,34,1
+failed,Theater,37,3
+failed,Theater,40,2
+failed,Theater,44,1
+failed,Theater,45,1
+failed,Theater,46,1
+failed,Theater,74,1
+successful,Art,1,2
+successful,Art,2,5
+successful,Art,3,1
+successful,Art,4,3
+successful,Art,5,3
+successful,Art,6,5
+successful,Art,7,5
+successful,Art,8,3
+successful,Art,9,2
+successful,Art,10,4
+successful,Art,11,4
+successful,Art,12,7
+successful,Art,13,1
+successful,Art,14,5
+successful,Art,15,9
+successful,Art,16,5
+successful,Art,17,5
+successful,Art,18,7
+successful,Art,19,4
+successful,Art,20,4
+successful,Art,22,3
+successful,Art,23,3
+successful,Art,24,1
+successful,Art,25,4
+successful,Art,26,6
+successful,Art,27,6
+successful,Art,28,2
+successful,Art,29,4
+successful,Art,30,7
+successful,Art,31,6
+successful,Art,32,4
+successful,Art,33,6
+successful,Art,34,9
+successful,Art,35,1
+successful,Art,36,5
+successful,Art,37,2
+successful,Art,38,8
+successful,Art,39,5
+successful,Art,40,4
+successful,Art,41,3
+successful,Art,42,6
+successful,Art,43,4
+successful,Art,44,2
+successful,Art,45,2
+successful,Art,46,3
+successful,Art,47,1
+successful,Art,48,2
+successful,Art,49,4
+successful,Art,50,3
+successful,Art,51,4
+successful,Art,52,3
+successful,Art,53,4
+successful,Art,54,2
+successful,Art,55,3
+successful,Art,56,2
+successful,Art,58,3
+successful,Art,59,2
+successful,Art,60,2
+successful,Art,61,4
+successful,Art,62,2
+successful,Art,63,3
+successful,Art,64,3
+successful,Art,65,1
+successful,Art,66,4
+successful,Art,67,1
+successful,Art,68,2
+successful,Art,69,1
+successful,Art,70,1
+successful,Art,71,2
+successful,Art,72,2
+successful,Art,74,2
+successful,Art,75,1
+successful,Art,76,2
+successful,Art,77,1
+successful,Art,79,2
+successful,Art,80,1
+successful,Art,82,2
+successful,Art,83,2
+successful,Art,84,1
+successful,Art,85,2
+successful,Art,86,2
+successful,Art,89,3
+successful,Art,90,1
+successful,Art,92,2
+successful,Art,93,1
+successful,Art,95,1
+successful,Art,97,1
+successful,Art,99,1
+successful,Art,101,1
+successful,Art,104,1
+successful,Art,105,1
+successful,Art,106,1
+successful,Art,110,1
+successful,Art,111,1
+successful,Art,112,1
+successful,Art,115,1
+successful,Art,116,1
+successful,Art,117,2
+successful,Art,120,1
+successful,Art,122,1
+successful,Art,123,1
+successful,Art,125,2
+successful,Art,128,1
+successful,Art,129,1
+successful,Art,130,1
+successful,Art,131,2
+successful,Art,135,2
+successful,Art,137,1
+successful,Art,146,3
+successful,Art,147,1
+successful,Art,148,1
+successful,Art,149,2
+successful,Art,150,1
+successful,Art,158,1
+successful,Art,165,1
+successful,Art,166,1
+successful,Art,169,1
+successful,Art,183,1
+successful,Art,184,2
+successful,Art,187,1
+successful,Art,190,1
+successful,Art,193,1
+successful,Art,195,1
+successful,Art,213,1
+successful,Art,217,1
+successful,Art,218,1
+successful,Art,219,2
+successful,Art,225,1
+successful,Art,244,1
+successful,Art,252,1
+successful,Art,257,1
+successful,Art,263,1
+successful,Art,271,1
+successful,Art,278,1
+successful,Art,287,1
+successful,Art,294,1
+successful,Art,341,1
+successful,Art,366,1
+successful,Art,368,1
+successful,Art,379,1
+successful,Art,389,1
+successful,Art,405,1
+successful,Art,407,1
+successful,Art,426,1
+successful,Art,462,1
+successful,Art,504,1
+successful,Art,616,1
+successful,Art,678,1
+successful,Art,701,1
+successful,Art,706,1
+successful,Art,709,1
+successful,Art,745,1
+successful,Art,883,1
+successful,Art,1108,1
+successful,Art,1992,1
+successful,Comics,11,1
+successful,Comics,12,1
+successful,Comics,13,1
+successful,Comics,15,2
+successful,Comics,16,2
+successful,Comics,17,1
+successful,Comics,18,3
+successful,Comics,19,2
+successful,Comics,21,2
+successful,Comics,22,1
+successful,Comics,23,2
+successful,Comics,24,1
+successful,Comics,25,4
+successful,Comics,26,1
+successful,Comics,27,3
+successful,Comics,28,1
+successful,Comics,31,2
+successful,Comics,32,3
+successful,Comics,33,1
+successful,Comics,34,1
+successful,Comics,38,2
+successful,Comics,39,1
+successful,Comics,41,2
+successful,Comics,42,1
+successful,Comics,43,1
+successful,Comics,44,2
+successful,Comics,45,2
+successful,Comics,46,4
+successful,Comics,47,1
+successful,Comics,50,2
+successful,Comics,51,2
+successful,Comics,53,1
+successful,Comics,54,1
+successful,Comics,55,1
+successful,Comics,56,2
+successful,Comics,57,1
+successful,Comics,59,1
+successful,Comics,60,2
+successful,Comics,62,2
+successful,Comics,63,2
+successful,Comics,64,1
+successful,Comics,66,1
+successful,Comics,67,3
+successful,Comics,72,2
+successful,Comics,75,1
+successful,Comics,76,1
+successful,Comics,79,1
+successful,Comics,80,1
+successful,Comics,81,2
+successful,Comics,83,2
+successful,Comics,84,1
+successful,Comics,87,1
+successful,Comics,88,1
+successful,Comics,89,2
+successful,Comics,93,1
+successful,Comics,94,1
+successful,Comics,95,3
+successful,Comics,97,2
+successful,Comics,102,1
+successful,Comics,103,2
+successful,Comics,106,1
+successful,Comics,112,1
+successful,Comics,113,3
+successful,Comics,114,2
+successful,Comics,115,1
+successful,Comics,116,1
+successful,Comics,117,1
+successful,Comics,118,1
+successful,Comics,121,1
+successful,Comics,122,2
+successful,Comics,125,1
+successful,Comics,126,1
+successful,Comics,130,2
+successful,Comics,139,1
+successful,Comics,146,1
+successful,Comics,147,1
+successful,Comics,149,1
+successful,Comics,151,1
+successful,Comics,154,1
+successful,Comics,155,2
+successful,Comics,158,1
+successful,Comics,159,1
+successful,Comics,162,2
+successful,Comics,165,1
+successful,Comics,166,2
+successful,Comics,168,1
+successful,Comics,170,1
+successful,Comics,175,1
+successful,Comics,183,1
+successful,Comics,190,2
+successful,Comics,197,2
+successful,Comics,199,1
+successful,Comics,202,1
+successful,Comics,204,1
+successful,Comics,217,1
+successful,Comics,218,1
+successful,Comics,219,1
+successful,Comics,224,1
+successful,Comics,225,1
+successful,Comics,226,2
+successful,Comics,233,1
+successful,Comics,238,1
+successful,Comics,239,1
+successful,Comics,243,2
+successful,Comics,244,1
+successful,Comics,247,1
+successful,Comics,249,1
+successful,Comics,252,1
+successful,Comics,262,1
+successful,Comics,264,1
+successful,Comics,268,1
+successful,Comics,275,1
+successful,Comics,277,1
+successful,Comics,283,1
+successful,Comics,288,1
+successful,Comics,294,1
+successful,Comics,311,1
+successful,Comics,313,1
+successful,Comics,314,1
+successful,Comics,316,1
+successful,Comics,317,1
+successful,Comics,332,1
+successful,Comics,333,1
+successful,Comics,346,1
+successful,Comics,353,1
+successful,Comics,358,1
+successful,Comics,364,1
+successful,Comics,371,1
+successful,Comics,378,2
+successful,Comics,379,1
+successful,Comics,386,1
+successful,Comics,407,1
+successful,Comics,416,1
+successful,Comics,431,1
+successful,Comics,442,1
+successful,Comics,466,1
+successful,Comics,497,1
+successful,Comics,512,1
+successful,Comics,519,1
+successful,Comics,527,1
+successful,Comics,552,1
+successful,Comics,669,1
+successful,Comics,689,1
+successful,Comics,698,2
+successful,Comics,720,1
+successful,Comics,762,1
+successful,Comics,772,1
+successful,Comics,788,1
+successful,Comics,943,1
+successful,Comics,1419,1
+successful,Comics,1628,1
+successful,Comics,1736,1
+successful,Comics,3378,1
+successful,Comics,3851,1
+successful,Crafts,3,1
+successful,Crafts,6,1
+successful,Crafts,7,3
+successful,Crafts,8,1
+successful,Crafts,11,3
+successful,Crafts,12,2
+successful,Crafts,14,2
+successful,Crafts,15,2
+successful,Crafts,16,2
+successful,Crafts,17,1
+successful,Crafts,19,1
+successful,Crafts,20,2
+successful,Crafts,21,1
+successful,Crafts,22,2
+successful,Crafts,24,3
+successful,Crafts,26,2
+successful,Crafts,29,2
+successful,Crafts,32,1
+successful,Crafts,33,1
+successful,Crafts,34,1
+successful,Crafts,36,1
+successful,Crafts,37,2
+successful,Crafts,43,1
+successful,Crafts,45,1
+successful,Crafts,46,2
+successful,Crafts,50,1
+successful,Crafts,53,2
+successful,Crafts,58,1
+successful,Crafts,61,2
+successful,Crafts,62,1
+successful,Crafts,66,1
+successful,Crafts,74,2
+successful,Crafts,87,1
+successful,Crafts,97,1
+successful,Crafts,109,1
+successful,Crafts,114,1
+successful,Crafts,130,1
+successful,Crafts,137,1
+successful,Crafts,145,1
+successful,Crafts,162,1
+successful,Crafts,174,1
+successful,Crafts,176,1
+successful,Crafts,190,1
+successful,Crafts,203,1
+successful,Crafts,211,1
+successful,Crafts,235,1
+successful,Crafts,252,1
+successful,Crafts,278,1
+successful,Crafts,311,1
+successful,Crafts,313,1
+successful,Crafts,468,1
+successful,Crafts,668,1
+successful,Crafts,1054,1
+successful,Crafts,1203,1
+successful,Dance,7,1
+successful,Dance,10,1
+successful,Dance,11,1
+successful,Dance,13,1
+successful,Dance,16,2
+successful,Dance,18,1
+successful,Dance,20,2
+successful,Dance,21,2
+successful,Dance,22,1
+successful,Dance,25,3
+successful,Dance,26,1
+successful,Dance,28,1
+successful,Dance,30,2
+successful,Dance,32,1
+successful,Dance,33,1
+successful,Dance,37,1
+successful,Dance,38,2
+successful,Dance,40,2
+successful,Dance,42,1
+successful,Dance,43,2
+successful,Dance,46,1
+successful,Dance,48,1
+successful,Dance,49,1
+successful,Dance,51,1
+successful,Dance,55,1
+successful,Dance,58,2
+successful,Dance,59,2
+successful,Dance,61,1
+successful,Dance,63,1
+successful,Dance,66,1
+successful,Dance,68,2
+successful,Dance,69,1
+successful,Dance,70,2
+successful,Dance,72,1
+successful,Dance,73,2
+successful,Dance,75,1
+successful,Dance,77,1
+successful,Dance,78,1
+successful,Dance,85,1
+successful,Dance,89,2
+successful,Dance,96,1
+successful,Dance,98,1
+successful,Dance,99,1
+successful,Dance,107,1
+successful,Dance,108,1
+successful,Dance,121,1
+successful,Dance,128,1
+successful,Dance,158,1
+successful,Dance,177,1
+successful,Dance,179,1
+successful,Dance,182,1
+successful,Dance,187,1
+successful,Dance,318,1
+successful,Dance,611,1
+successful,Design,4,2
+successful,Design,5,1
+successful,Design,9,1
+successful,Design,10,2
+successful,Design,11,1
+successful,Design,12,3
+successful,Design,13,3
+successful,Design,15,2
+successful,Design,16,1
+successful,Design,17,1
+successful,Design,19,1
+successful,Design,20,2
+successful,Design,21,2
+successful,Design,22,1
+successful,Design,23,1
+successful,Design,24,1
+successful,Design,25,1
+successful,Design,26,1
+successful,Design,27,4
+successful,Design,28,4
+successful,Design,29,1
+successful,Design,31,1
+successful,Design,38,1
+successful,Design,39,2
+successful,Design,40,2
+successful,Design,42,1
+successful,Design,43,3
+successful,Design,44,1
+successful,Design,45,3
+successful,Design,46,1
+successful,Design,48,2
+successful,Design,49,3
+successful,Design,50,2
+successful,Design,52,1
+successful,Design,53,4
+successful,Design,54,1
+successful,Design,55,1
+successful,Design,56,1
+successful,Design,57,1
+successful,Design,59,1
+successful,Design,60,3
+successful,Design,61,1
+successful,Design,66,2
+successful,Design,67,1
+successful,Design,68,1
+successful,Design,71,1
+successful,Design,72,3
+successful,Design,73,2
+successful,Design,78,1
+successful,Design,79,1
+successful,Design,83,1
+successful,Design,85,1
+successful,Design,87,2
+successful,Design,89,1
+successful,Design,90,1
+successful,Design,91,1
+successful,Design,92,1
+successful,Design,94,2
+successful,Design,95,2
+successful,Design,97,2
+successful,Design,99,1
+successful,Design,100,2
+successful,Design,101,1
+successful,Design,103,1
+successful,Design,106,1
+successful,Design,107,1
+successful,Design,109,1
+successful,Design,110,1
+successful,Design,111,3
+successful,Design,114,2
+successful,Design,117,1
+successful,Design,120,1
+successful,Design,121,1
+successful,Design,122,2
+successful,Design,123,1
+successful,Design,124,1
+successful,Design,126,1
+successful,Design,127,2
+successful,Design,128,2
+successful,Design,129,1
+successful,Design,131,1
+successful,Design,132,2
+successful,Design,133,1
+successful,Design,134,2
+successful,Design,138,1
+successful,Design,139,1
+successful,Design,140,1
+successful,Design,141,1
+successful,Design,142,1
+successful,Design,144,1
+successful,Design,145,1
+successful,Design,147,1
+successful,Design,148,1
+successful,Design,151,1
+successful,Design,152,1
+successful,Design,156,1
+successful,Design,158,1
+successful,Design,161,1
+successful,Design,162,1
+successful,Design,164,1
+successful,Design,165,2
+successful,Design,166,1
+successful,Design,168,1
+successful,Design,170,1
+successful,Design,173,1
+successful,Design,175,1
+successful,Design,178,1
+successful,Design,182,2
+successful,Design,184,1
+successful,Design,186,1
+successful,Design,189,1
+successful,Design,194,1
+successful,Design,198,1
+successful,Design,199,2
+successful,Design,200,2
+successful,Design,204,1
+successful,Design,205,1
+successful,Design,207,1
+successful,Design,210,1
+successful,Design,212,1
+successful,Design,214,1
+successful,Design,216,1
+successful,Design,219,2
+successful,Design,220,1
+successful,Design,230,1
+successful,Design,232,2
+successful,Design,235,1
+successful,Design,238,1
+successful,Design,247,1
+successful,Design,250,1
+successful,Design,251,1
+successful,Design,252,1
+successful,Design,260,1
+successful,Design,263,1
+successful,Design,267,1
+successful,Design,269,1
+successful,Design,271,1
+successful,Design,272,1
+successful,Design,273,1
+successful,Design,274,1
+successful,Design,292,1
+successful,Design,303,1
+successful,Design,304,1
+successful,Design,305,1
+successful,Design,306,1
+successful,Design,308,1
+successful,Design,313,1
+successful,Design,334,1
+successful,Design,338,1
+successful,Design,340,1
+successful,Design,345,1
+successful,Design,348,1
+successful,Design,351,2
+successful,Design,352,1
+successful,Design,356,1
+successful,Design,362,1
+successful,Design,371,1
+successful,Design,372,1
+successful,Design,376,1
+successful,Design,386,1
+successful,Design,393,1
+successful,Design,397,3
+successful,Design,401,1
+successful,Design,407,1
+successful,Design,411,1
+successful,Design,420,1
+successful,Design,423,1
+successful,Design,434,1
+successful,Design,436,1
+successful,Design,439,1
+successful,Design,444,1
+successful,Design,447,1
+successful,Design,448,1
+successful,Design,451,1
+successful,Design,453,1
+successful,Design,454,1
+successful,Design,472,1
+successful,Design,474,1
+successful,Design,479,1
+successful,Design,502,1
+successful,Design,504,1
+successful,Design,525,2
+successful,Design,547,1
+successful,Design,555,1
+successful,Design,563,2
+successful,Design,582,1
+successful,Design,590,2
+successful,Design,592,1
+successful,Design,599,1
+successful,Design,600,1
+successful,Design,610,1
+successful,Design,628,1
+successful,Design,642,1
+successful,Design,663,1
+successful,Design,681,1
+successful,Design,691,1
+successful,Design,705,1
+successful,Design,709,1
+successful,Design,732,1
+successful,Design,734,1
+successful,Design,818,1
+successful,Design,829,1
+successful,Design,851,1
+successful,Design,859,1
+successful,Design,863,1
+successful,Design,921,1
+successful,Design,934,1
+successful,Design,938,1
+successful,Design,946,1
+successful,Design,959,1
+successful,Design,1020,1
+successful,Design,1061,1
+successful,Design,1159,2
+successful,Design,1161,1
+successful,Design,1162,1
+successful,Design,1163,1
+successful,Design,1165,1
+successful,Design,1166,1
+successful,Design,1184,1
+successful,Design,1188,1
+successful,Design,1212,1
+successful,Design,1257,1
+successful,Design,1287,1
+successful,Design,1298,1
+successful,Design,1315,1
+successful,Design,1317,1
+successful,Design,1343,1
+successful,Design,1465,1
+successful,Design,1466,1
+successful,Design,1483,1
+successful,Design,1526,1
+successful,Design,1601,1
+successful,Design,1704,1
+successful,Design,1718,1
+successful,Design,1740,1
+successful,Design,1756,1
+successful,Design,1782,1
+successful,Design,1967,1
+successful,Design,2022,1
+successful,Design,2023,1
+successful,Design,2048,1
+successful,Design,2190,1
+successful,Design,2358,1
+successful,Design,2396,1
+successful,Design,3015,1
+successful,Design,3023,1
+successful,Design,3141,1
+successful,Design,3674,1
+successful,Design,3710,1
+successful,Design,3797,1
+successful,Design,3915,1
+successful,Fashion,2,2
+successful,Fashion,5,2
+successful,Fashion,8,2
+successful,Fashion,11,1
+successful,Fashion,12,1
+successful,Fashion,13,2
+successful,Fashion,15,2
+successful,Fashion,16,4
+successful,Fashion,17,2
+successful,Fashion,18,2
+successful,Fashion,19,3
+successful,Fashion,21,3
+successful,Fashion,23,2
+successful,Fashion,24,2
+successful,Fashion,26,1
+successful,Fashion,27,2
+successful,Fashion,28,1
+successful,Fashion,29,1
+successful,Fashion,31,1
+successful,Fashion,32,3
+successful,Fashion,33,1
+successful,Fashion,34,1
+successful,Fashion,35,3
+successful,Fashion,37,1
+successful,Fashion,39,1
+successful,Fashion,40,1
+successful,Fashion,41,1
+successful,Fashion,42,1
+successful,Fashion,43,1
+successful,Fashion,44,1
+successful,Fashion,48,1
+successful,Fashion,52,1
+successful,Fashion,54,2
+successful,Fashion,55,1
+successful,Fashion,56,1
+successful,Fashion,60,1
+successful,Fashion,61,1
+successful,Fashion,64,2
+successful,Fashion,67,1
+successful,Fashion,68,2
+successful,Fashion,72,1
+successful,Fashion,74,1
+successful,Fashion,77,2
+successful,Fashion,79,1
+successful,Fashion,80,2
+successful,Fashion,81,1
+successful,Fashion,83,1
+successful,Fashion,85,1
+successful,Fashion,89,2
+successful,Fashion,90,1
+successful,Fashion,94,1
+successful,Fashion,96,1
+successful,Fashion,97,1
+successful,Fashion,98,3
+successful,Fashion,101,3
+successful,Fashion,102,1
+successful,Fashion,105,1
+successful,Fashion,107,1
+successful,Fashion,108,1
+successful,Fashion,109,1
+successful,Fashion,110,1
+successful,Fashion,117,1
+successful,Fashion,119,1
+successful,Fashion,120,3
+successful,Fashion,121,1
+successful,Fashion,123,1
+successful,Fashion,125,1
+successful,Fashion,126,1
+successful,Fashion,128,2
+successful,Fashion,133,1
+successful,Fashion,139,1
+successful,Fashion,153,1
+successful,Fashion,155,1
+successful,Fashion,158,1
+successful,Fashion,164,1
+successful,Fashion,169,1
+successful,Fashion,177,1
+successful,Fashion,178,1
+successful,Fashion,180,1
+successful,Fashion,181,2
+successful,Fashion,182,1
+successful,Fashion,187,1
+successful,Fashion,189,1
+successful,Fashion,194,1
+successful,Fashion,209,1
+successful,Fashion,212,1
+successful,Fashion,213,1
+successful,Fashion,214,1
+successful,Fashion,218,1
+successful,Fashion,226,1
+successful,Fashion,229,1
+successful,Fashion,231,1
+successful,Fashion,249,1
+successful,Fashion,253,1
+successful,Fashion,256,1
+successful,Fashion,265,1
+successful,Fashion,274,1
+successful,Fashion,276,1
+successful,Fashion,285,1
+successful,Fashion,292,1
+successful,Fashion,306,1
+successful,Fashion,323,1
+successful,Fashion,329,1
+successful,Fashion,403,1
+successful,Fashion,441,1
+successful,Fashion,463,1
+successful,Fashion,505,1
+successful,Fashion,565,1
+successful,Fashion,634,1
+successful,Fashion,653,1
+successful,Fashion,661,1
+successful,Fashion,699,1
+successful,Fashion,735,1
+successful,Fashion,759,1
+successful,Fashion,839,1
+successful,Fashion,901,1
+successful,Fashion,929,1
+successful,Fashion,1017,1
+successful,Fashion,1220,1
+successful,Fashion,1596,1
+successful,Fashion,2442,1
+successful,Fashion,3218,1
+successful,"Film & Video",0,2
+successful,"Film & Video",1,2
+successful,"Film & Video",3,1
+successful,"Film & Video",4,1
+successful,"Film & Video",5,4
+successful,"Film & Video",6,3
+successful,"Film & Video",7,3
+successful,"Film & Video",8,9
+successful,"Film & Video",9,2
+successful,"Film & Video",10,10
+successful,"Film & Video",11,12
+successful,"Film & Video",12,10
+successful,"Film & Video",13,16
+successful,"Film & Video",14,6
+successful,"Film & Video",15,6
+successful,"Film & Video",16,6
+successful,"Film & Video",17,8
+successful,"Film & Video",18,6
+successful,"Film & Video",19,11
+successful,"Film & Video",20,10
+successful,"Film & Video",21,15
+successful,"Film & Video",22,9
+successful,"Film & Video",23,9
+successful,"Film & Video",24,8
+successful,"Film & Video",25,8
+successful,"Film & Video",26,6
+successful,"Film & Video",27,11
+successful,"Film & Video",28,9
+successful,"Film & Video",29,8
+successful,"Film & Video",30,4
+successful,"Film & Video",31,9
+successful,"Film & Video",32,8
+successful,"Film & Video",33,8
+successful,"Film & Video",34,7
+successful,"Film & Video",35,6
+successful,"Film & Video",36,7
+successful,"Film & Video",37,6
+successful,"Film & Video",38,6
+successful,"Film & Video",39,6
+successful,"Film & Video",40,13
+successful,"Film & Video",41,7
+successful,"Film & Video",42,7
+successful,"Film & Video",43,10
+successful,"Film & Video",44,5
+successful,"Film & Video",45,4
+successful,"Film & Video",46,6
+successful,"Film & Video",47,3
+successful,"Film & Video",48,8
+successful,"Film & Video",49,11
+successful,"Film & Video",50,4
+successful,"Film & Video",51,9
+successful,"Film & Video",52,5
+successful,"Film & Video",53,4
+successful,"Film & Video",54,6
+successful,"Film & Video",55,5
+successful,"Film & Video",56,4
+successful,"Film & Video",57,3
+successful,"Film & Video",58,3
+successful,"Film & Video",59,8
+successful,"Film & Video",60,3
+successful,"Film & Video",61,5
+successful,"Film & Video",62,2
+successful,"Film & Video",63,3
+successful,"Film & Video",64,6
+successful,"Film & Video",65,6
+successful,"Film & Video",66,7
+successful,"Film & Video",67,5
+successful,"Film & Video",68,8
+successful,"Film & Video",69,4
+successful,"Film & Video",70,4
+successful,"Film & Video",71,2
+successful,"Film & Video",72,5
+successful,"Film & Video",73,3
+successful,"Film & Video",74,5
+successful,"Film & Video",75,4
+successful,"Film & Video",76,4
+successful,"Film & Video",77,6
+successful,"Film & Video",78,1
+successful,"Film & Video",79,5
+successful,"Film & Video",80,3
+successful,"Film & Video",81,6
+successful,"Film & Video",82,2
+successful,"Film & Video",83,2
+successful,"Film & Video",84,3
+successful,"Film & Video",85,4
+successful,"Film & Video",86,1
+successful,"Film & Video",87,3
+successful,"Film & Video",88,5
+successful,"Film & Video",89,3
+successful,"Film & Video",90,1
+successful,"Film & Video",92,3
+successful,"Film & Video",93,5
+successful,"Film & Video",94,1
+successful,"Film & Video",95,2
+successful,"Film & Video",96,2
+successful,"Film & Video",97,1
+successful,"Film & Video",99,3
+successful,"Film & Video",101,1
+successful,"Film & Video",102,3
+successful,"Film & Video",103,2
+successful,"Film & Video",104,4
+successful,"Film & Video",105,2
+successful,"Film & Video",107,6
+successful,"Film & Video",108,2
+successful,"Film & Video",109,1
+successful,"Film & Video",110,4
+successful,"Film & Video",111,2
+successful,"Film & Video",112,1
+successful,"Film & Video",114,2
+successful,"Film & Video",115,2
+successful,"Film & Video",116,1
+successful,"Film & Video",117,1
+successful,"Film & Video",119,2
+successful,"Film & Video",120,1
+successful,"Film & Video",121,3
+successful,"Film & Video",122,2
+successful,"Film & Video",123,1
+successful,"Film & Video",124,1
+successful,"Film & Video",125,1
+successful,"Film & Video",126,5
+successful,"Film & Video",129,4
+successful,"Film & Video",130,2
+successful,"Film & Video",131,3
+successful,"Film & Video",132,1
+successful,"Film & Video",136,2
+successful,"Film & Video",138,2
+successful,"Film & Video",139,1
+successful,"Film & Video",140,1
+successful,"Film & Video",142,1
+successful,"Film & Video",144,2
+successful,"Film & Video",145,1
+successful,"Film & Video",147,2
+successful,"Film & Video",148,5
+successful,"Film & Video",149,2
+successful,"Film & Video",150,1
+successful,"Film & Video",151,3
+successful,"Film & Video",153,1
+successful,"Film & Video",154,1
+successful,"Film & Video",155,3
+successful,"Film & Video",157,1
+successful,"Film & Video",158,1
+successful,"Film & Video",160,1
+successful,"Film & Video",161,4
+successful,"Film & Video",163,2
+successful,"Film & Video",164,2
+successful,"Film & Video",166,1
+successful,"Film & Video",167,1
+successful,"Film & Video",168,2
+successful,"Film & Video",169,1
+successful,"Film & Video",170,3
+successful,"Film & Video",172,2
+successful,"Film & Video",176,1
+successful,"Film & Video",177,1
+successful,"Film & Video",178,2
+successful,"Film & Video",179,1
+successful,"Film & Video",180,1
+successful,"Film & Video",181,1
+successful,"Film & Video",182,1
+successful,"Film & Video",183,2
+successful,"Film & Video",184,1
+successful,"Film & Video",187,3
+successful,"Film & Video",188,1
+successful,"Film & Video",189,2
+successful,"Film & Video",192,2
+successful,"Film & Video",195,1
+successful,"Film & Video",196,1
+successful,"Film & Video",197,1
+successful,"Film & Video",201,1
+successful,"Film & Video",203,1
+successful,"Film & Video",205,1
+successful,"Film & Video",206,2
+successful,"Film & Video",207,1
+successful,"Film & Video",209,2
+successful,"Film & Video",210,1
+successful,"Film & Video",214,1
+successful,"Film & Video",216,1
+successful,"Film & Video",217,1
+successful,"Film & Video",218,1
+successful,"Film & Video",219,1
+successful,"Film & Video",220,1
+successful,"Film & Video",221,3
+successful,"Film & Video",224,1
+successful,"Film & Video",225,1
+successful,"Film & Video",228,1
+successful,"Film & Video",230,1
+successful,"Film & Video",233,1
+successful,"Film & Video",235,1
+successful,"Film & Video",236,1
+successful,"Film & Video",238,2
+successful,"Film & Video",240,1
+successful,"Film & Video",246,1
+successful,"Film & Video",247,1
+successful,"Film & Video",251,1
+successful,"Film & Video",252,1
+successful,"Film & Video",255,1
+successful,"Film & Video",260,1
+successful,"Film & Video",261,2
+successful,"Film & Video",262,1
+successful,"Film & Video",264,1
+successful,"Film & Video",266,1
+successful,"Film & Video",267,1
+successful,"Film & Video",269,2
+successful,"Film & Video",270,1
+successful,"Film & Video",271,1
+successful,"Film & Video",272,1
+successful,"Film & Video",274,1
+successful,"Film & Video",277,1
+successful,"Film & Video",282,1
+successful,"Film & Video",286,1
+successful,"Film & Video",298,1
+successful,"Film & Video",305,1
+successful,"Film & Video",307,1
+successful,"Film & Video",311,1
+successful,"Film & Video",312,1
+successful,"Film & Video",314,1
+successful,"Film & Video",316,1
+successful,"Film & Video",323,1
+successful,"Film & Video",333,1
+successful,"Film & Video",335,1
+successful,"Film & Video",344,1
+successful,"Film & Video",350,2
+successful,"Film & Video",367,1
+successful,"Film & Video",375,1
+successful,"Film & Video",379,1
+successful,"Film & Video",381,1
+successful,"Film & Video",387,1
+successful,"Film & Video",394,1
+successful,"Film & Video",395,1
+successful,"Film & Video",406,1
+successful,"Film & Video",416,1
+successful,"Film & Video",419,1
+successful,"Film & Video",420,1
+successful,"Film & Video",435,1
+successful,"Film & Video",439,1
+successful,"Film & Video",451,1
+successful,"Film & Video",458,1
+successful,"Film & Video",478,1
+successful,"Film & Video",483,1
+successful,"Film & Video",498,1
+successful,"Film & Video",501,1
+successful,"Film & Video",512,1
+successful,"Film & Video",524,1
+successful,"Film & Video",540,1
+successful,"Film & Video",545,1
+successful,"Film & Video",555,1
+successful,"Film & Video",557,1
+successful,"Film & Video",560,1
+successful,"Film & Video",563,1
+successful,"Film & Video",581,1
+successful,"Film & Video",589,1
+successful,"Film & Video",603,1
+successful,"Film & Video",604,1
+successful,"Film & Video",638,1
+successful,"Film & Video",642,2
+successful,"Film & Video",658,1
+successful,"Film & Video",668,1
+successful,"Film & Video",690,1
+successful,"Film & Video",694,1
+successful,"Film & Video",708,1
+successful,"Film & Video",714,1
+successful,"Film & Video",740,1
+successful,"Film & Video",776,1
+successful,"Film & Video",789,1
+successful,"Film & Video",793,1
+successful,"Film & Video",839,1
+successful,"Film & Video",914,1
+successful,"Film & Video",966,1
+successful,"Film & Video",980,1
+successful,"Film & Video",1134,1
+successful,"Film & Video",1151,1
+successful,"Film & Video",1358,1
+successful,"Film & Video",1359,1
+successful,"Film & Video",1509,1
+successful,"Film & Video",1519,1
+successful,"Film & Video",1571,1
+successful,"Film & Video",2348,1
+successful,"Film & Video",2356,1
+successful,"Film & Video",2417,1
+successful,"Film & Video",2523,1
+successful,"Film & Video",2709,1
+successful,"Film & Video",3169,1
+successful,"Film & Video",3294,1
+successful,Food,1,1
+successful,Food,2,3
+successful,Food,3,1
+successful,Food,4,1
+successful,Food,5,3
+successful,Food,8,2
+successful,Food,10,1
+successful,Food,11,1
+successful,Food,12,2
+successful,Food,13,2
+successful,Food,14,3
+successful,Food,15,1
+successful,Food,16,1
+successful,Food,17,1
+successful,Food,19,1
+successful,Food,20,3
+successful,Food,21,5
+successful,Food,25,1
+successful,Food,26,1
+successful,Food,27,3
+successful,Food,28,2
+successful,Food,29,1
+successful,Food,31,1
+successful,Food,34,2
+successful,Food,35,2
+successful,Food,36,2
+successful,Food,37,2
+successful,Food,38,1
+successful,Food,39,1
+successful,Food,40,1
+successful,Food,43,1
+successful,Food,44,3
+successful,Food,46,2
+successful,Food,47,2
+successful,Food,48,2
+successful,Food,49,1
+successful,Food,51,2
+successful,Food,53,2
+successful,Food,54,2
+successful,Food,55,1
+successful,Food,56,2
+successful,Food,58,2
+successful,Food,60,1
+successful,Food,61,2
+successful,Food,62,2
+successful,Food,64,1
+successful,Food,66,3
+successful,Food,67,2
+successful,Food,68,2
+successful,Food,69,1
+successful,Food,71,2
+successful,Food,72,4
+successful,Food,76,2
+successful,Food,79,2
+successful,Food,80,1
+successful,Food,81,2
+successful,Food,82,1
+successful,Food,84,1
+successful,Food,87,1
+successful,Food,90,2
+successful,Food,91,2
+successful,Food,93,1
+successful,Food,94,1
+successful,Food,95,1
+successful,Food,97,4
+successful,Food,99,1
+successful,Food,101,1
+successful,Food,104,2
+successful,Food,105,2
+successful,Food,107,1
+successful,Food,109,1
+successful,Food,110,1
+successful,Food,112,1
+successful,Food,115,3
+successful,Food,116,2
+successful,Food,117,1
+successful,Food,118,1
+successful,Food,120,2
+successful,Food,121,1
+successful,Food,122,1
+successful,Food,123,1
+successful,Food,125,1
+successful,Food,126,1
+successful,Food,127,1
+successful,Food,128,1
+successful,Food,129,1
+successful,Food,130,3
+successful,Food,136,2
+successful,Food,138,1
+successful,Food,139,1
+successful,Food,140,2
+successful,Food,142,1
+successful,Food,145,1
+successful,Food,150,1
+successful,Food,151,2
+successful,Food,152,2
+successful,Food,153,1
+successful,Food,154,1
+successful,Food,155,1
+successful,Food,156,1
+successful,Food,157,2
+successful,Food,158,1
+successful,Food,159,1
+successful,Food,162,1
+successful,Food,163,1
+successful,Food,169,1
+successful,Food,171,1
+successful,Food,172,1
+successful,Food,174,1
+successful,Food,177,1
+successful,Food,179,2
+successful,Food,183,1
+successful,Food,184,1
+successful,Food,186,1
+successful,Food,187,1
+successful,Food,189,1
+successful,Food,191,1
+successful,Food,193,1
+successful,Food,201,1
+successful,Food,203,1
+successful,Food,206,3
+successful,Food,208,1
+successful,Food,210,1
+successful,Food,211,1
+successful,Food,213,1
+successful,Food,214,2
+successful,Food,215,1
+successful,Food,218,1
+successful,Food,220,1
+successful,Food,221,1
+successful,Food,226,1
+successful,Food,234,1
+successful,Food,236,1
+successful,Food,244,1
+successful,Food,258,1
+successful,Food,267,1
+successful,Food,278,1
+successful,Food,280,1
+successful,Food,288,1
+successful,Food,309,1
+successful,Food,323,1
+successful,Food,325,1
+successful,Food,333,1
+successful,Food,339,1
+successful,Food,407,1
+successful,Food,515,1
+successful,Food,529,1
+successful,Food,538,1
+successful,Food,631,1
+successful,Food,866,1
+successful,Food,887,1
+successful,Food,1240,1
+successful,Food,1268,1
+successful,Food,1334,1
+successful,Food,1578,1
+successful,Food,2784,1
+successful,Games,1,1
+successful,Games,4,2
+successful,Games,7,3
+successful,Games,8,1
+successful,Games,9,3
+successful,Games,10,1
+successful,Games,15,1
+successful,Games,16,1
+successful,Games,19,1
+successful,Games,20,2
+successful,Games,21,1
+successful,Games,22,2
+successful,Games,23,3
+successful,Games,24,2
+successful,Games,25,1
+successful,Games,26,2
+successful,Games,28,1
+successful,Games,29,2
+successful,Games,30,3
+successful,Games,31,1
+successful,Games,33,2
+successful,Games,34,2
+successful,Games,35,5
+successful,Games,36,1
+successful,Games,37,2
+successful,Games,39,1
+successful,Games,40,4
+successful,Games,41,1
+successful,Games,42,2
+successful,Games,43,2
+successful,Games,44,2
+successful,Games,45,1
+successful,Games,46,1
+successful,Games,47,1
+successful,Games,48,3
+successful,Games,50,1
+successful,Games,52,1
+successful,Games,53,1
+successful,Games,54,1
+successful,Games,55,1
+successful,Games,56,1
+successful,Games,57,2
+successful,Games,60,3
+successful,Games,61,2
+successful,Games,62,3
+successful,Games,63,1
+successful,Games,65,2
+successful,Games,67,1
+successful,Games,70,1
+successful,Games,71,2
+successful,Games,76,1
+successful,Games,77,1
+successful,Games,78,2
+successful,Games,80,1
+successful,Games,84,1
+successful,Games,85,2
+successful,Games,86,2
+successful,Games,87,1
+successful,Games,89,2
+successful,Games,93,1
+successful,Games,97,1
+successful,Games,99,2
+successful,Games,101,2
+successful,Games,103,1
+successful,Games,104,1
+successful,Games,106,1
+successful,Games,108,2
+successful,Games,111,1
+successful,Games,114,1
+successful,Games,117,1
+successful,Games,120,2
+successful,Games,123,1
+successful,Games,124,1
+successful,Games,125,1
+successful,Games,126,1
+successful,Games,127,1
+successful,Games,128,1
+successful,Games,129,1
+successful,Games,130,1
+successful,Games,131,2
+successful,Games,135,2
+successful,Games,138,1
+successful,Games,140,1
+successful,Games,143,1
+successful,Games,146,1
+successful,Games,147,1
+successful,Games,149,2
+successful,Games,152,1
+successful,Games,155,2
+successful,Games,156,1
+successful,Games,162,2
+successful,Games,164,1
+successful,Games,168,1
+successful,Games,172,1
+successful,Games,173,1
+successful,Games,174,1
+successful,Games,176,1
+successful,Games,177,1
+successful,Games,178,1
+successful,Games,184,1
+successful,Games,185,1
+successful,Games,188,1
+successful,Games,193,1
+successful,Games,196,1
+successful,Games,197,1
+successful,Games,198,2
+successful,Games,199,2
+successful,Games,200,1
+successful,Games,201,1
+successful,Games,203,1
+successful,Games,206,1
+successful,Games,209,2
+successful,Games,213,2
+successful,Games,214,1
+successful,Games,215,1
+successful,Games,216,1
+successful,Games,218,1
+successful,Games,221,3
+successful,Games,222,1
+successful,Games,229,1
+successful,Games,235,1
+successful,Games,236,2
+successful,Games,238,1
+successful,Games,242,1
+successful,Games,243,1
+successful,Games,246,1
+successful,Games,254,1
+successful,Games,259,1
+successful,Games,262,2
+successful,Games,265,1
+successful,Games,269,1
+successful,Games,270,2
+successful,Games,272,1
+successful,Games,278,1
+successful,Games,280,1
+successful,Games,283,2
+successful,Games,284,1
+successful,Games,285,1
+successful,Games,290,1
+successful,Games,291,1
+successful,Games,296,1
+successful,Games,298,1
+successful,Games,299,1
+successful,Games,306,1
+successful,Games,320,1
+successful,Games,326,1
+successful,Games,327,1
+successful,Games,328,2
+successful,Games,333,1
+successful,Games,335,1
+successful,Games,336,1
+successful,Games,337,1
+successful,Games,340,1
+successful,Games,343,1
+successful,Games,344,1
+successful,Games,352,2
+successful,Games,353,1
+successful,Games,355,1
+successful,Games,356,2
+successful,Games,357,1
+successful,Games,385,1
+successful,Games,386,1
+successful,Games,387,1
+successful,Games,391,1
+successful,Games,392,1
+successful,Games,394,2
+successful,Games,403,1
+successful,Games,406,1
+successful,Games,416,1
+successful,Games,420,1
+successful,Games,427,1
+successful,Games,442,1
+successful,Games,445,1
+successful,Games,461,1
+successful,Games,469,1
+successful,Games,471,1
+successful,Games,473,1
+successful,Games,487,1
+successful,Games,491,1
+successful,Games,494,1
+successful,Games,499,1
+successful,Games,500,1
+successful,Games,504,1
+successful,Games,505,1
+successful,Games,542,1
+successful,Games,566,1
+successful,Games,572,2
+successful,Games,585,1
+successful,Games,597,1
+successful,Games,603,1
+successful,Games,604,1
+successful,Games,606,1
+successful,Games,619,1
+successful,Games,621,1
+successful,Games,640,1
+successful,Games,670,1
+successful,Games,677,1
+successful,Games,679,1
+successful,Games,681,1
+successful,Games,685,1
+successful,Games,692,1
+successful,Games,696,1
+successful,Games,697,1
+successful,Games,699,1
+successful,Games,702,1
+successful,Games,707,1
+successful,Games,713,1
+successful,Games,747,1
+successful,Games,765,1
+successful,Games,805,1
+successful,Games,811,1
+successful,Games,814,1
+successful,Games,822,1
+successful,Games,826,1
+successful,Games,827,1
+successful,Games,854,1
+successful,Games,879,1
+successful,Games,892,1
+successful,Games,903,1
+successful,Games,916,1
+successful,Games,931,1
+successful,Games,942,1
+successful,Games,957,1
+successful,Games,963,1
+successful,Games,965,1
+successful,Games,977,1
+successful,Games,1014,1
+successful,Games,1034,1
+successful,Games,1100,1
+successful,Games,1105,1
+successful,Games,1106,1
+successful,Games,1124,1
+successful,Games,1183,1
+successful,Games,1216,1
+successful,Games,1265,1
+successful,Games,1272,1
+successful,Games,1410,1
+successful,Games,1433,1
+successful,Games,1546,1
+successful,Games,1591,1
+successful,Games,1623,1
+successful,Games,1625,1
+successful,Games,1644,1
+successful,Games,1679,1
+successful,Games,1768,1
+successful,Games,1825,1
+successful,Games,1880,1
+successful,Games,1994,1
+successful,Games,2045,1
+successful,Games,2109,1
+successful,Games,2127,1
+successful,Games,2489,1
+successful,Games,2726,1
+successful,Games,2858,1
+successful,Games,2994,1
+successful,Games,3028,1
+successful,Games,3293,1
+successful,Games,3725,1
+successful,Games,3768,1
+successful,Journalism,5,1
+successful,Journalism,20,1
+successful,Journalism,21,1
+successful,Journalism,24,1
+successful,Journalism,27,1
+successful,Journalism,28,1
+successful,Journalism,30,1
+successful,Journalism,35,2
+successful,Journalism,37,1
+successful,Journalism,41,1
+successful,Journalism,46,1
+successful,Journalism,52,1
+successful,Journalism,54,1
+successful,Journalism,58,1
+successful,Journalism,72,1
+successful,Journalism,105,1
+successful,Journalism,123,1
+successful,Journalism,132,1
+successful,Journalism,145,1
+successful,Journalism,175,1
+successful,Journalism,542,1
+successful,Journalism,584,1
+successful,Journalism,626,1
+successful,Journalism,1015,1
+successful,Journalism,1312,1
+successful,Music,0,2
+successful,Music,1,1
+successful,Music,2,1
+successful,Music,3,1
+successful,Music,4,3
+successful,Music,5,2
+successful,Music,6,7
+successful,Music,7,3
+successful,Music,8,4
+successful,Music,9,7
+successful,Music,10,3
+successful,Music,11,3
+successful,Music,12,8
+successful,Music,13,7
+successful,Music,14,6
+successful,Music,15,9
+successful,Music,16,9
+successful,Music,17,10
+successful,Music,18,13
+successful,Music,19,13
+successful,Music,20,11
+successful,Music,21,4
+successful,Music,22,4
+successful,Music,23,9
+successful,Music,24,4
+successful,Music,25,8
+successful,Music,26,9
+successful,Music,27,13
+successful,Music,28,8
+successful,Music,29,8
+successful,Music,30,11
+successful,Music,31,7
+successful,Music,32,11
+successful,Music,33,4
+successful,Music,34,12
+successful,Music,35,10
+successful,Music,36,11
+successful,Music,37,7
+successful,Music,38,9
+successful,Music,39,10
+successful,Music,40,10
+successful,Music,41,8
+successful,Music,42,6
+successful,Music,43,8
+successful,Music,44,9
+successful,Music,45,7
+successful,Music,46,8
+successful,Music,47,7
+successful,Music,48,11
+successful,Music,49,6
+successful,Music,50,12
+successful,Music,51,6
+successful,Music,52,4
+successful,Music,53,6
+successful,Music,54,7
+successful,Music,55,10
+successful,Music,56,6
+successful,Music,57,6
+successful,Music,58,10
+successful,Music,59,8
+successful,Music,60,8
+successful,Music,61,7
+successful,Music,62,7
+successful,Music,63,8
+successful,Music,64,4
+successful,Music,65,9
+successful,Music,66,8
+successful,Music,67,6
+successful,Music,68,5
+successful,Music,69,3
+successful,Music,70,8
+successful,Music,71,6
+successful,Music,72,6
+successful,Music,73,6
+successful,Music,74,9
+successful,Music,75,7
+successful,Music,76,4
+successful,Music,77,5
+successful,Music,78,7
+successful,Music,79,3
+successful,Music,80,2
+successful,Music,81,9
+successful,Music,82,6
+successful,Music,83,3
+successful,Music,84,1
+successful,Music,85,8
+successful,Music,86,5
+successful,Music,87,2
+successful,Music,88,2
+successful,Music,89,3
+successful,Music,90,3
+successful,Music,91,2
+successful,Music,92,3
+successful,Music,93,3
+successful,Music,94,5
+successful,Music,95,1
+successful,Music,96,3
+successful,Music,97,4
+successful,Music,98,2
+successful,Music,99,3
+successful,Music,100,8
+successful,Music,101,1
+successful,Music,102,6
+successful,Music,103,2
+successful,Music,104,5
+successful,Music,105,2
+successful,Music,106,3
+successful,Music,107,2
+successful,Music,108,1
+successful,Music,109,6
+successful,Music,110,3
+successful,Music,111,4
+successful,Music,113,5
+successful,Music,114,5
+successful,Music,115,2
+successful,Music,117,3
+successful,Music,118,4
+successful,Music,119,2
+successful,Music,120,2
+successful,Music,121,2
+successful,Music,122,2
+successful,Music,123,2
+successful,Music,124,5
+successful,Music,125,2
+successful,Music,126,2
+successful,Music,127,2
+successful,Music,128,1
+successful,Music,129,1
+successful,Music,130,5
+successful,Music,131,2
+successful,Music,132,3
+successful,Music,133,2
+successful,Music,135,2
+successful,Music,136,3
+successful,Music,137,1
+successful,Music,138,3
+successful,Music,139,2
+successful,Music,140,2
+successful,Music,142,1
+successful,Music,144,1
+successful,Music,145,1
+successful,Music,147,1
+successful,Music,148,3
+successful,Music,149,2
+successful,Music,151,2
+successful,Music,152,1
+successful,Music,153,3
+successful,Music,155,4
+successful,Music,156,1
+successful,Music,158,2
+successful,Music,159,2
+successful,Music,160,1
+successful,Music,161,5
+successful,Music,162,2
+successful,Music,163,2
+successful,Music,166,1
+successful,Music,167,1
+successful,Music,169,2
+successful,Music,170,2
+successful,Music,171,2
+successful,Music,174,1
+successful,Music,175,1
+successful,Music,177,2
+successful,Music,178,2
+successful,Music,180,2
+successful,Music,185,1
+successful,Music,186,1
+successful,Music,187,1
+successful,Music,189,2
+successful,Music,191,1
+successful,Music,193,1
+successful,Music,194,1
+successful,Music,196,2
+successful,Music,199,1
+successful,Music,200,1
+successful,Music,202,2
+successful,Music,203,1
+successful,Music,205,1
+successful,Music,206,1
+successful,Music,208,2
+successful,Music,212,1
+successful,Music,216,1
+successful,Music,217,1
+successful,Music,220,1
+successful,Music,221,1
+successful,Music,222,1
+successful,Music,224,2
+successful,Music,225,1
+successful,Music,226,2
+successful,Music,227,1
+successful,Music,228,1
+successful,Music,232,2
+successful,Music,246,1
+successful,Music,252,1
+successful,Music,255,1
+successful,Music,259,1
+successful,Music,260,1
+successful,Music,261,1
+successful,Music,263,1
+successful,Music,273,2
+successful,Music,274,1
+successful,Music,279,1
+successful,Music,287,1
+successful,Music,293,1
+successful,Music,294,1
+successful,Music,295,1
+successful,Music,308,1
+successful,Music,309,1
+successful,Music,312,2
+successful,Music,321,1
+successful,Music,338,1
+successful,Music,344,1
+successful,Music,362,1
+successful,Music,369,1
+successful,Music,390,1
+successful,Music,398,1
+successful,Music,401,1
+successful,Music,415,1
+successful,Music,429,1
+successful,Music,459,1
+successful,Music,460,1
+successful,Music,469,1
+successful,Music,497,1
+successful,Music,524,1
+successful,Music,572,1
+successful,Music,589,1
+successful,Music,637,1
+successful,Music,644,1
+successful,Music,859,1
+successful,Music,860,1
+successful,Music,892,1
+successful,Music,927,1
+successful,Music,1017,1
+successful,Music,1169,1
+successful,Music,1178,1
+successful,Music,1435,1
+successful,Music,1829,1
+successful,Music,1862,1
+successful,Music,1981,1
+successful,Music,2409,1
+successful,Music,3277,1
+successful,Photography,1,2
+successful,Photography,2,1
+successful,Photography,5,1
+successful,Photography,7,4
+successful,Photography,8,1
+successful,Photography,9,1
+successful,Photography,11,1
+successful,Photography,13,1
+successful,Photography,14,1
+successful,Photography,15,2
+successful,Photography,17,1
+successful,Photography,19,1
+successful,Photography,21,1
+successful,Photography,22,1
+successful,Photography,23,2
+successful,Photography,26,1
+successful,Photography,28,2
+successful,Photography,29,3
+successful,Photography,31,2
+successful,Photography,32,2
+successful,Photography,33,2
+successful,Photography,35,1
+successful,Photography,36,2
+successful,Photography,37,2
+successful,Photography,38,1
+successful,Photography,41,1
+successful,Photography,42,1
+successful,Photography,44,2
+successful,Photography,45,2
+successful,Photography,48,3
+successful,Photography,49,1
+successful,Photography,51,1
+successful,Photography,57,2
+successful,Photography,58,3
+successful,Photography,60,2
+successful,Photography,63,1
+successful,Photography,65,1
+successful,Photography,66,1
+successful,Photography,67,2
+successful,Photography,68,1
+successful,Photography,70,1
+successful,Photography,71,1
+successful,Photography,73,2
+successful,Photography,74,1
+successful,Photography,75,3
+successful,Photography,76,1
+successful,Photography,79,1
+successful,Photography,85,1
+successful,Photography,92,1
+successful,Photography,94,2
+successful,Photography,102,1
+successful,Photography,103,3
+successful,Photography,107,2
+successful,Photography,111,1
+successful,Photography,112,1
+successful,Photography,116,1
+successful,Photography,118,2
+successful,Photography,124,1
+successful,Photography,131,1
+successful,Photography,142,2
+successful,Photography,144,1
+successful,Photography,160,1
+successful,Photography,168,1
+successful,Photography,170,1
+successful,Photography,181,1
+successful,Photography,187,1
+successful,Photography,204,1
+successful,Photography,224,1
+successful,Photography,249,1
+successful,Photography,284,1
+successful,Photography,293,1
+successful,Photography,321,2
+successful,Photography,335,1
+successful,Photography,338,1
+successful,Photography,351,1
+successful,Photography,440,1
+successful,Photography,448,1
+successful,Photography,458,1
+successful,Photography,617,1
+successful,Publishing,3,1
+successful,Publishing,4,1
+successful,Publishing,5,1
+successful,Publishing,6,2
+successful,Publishing,7,1
+successful,Publishing,8,3
+successful,Publishing,9,3
+successful,Publishing,10,1
+successful,Publishing,11,2
+successful,Publishing,12,3
+successful,Publishing,13,7
+successful,Publishing,14,11
+successful,Publishing,16,2
+successful,Publishing,17,2
+successful,Publishing,18,4
+successful,Publishing,19,1
+successful,Publishing,20,8
+successful,Publishing,21,3
+successful,Publishing,22,3
+successful,Publishing,23,7
+successful,Publishing,24,2
+successful,Publishing,25,5
+successful,Publishing,26,2
+successful,Publishing,27,2
+successful,Publishing,28,3
+successful,Publishing,29,3
+successful,Publishing,30,5
+successful,Publishing,31,2
+successful,Publishing,32,4
+successful,Publishing,33,3
+successful,Publishing,34,4
+successful,Publishing,35,4
+successful,Publishing,36,1
+successful,Publishing,37,6
+successful,Publishing,38,3
+successful,Publishing,39,6
+successful,Publishing,40,6
+successful,Publishing,41,3
+successful,Publishing,42,2
+successful,Publishing,43,4
+successful,Publishing,44,3
+successful,Publishing,45,2
+successful,Publishing,46,2
+successful,Publishing,47,4
+successful,Publishing,48,2
+successful,Publishing,49,6
+successful,Publishing,50,2
+successful,Publishing,52,4
+successful,Publishing,53,2
+successful,Publishing,54,2
+successful,Publishing,55,2
+successful,Publishing,56,5
+successful,Publishing,57,2
+successful,Publishing,58,2
+successful,Publishing,60,6
+successful,Publishing,62,3
+successful,Publishing,63,1
+successful,Publishing,64,1
+successful,Publishing,65,3
+successful,Publishing,66,2
+successful,Publishing,67,2
+successful,Publishing,68,4
+successful,Publishing,69,3
+successful,Publishing,70,7
+successful,Publishing,71,4
+successful,Publishing,73,1
+successful,Publishing,74,4
+successful,Publishing,75,1
+successful,Publishing,76,3
+successful,Publishing,77,2
+successful,Publishing,80,1
+successful,Publishing,81,3
+successful,Publishing,82,2
+successful,Publishing,83,5
+successful,Publishing,84,2
+successful,Publishing,85,2
+successful,Publishing,86,5
+successful,Publishing,87,2
+successful,Publishing,88,1
+successful,Publishing,92,1
+successful,Publishing,93,5
+successful,Publishing,94,2
+successful,Publishing,95,2
+successful,Publishing,96,3
+successful,Publishing,97,2
+successful,Publishing,98,1
+successful,Publishing,99,1
+successful,Publishing,100,2
+successful,Publishing,101,2
+successful,Publishing,104,1
+successful,Publishing,105,1
+successful,Publishing,106,3
+successful,Publishing,107,1
+successful,Publishing,108,1
+successful,Publishing,109,1
+successful,Publishing,110,1
+successful,Publishing,111,2
+successful,Publishing,114,2
+successful,Publishing,115,1
+successful,Publishing,116,2
+successful,Publishing,117,2
+successful,Publishing,119,2
+successful,Publishing,120,1
+successful,Publishing,121,2
+successful,Publishing,122,2
+successful,Publishing,126,2
+successful,Publishing,127,3
+successful,Publishing,129,1
+successful,Publishing,130,1
+successful,Publishing,131,1
+successful,Publishing,132,1
+successful,Publishing,134,1
+successful,Publishing,135,1
+successful,Publishing,137,5
+successful,Publishing,140,2
+successful,Publishing,142,1
+successful,Publishing,143,1
+successful,Publishing,145,1
+successful,Publishing,146,1
+successful,Publishing,147,1
+successful,Publishing,149,2
+successful,Publishing,150,1
+successful,Publishing,152,1
+successful,Publishing,153,1
+successful,Publishing,155,1
+successful,Publishing,160,3
+successful,Publishing,161,1
+successful,Publishing,166,1
+successful,Publishing,168,2
+successful,Publishing,170,2
+successful,Publishing,175,1
+successful,Publishing,176,1
+successful,Publishing,177,1
+successful,Publishing,181,1
+successful,Publishing,184,1
+successful,Publishing,185,1
+successful,Publishing,186,1
+successful,Publishing,194,1
+successful,Publishing,195,1
+successful,Publishing,197,2
+successful,Publishing,205,1
+successful,Publishing,206,1
+successful,Publishing,210,1
+successful,Publishing,216,1
+successful,Publishing,217,1
+successful,Publishing,219,1
+successful,Publishing,224,1
+successful,Publishing,226,1
+successful,Publishing,228,1
+successful,Publishing,229,1
+successful,Publishing,230,1
+successful,Publishing,231,1
+successful,Publishing,237,1
+successful,Publishing,240,1
+successful,Publishing,241,1
+successful,Publishing,249,1
+successful,Publishing,250,1
+successful,Publishing,251,1
+successful,Publishing,252,1
+successful,Publishing,256,1
+successful,Publishing,263,1
+successful,Publishing,271,2
+successful,Publishing,273,1
+successful,Publishing,274,1
+successful,Publishing,276,1
+successful,Publishing,284,1
+successful,Publishing,288,1
+successful,Publishing,303,1
+successful,Publishing,310,1
+successful,Publishing,314,1
+successful,Publishing,316,1
+successful,Publishing,319,1
+successful,Publishing,328,1
+successful,Publishing,330,1
+successful,Publishing,334,2
+successful,Publishing,362,1
+successful,Publishing,367,1
+successful,Publishing,389,1
+successful,Publishing,404,1
+successful,Publishing,413,1
+successful,Publishing,430,1
+successful,Publishing,445,1
+successful,Publishing,452,1
+successful,Publishing,460,1
+successful,Publishing,469,1
+successful,Publishing,475,1
+successful,Publishing,497,1
+successful,Publishing,498,1
+successful,Publishing,503,1
+successful,Publishing,520,1
+successful,Publishing,577,1
+successful,Publishing,609,1
+successful,Publishing,628,1
+successful,Publishing,643,1
+successful,Publishing,649,1
+successful,Publishing,651,1
+successful,Publishing,690,1
+successful,Publishing,695,1
+successful,Publishing,728,1
+successful,Publishing,793,1
+successful,Publishing,831,1
+successful,Publishing,901,1
+successful,Publishing,916,1
+successful,Publishing,967,1
+successful,Publishing,1007,1
+successful,Publishing,1038,1
+successful,Publishing,1094,1
+successful,Publishing,1243,1
+successful,Publishing,1385,1
+successful,Publishing,1462,1
+successful,Publishing,1481,1
+successful,Publishing,1680,1
+successful,Technology,5,1
+successful,Technology,7,1
+successful,Technology,8,1
+successful,Technology,9,2
+successful,Technology,13,1
+successful,Technology,15,2
+successful,Technology,16,1
+successful,Technology,18,2
+successful,Technology,19,1
+successful,Technology,20,1
+successful,Technology,22,1
+successful,Technology,26,1
+successful,Technology,29,2
+successful,Technology,30,1
+successful,Technology,34,1
+successful,Technology,36,1
+successful,Technology,37,1
+successful,Technology,38,1
+successful,Technology,40,2
+successful,Technology,41,1
+successful,Technology,42,1
+successful,Technology,43,2
+successful,Technology,44,1
+successful,Technology,45,1
+successful,Technology,53,1
+successful,Technology,57,1
+successful,Technology,60,1
+successful,Technology,61,3
+successful,Technology,64,1
+successful,Technology,65,1
+successful,Technology,66,1
+successful,Technology,67,1
+successful,Technology,68,1
+successful,Technology,69,3
+successful,Technology,71,1
+successful,Technology,72,2
+successful,Technology,73,1
+successful,Technology,75,1
+successful,Technology,78,1
+successful,Technology,79,1
+successful,Technology,80,1
+successful,Technology,82,1
+successful,Technology,83,1
+successful,Technology,84,2
+successful,Technology,85,3
+successful,Technology,86,1
+successful,Technology,87,1
+successful,Technology,88,1
+successful,Technology,89,1
+successful,Technology,91,1
+successful,Technology,93,1
+successful,Technology,94,1
+successful,Technology,97,1
+successful,Technology,98,1
+successful,Technology,102,1
+successful,Technology,106,1
+successful,Technology,107,1
+successful,Technology,115,1
+successful,Technology,116,1
+successful,Technology,119,1
+successful,Technology,121,1
+successful,Technology,125,1
+successful,Technology,126,2
+successful,Technology,128,1
+successful,Technology,129,1
+successful,Technology,136,1
+successful,Technology,138,1
+successful,Technology,140,1
+successful,Technology,142,1
+successful,Technology,150,2
+successful,Technology,155,1
+successful,Technology,161,1
+successful,Technology,165,2
+successful,Technology,167,1
+successful,Technology,169,1
+successful,Technology,178,1
+successful,Technology,182,1
+successful,Technology,192,1
+successful,Technology,197,1
+successful,Technology,203,1
+successful,Technology,206,1
+successful,Technology,222,1
+successful,Technology,229,1
+successful,Technology,236,1
+successful,Technology,238,1
+successful,Technology,239,1
+successful,Technology,243,1
+successful,Technology,250,1
+successful,Technology,251,1
+successful,Technology,255,2
+successful,Technology,256,1
+successful,Technology,260,1
+successful,Technology,262,1
+successful,Technology,263,1
+successful,Technology,268,1
+successful,Technology,275,1
+successful,Technology,297,1
+successful,Technology,317,1
+successful,Technology,319,1
+successful,Technology,325,1
+successful,Technology,327,1
+successful,Technology,337,1
+successful,Technology,340,1
+successful,Technology,348,1
+successful,Technology,350,1
+successful,Technology,362,1
+successful,Technology,371,1
+successful,Technology,381,1
+successful,Technology,400,1
+successful,Technology,401,1
+successful,Technology,404,1
+successful,Technology,431,1
+successful,Technology,434,1
+successful,Technology,455,1
+successful,Technology,476,1
+successful,Technology,481,1
+successful,Technology,491,1
+successful,Technology,501,1
+successful,Technology,502,1
+successful,Technology,520,1
+successful,Technology,522,1
+successful,Technology,526,1
+successful,Technology,540,1
+successful,Technology,548,1
+successful,Technology,637,1
+successful,Technology,638,1
+successful,Technology,672,1
+successful,Technology,717,1
+successful,Technology,736,1
+successful,Technology,759,1
+successful,Technology,800,1
+successful,Technology,816,1
+successful,Technology,826,1
+successful,Technology,896,1
+successful,Technology,899,1
+successful,Technology,903,1
+successful,Technology,1008,1
+successful,Technology,1010,1
+successful,Technology,1079,1
+successful,Technology,1094,1
+successful,Technology,1106,1
+successful,Technology,1253,1
+successful,Technology,1279,1
+successful,Technology,1390,1
+successful,Technology,1392,1
+successful,Technology,1459,1
+successful,Technology,1480,1
+successful,Technology,1538,1
+successful,Technology,1591,1
+successful,Technology,1616,1
+successful,Technology,1787,1
+successful,Technology,1822,1
+successful,Technology,1872,1
+successful,Technology,1892,1
+successful,Technology,2393,1
+successful,Technology,3525,1
+successful,Technology,3913,1
+successful,Theater,4,1
+successful,Theater,5,1
+successful,Theater,6,1
+successful,Theater,7,1
+successful,Theater,8,1
+successful,Theater,9,2
+successful,Theater,10,1
+successful,Theater,12,2
+successful,Theater,13,3
+successful,Theater,14,4
+successful,Theater,15,3
+successful,Theater,16,2
+successful,Theater,17,3
+successful,Theater,18,2
+successful,Theater,19,2
+successful,Theater,20,1
+successful,Theater,21,5
+successful,Theater,22,1
+successful,Theater,23,3
+successful,Theater,24,3
+successful,Theater,25,2
+successful,Theater,26,1
+successful,Theater,27,7
+successful,Theater,28,4
+successful,Theater,29,3
+successful,Theater,30,3
+successful,Theater,31,2
+successful,Theater,33,5
+successful,Theater,34,4
+successful,Theater,35,2
+successful,Theater,36,2
+successful,Theater,37,3
+successful,Theater,38,2
+successful,Theater,39,8
+successful,Theater,40,1
+successful,Theater,41,2
+successful,Theater,42,4
+successful,Theater,43,3
+successful,Theater,44,3
+successful,Theater,45,1
+successful,Theater,46,3
+successful,Theater,47,1
+successful,Theater,48,2
+successful,Theater,49,1
+successful,Theater,50,1
+successful,Theater,51,1
+successful,Theater,52,1
+successful,Theater,53,1
+successful,Theater,54,1
+successful,Theater,55,1
+successful,Theater,56,1
+successful,Theater,57,2
+successful,Theater,58,1
+successful,Theater,60,1
+successful,Theater,61,3
+successful,Theater,62,2
+successful,Theater,63,3
+successful,Theater,64,2
+successful,Theater,65,3
+successful,Theater,66,1
+successful,Theater,68,1
+successful,Theater,69,2
+successful,Theater,70,1
+successful,Theater,71,3
+successful,Theater,72,2
+successful,Theater,73,2
+successful,Theater,74,1
+successful,Theater,75,1
+successful,Theater,76,2
+successful,Theater,77,1
+successful,Theater,78,1
+successful,Theater,81,3
+successful,Theater,82,2
+successful,Theater,83,1
+successful,Theater,87,2
+successful,Theater,88,1
+successful,Theater,89,2
+successful,Theater,94,2
+successful,Theater,95,1
+successful,Theater,98,1
+successful,Theater,99,1
+successful,Theater,100,1
+successful,Theater,101,1
+successful,Theater,105,1
+successful,Theater,107,1
+successful,Theater,109,2
+successful,Theater,110,1
+successful,Theater,111,2
+successful,Theater,112,2
+successful,Theater,114,1
+successful,Theater,119,1
+successful,Theater,123,1
+successful,Theater,125,1
+successful,Theater,126,1
+successful,Theater,130,1
+successful,Theater,133,1
+successful,Theater,134,1
+successful,Theater,136,1
+successful,Theater,141,1
+successful,Theater,143,1
+successful,Theater,144,1
+successful,Theater,146,1
+successful,Theater,147,1
+successful,Theater,150,1
+successful,Theater,152,1
+successful,Theater,158,1
+successful,Theater,164,1
+successful,Theater,175,1
+successful,Theater,176,1
+successful,Theater,177,1
+successful,Theater,196,1
+successful,Theater,197,1
+successful,Theater,200,1
+successful,Theater,287,1
+successful,Theater,364,1
+successful,Theater,396,1
+successful,Theater,436,1
+successful,Theater,719,1

@@ -1,0 +1,3330 @@
+outcome,campaign_length_in_days,category_name,sub_category_name,total
+failed,1,Art,Art,1
+failed,1,Art,Illustration,1
+failed,1,"Film & Video",Documentary,1
+failed,3,Art,Illustration,1
+failed,3,Art,"Performance Art",1
+failed,3,Crafts,Stationery,1
+failed,3,Publishing,Publishing,2
+failed,3,Technology,Apps,1
+failed,3,Technology,Web,1
+failed,4,"Film & Video",Documentary,1
+failed,4,Games,Games,1
+failed,5,Crafts,DIY,1
+failed,5,Crafts,Knitting,1
+failed,5,Design,"Product Design",2
+failed,5,Publishing,Nonfiction,2
+failed,6,Art,"Video Art",1
+failed,6,Crafts,Crafts,1
+failed,6,"Film & Video",Animation,1
+failed,6,"Film & Video",Documentary,1
+failed,6,"Film & Video","Narrative Film",1
+failed,6,Games,"Live Games",1
+failed,6,Photography,Photography,1
+failed,6,Publishing,Nonfiction,1
+failed,6,Technology,Web,1
+failed,6,Theater,Musical,1
+failed,7,Art,Art,1
+failed,7,Art,Illustration,1
+failed,7,Art,"Mixed Media",1
+failed,7,Art,"Performance Art",1
+failed,7,Art,"Public Art",1
+failed,7,Art,Sculpture,1
+failed,7,Crafts,DIY,1
+failed,7,Crafts,Woodworking,1
+failed,7,Design,"Product Design",1
+failed,7,Fashion,Fashion,1
+failed,7,"Film & Video",Documentary,2
+failed,7,"Film & Video","Film & Video",1
+failed,7,"Film & Video",Romance,1
+failed,7,"Film & Video",Webseries,2
+failed,7,Food,Restaurants,1
+failed,7,Food,"Small Batch",1
+failed,7,Games,"Video Games",2
+failed,7,Music,Hip-Hop,1
+failed,7,Music,Rock,1
+failed,7,Publishing,"Art Books",1
+failed,7,Publishing,Nonfiction,2
+failed,7,Publishing,"Young Adult",1
+failed,8,Art,"Digital Art",1
+failed,8,"Film & Video",Comedy,1
+failed,8,"Film & Video",Horror,1
+failed,8,"Film & Video","Science Fiction",1
+failed,8,Music,"Indie Rock",1
+failed,8,Publishing,"Radio & Podcasts",1
+failed,8,Technology,"Space Exploration",1
+failed,9,Art,"Performance Art",1
+failed,9,Art,"Public Art",1
+failed,9,"Film & Video",Documentary,1
+failed,9,"Film & Video","Music Videos",1
+failed,9,Music,Hip-Hop,1
+failed,9,Music,Metal,1
+failed,9,Music,"World Music",1
+failed,9,Publishing,Publishing,1
+failed,10,Art,Art,1
+failed,10,Art,Illustration,1
+failed,10,Art,Painting,1
+failed,10,Art,Sculpture,1
+failed,10,Comics,"Comic Books",1
+failed,10,Crafts,Woodworking,1
+failed,10,Dance,Dance,1
+failed,10,Design,"Product Design",1
+failed,10,Fashion,Fashion,1
+failed,10,Fashion,Jewelry,1
+failed,10,"Film & Video",Documentary,1
+failed,10,"Film & Video","Film & Video",3
+failed,10,"Film & Video",Horror,1
+failed,10,"Film & Video","Science Fiction",1
+failed,10,Food,Events,1
+failed,10,Games,"Video Games",1
+failed,10,Journalism,Journalism,1
+failed,10,Journalism,Print,1
+failed,10,Music,Music,1
+failed,10,Music,Music,1
+failed,10,Photography,"Fine Art",2
+failed,10,Publishing,Fiction,1
+failed,10,Publishing,Nonfiction,3
+failed,10,Publishing,Publishing,1
+failed,10,Technology,Technology,1
+failed,10,Technology,Web,1
+failed,10,Theater,Experimental,2
+failed,11,Crafts,Crafts,1
+failed,11,Dance,Dance,1
+failed,11,Design,"Product Design",2
+failed,11,"Film & Video",Documentary,1
+failed,11,"Film & Video",Shorts,1
+failed,11,"Film & Video",Webseries,1
+failed,11,Games,"Playing Cards",2
+failed,11,Games,"Video Games",1
+failed,11,Photography,Photography,1
+failed,11,Theater,Theater,1
+failed,12,Art,"Mixed Media",1
+failed,12,Crafts,Candles,1
+failed,12,Design,Design,1
+failed,12,Fashion,Fashion,1
+failed,12,"Film & Video",Documentary,1
+failed,12,"Film & Video",Family,1
+failed,12,Music,"Country & Folk",1
+failed,12,Music,"Electronic Music",1
+failed,12,Music,R&B,1
+failed,12,Publishing,Fiction,1
+failed,13,Art,"Performance Art",1
+failed,13,Fashion,Fashion,1
+failed,13,Fashion,Jewelry,1
+failed,13,"Film & Video",Documentary,2
+failed,13,Food,"Farmer's Markets",1
+failed,13,Food,Food,1
+failed,13,Games,"Tabletop Games",1
+failed,13,Journalism,Journalism,1
+failed,13,Music,"Indie Rock",1
+failed,13,Technology,Software,1
+failed,13,Technology,Technology,1
+failed,14,Art,Art,1
+failed,14,Art,Ceramics,1
+failed,14,Art,"Mixed Media",1
+failed,14,Crafts,Crafts,2
+failed,14,Dance,Dance,1
+failed,14,Design,"Graphic Design",1
+failed,14,Fashion,Apparel,3
+failed,14,Fashion,Fashion,2
+failed,14,"Film & Video",Animation,1
+failed,14,"Film & Video",Documentary,1
+failed,14,"Film & Video",Drama,1
+failed,14,"Film & Video","Film & Video",1
+failed,14,"Film & Video",Shorts,1
+failed,14,"Film & Video",Thrillers,1
+failed,14,"Film & Video",Webseries,2
+failed,14,Food,Farms,2
+failed,14,Food,Food,1
+failed,14,Games,"Tabletop Games",1
+failed,14,Games,"Video Games",1
+failed,14,Music,"Electronic Music",1
+failed,14,Music,Music,1
+failed,14,Music,Rock,1
+failed,14,Publishing,Fiction,3
+failed,14,Publishing,Nonfiction,3
+failed,14,Publishing,Publishing,1
+failed,14,Technology,Software,1
+failed,14,Technology,Web,1
+failed,14,Theater,Musical,1
+failed,14,Theater,Theater,1
+failed,15,Art,Art,1
+failed,15,Art,Illustration,2
+failed,15,Art,Installations,2
+failed,15,Art,"Mixed Media",2
+failed,15,Art,Painting,1
+failed,15,Art,"Public Art",1
+failed,15,Art,Sculpture,1
+failed,15,Crafts,Crafts,1
+failed,15,Crafts,Stationery,1
+failed,15,Dance,Workshops,1
+failed,15,Design,Design,1
+failed,15,Design,"Graphic Design",1
+failed,15,Design,"Product Design",4
+failed,15,Fashion,Apparel,4
+failed,15,Fashion,Fashion,4
+failed,15,"Film & Video",Documentary,3
+failed,15,"Film & Video","Film & Video",5
+failed,15,"Film & Video",Horror,1
+failed,15,"Film & Video",Shorts,3
+failed,15,"Film & Video",Webseries,2
+failed,15,Food,Events,1
+failed,15,Food,Food,7
+failed,15,Food,"Small Batch",1
+failed,15,Games,"Gaming Hardware",1
+failed,15,Games,"Live Games",1
+failed,15,Games,"Tabletop Games",1
+failed,15,Games,"Video Games",1
+failed,15,Journalism,Print,1
+failed,15,Music,Hip-Hop,1
+failed,15,Music,Jazz,1
+failed,15,Music,Music,2
+failed,15,Music,Pop,4
+failed,15,Music,Punk,1
+failed,15,Photography,Nature,2
+failed,15,Photography,People,2
+failed,15,Photography,Photography,1
+failed,15,Publishing,Academic,1
+failed,15,Publishing,"Art Books",1
+failed,15,Publishing,Calendars,1
+failed,15,Publishing,"Children's Books",2
+failed,15,Publishing,Fiction,1
+failed,15,Publishing,Nonfiction,3
+failed,15,Publishing,Publishing,2
+failed,15,Technology,Technology,4
+failed,15,Technology,Web,1
+failed,15,Theater,Experimental,1
+failed,15,Theater,Musical,1
+failed,15,Theater,Theater,1
+failed,16,Art,Illustration,1
+failed,16,Art,Painting,2
+failed,16,Comics,"Comic Books",1
+failed,16,Comics,Comics,2
+failed,16,Design,"Civic Design",1
+failed,16,Design,Design,1
+failed,16,Fashion,Accessories,1
+failed,16,"Film & Video",Comedy,1
+failed,16,"Film & Video",Documentary,2
+failed,16,"Film & Video","Narrative Film",1
+failed,16,"Film & Video",Webseries,1
+failed,16,Food,Food,3
+failed,16,Games,"Tabletop Games",1
+failed,16,Journalism,Journalism,1
+failed,16,Music,"Country & Folk",1
+failed,16,Music,"Indie Rock",1
+failed,16,Photography,Photography,1
+failed,16,Publishing,Fiction,1
+failed,16,Publishing,Nonfiction,4
+failed,16,Theater,Theater,1
+failed,17,Art,"Conceptual Art",1
+failed,17,Art,"Mixed Media",1
+failed,17,Comics,Comics,1
+failed,17,Crafts,Crafts,1
+failed,17,Fashion,Accessories,1
+failed,17,Fashion,Apparel,1
+failed,17,Fashion,Fashion,2
+failed,17,Fashion,Ready-to-wear,1
+failed,17,"Film & Video",Documentary,1
+failed,17,"Film & Video","Narrative Film",1
+failed,17,"Film & Video",Television,1
+failed,17,Music,"Indie Rock",1
+failed,17,Music,Music,2
+failed,17,Music,Rock,1
+failed,17,Publishing,Nonfiction,1
+failed,17,Publishing,Publishing,1
+failed,17,Technology,Technology,1
+failed,18,Art,Art,2
+failed,18,Art,Painting,1
+failed,18,Art,"Performance Art",1
+failed,18,Design,"Product Design",1
+failed,18,Fashion,Fashion,1
+failed,18,"Film & Video",Comedy,1
+failed,18,"Film & Video",Documentary,2
+failed,18,"Film & Video","Narrative Film",1
+failed,18,Food,"Farmer's Markets",1
+failed,18,Food,Food,1
+failed,18,Games,Games,1
+failed,18,Games,"Tabletop Games",1
+failed,18,Journalism,Journalism,1
+failed,18,Music,Pop,1
+failed,18,Publishing,Publishing,1
+failed,18,Technology,Technology,1
+failed,19,Art,Art,3
+failed,19,Art,"Conceptual Art",1
+failed,19,Art,"Mixed Media",1
+failed,19,Comics,"Comic Books",1
+failed,19,Fashion,Apparel,1
+failed,19,"Film & Video",Comedy,1
+failed,19,"Film & Video",Documentary,1
+failed,19,"Film & Video","Film & Video",1
+failed,19,"Film & Video",Shorts,1
+failed,19,Games,"Video Games",1
+failed,19,Journalism,Journalism,1
+failed,19,Photography,Photography,2
+failed,19,Publishing,Publishing,1
+failed,19,Technology,Technology,2
+failed,19,Technology,Web,1
+failed,19,Theater,Plays,1
+failed,20,Art,Art,3
+failed,20,Art,"Digital Art",1
+failed,20,Art,Illustration,1
+failed,20,Art,Painting,2
+failed,20,Art,"Public Art",1
+failed,20,Comics,Comics,1
+failed,20,Crafts,Crafts,4
+failed,20,Crafts,DIY,1
+failed,20,Crafts,Quilts,1
+failed,20,Dance,Dance,1
+failed,20,Dance,Performances,1
+failed,20,Design,"Product Design",2
+failed,20,Fashion,Accessories,2
+failed,20,Fashion,Apparel,1
+failed,20,Fashion,Childrenswear,1
+failed,20,Fashion,Fashion,3
+failed,20,"Film & Video",Animation,1
+failed,20,"Film & Video",Documentary,1
+failed,20,"Film & Video",Family,1
+failed,20,"Film & Video","Film & Video",1
+failed,20,"Film & Video","Narrative Film",3
+failed,20,"Film & Video",Shorts,2
+failed,20,Food,Food,3
+failed,20,Games,Games,1
+failed,20,Games,"Live Games",1
+failed,20,Games,"Video Games",2
+failed,20,Journalism,Journalism,1
+failed,20,Music,Hip-Hop,2
+failed,20,Music,"Indie Rock",1
+failed,20,Music,Music,4
+failed,20,Music,Rock,3
+failed,20,Photography,People,2
+failed,20,Photography,Photography,5
+failed,20,Publishing,"Children's Books",1
+failed,20,Publishing,Fiction,3
+failed,20,Publishing,Nonfiction,4
+failed,20,Publishing,Publishing,1
+failed,20,Publishing,"Radio & Podcasts",1
+failed,20,Technology,Apps,1
+failed,20,Technology,Hardware,1
+failed,20,Technology,Software,1
+failed,20,Technology,Technology,1
+failed,20,Technology,Web,1
+failed,20,Theater,Festivals,1
+failed,20,Theater,Theater,1
+failed,21,Art,Art,1
+failed,21,Art,"Conceptual Art",2
+failed,21,Art,"Mixed Media",1
+failed,21,Art,Painting,1
+failed,21,Art,Sculpture,1
+failed,21,Crafts,Candles,1
+failed,21,Crafts,Crafts,2
+failed,21,Crafts,Crochet,1
+failed,21,Design,"Product Design",9
+failed,21,Fashion,Apparel,3
+failed,21,Fashion,Fashion,4
+failed,21,"Film & Video",Action,1
+failed,21,"Film & Video",Documentary,4
+failed,21,"Film & Video",Drama,1
+failed,21,"Film & Video","Film & Video",1
+failed,21,"Film & Video",Shorts,3
+failed,21,"Film & Video",Television,1
+failed,21,"Film & Video",Thrillers,1
+failed,21,"Film & Video",Webseries,4
+failed,21,Food,Cookbooks,1
+failed,21,Food,Drinks,1
+failed,21,Food,Food,1
+failed,21,Food,Restaurants,1
+failed,21,Food,"Small Batch",1
+failed,21,Games,"Playing Cards",1
+failed,21,Games,"Tabletop Games",1
+failed,21,Games,"Video Games",4
+failed,21,Music,"Electronic Music",1
+failed,21,Music,Faith,1
+failed,21,Music,Music,5
+failed,21,Photography,Photography,1
+failed,21,Publishing,Fiction,5
+failed,21,Publishing,Nonfiction,4
+failed,21,Technology,"DIY Electronics",1
+failed,21,Technology,Hardware,1
+failed,21,Technology,Technology,2
+failed,21,Technology,Web,1
+failed,21,Theater,Theater,3
+failed,22,Art,"Mixed Media",1
+failed,22,Art,Painting,1
+failed,22,Art,"Performance Art",1
+failed,22,Fashion,Fashion,1
+failed,22,"Film & Video",Documentary,1
+failed,22,"Film & Video","Narrative Film",1
+failed,22,"Film & Video",Shorts,3
+failed,22,"Film & Video",Webseries,1
+failed,22,Food,Food,2
+failed,22,Food,"Food Trucks",1
+failed,22,Music,"Indie Rock",2
+failed,22,Music,Rock,1
+failed,22,Music,"World Music",2
+failed,22,Photography,Photography,2
+failed,22,Publishing,"Children's Books",1
+failed,22,Publishing,Fiction,1
+failed,22,Publishing,Nonfiction,2
+failed,22,Theater,Theater,2
+failed,23,Art,Art,2
+failed,23,Art,"Conceptual Art",1
+failed,23,Crafts,Woodworking,1
+failed,23,Design,Design,1
+failed,23,Design,"Graphic Design",1
+failed,23,Fashion,Apparel,1
+failed,23,Fashion,Fashion,1
+failed,23,"Film & Video",Documentary,1
+failed,23,"Film & Video","Film & Video",2
+failed,23,"Film & Video",Shorts,2
+failed,23,"Film & Video",Television,1
+failed,23,"Film & Video",Webseries,2
+failed,23,Food,Food,2
+failed,23,Food,Spaces,1
+failed,23,Games,"Tabletop Games",1
+failed,23,Journalism,Journalism,1
+failed,23,Music,"Country & Folk",1
+failed,23,Music,Hip-Hop,2
+failed,23,Music,Music,1
+failed,23,Music,Pop,2
+failed,23,Photography,Photography,2
+failed,23,Publishing,Publishing,1
+failed,23,Technology,Technology,1
+failed,23,Theater,Musical,1
+failed,23,Theater,Theater,1
+failed,24,Art,Art,1
+failed,24,Art,Illustration,1
+failed,24,Art,Painting,1
+failed,24,Comics,Comics,1
+failed,24,Crafts,Crafts,1
+failed,24,Design,"Product Design",1
+failed,24,Fashion,Childrenswear,1
+failed,24,Fashion,Fashion,1
+failed,24,"Film & Video","Film & Video",4
+failed,24,"Film & Video","Narrative Film",2
+failed,24,"Film & Video",Shorts,3
+failed,24,Games,"Mobile Games",1
+failed,24,Games,"Tabletop Games",2
+failed,24,Music,Hip-Hop,1
+failed,24,Music,"Indie Rock",1
+failed,24,Music,Music,1
+failed,24,Music,Rock,2
+failed,24,Photography,Photography,1
+failed,24,Publishing,"Children's Books",2
+failed,24,Publishing,Fiction,2
+failed,24,Publishing,Nonfiction,1
+failed,24,Publishing,Publishing,1
+failed,24,Publishing,"Radio & Podcasts",2
+failed,24,Technology,Hardware,1
+failed,24,Technology,Technology,2
+failed,25,Art,Art,3
+failed,25,Art,"Digital Art",1
+failed,25,Art,Illustration,1
+failed,25,Art,"Mixed Media",1
+failed,25,Art,Painting,1
+failed,25,Art,"Public Art",1
+failed,25,Comics,Comics,3
+failed,25,Crafts,Crafts,2
+failed,25,Dance,Dance,1
+failed,25,Design,Design,1
+failed,25,Design,"Product Design",5
+failed,25,Fashion,Apparel,1
+failed,25,Fashion,Childrenswear,1
+failed,25,Fashion,Fashion,1
+failed,25,"Film & Video",Documentary,3
+failed,25,"Film & Video",Drama,2
+failed,25,"Film & Video","Narrative Film",1
+failed,25,"Film & Video",Shorts,1
+failed,25,"Film & Video",Webseries,2
+failed,25,Food,Bacon,1
+failed,25,Food,Drinks,1
+failed,25,Food,Food,5
+failed,25,Food,"Small Batch",1
+failed,25,Games,Games,1
+failed,25,Games,"Mobile Games",2
+failed,25,Games,"Tabletop Games",1
+failed,25,Games,"Video Games",2
+failed,25,Journalism,Journalism,1
+failed,25,Music,"Country & Folk",1
+failed,25,Music,Hip-Hop,3
+failed,25,Music,Music,2
+failed,25,Music,Pop,2
+failed,25,Music,Rock,1
+failed,25,Music,"World Music",2
+failed,25,Photography,"Fine Art",1
+failed,25,Photography,Nature,1
+failed,25,Photography,Photobooks,1
+failed,25,Photography,Photography,2
+failed,25,Publishing,Academic,1
+failed,25,Publishing,Fiction,3
+failed,25,Publishing,Nonfiction,1
+failed,25,Publishing,Poetry,1
+failed,25,Publishing,Publishing,1
+failed,25,Technology,Apps,2
+failed,25,Technology,"Camera Equipment",1
+failed,25,Technology,Hardware,1
+failed,25,Technology,Software,2
+failed,25,Technology,Technology,3
+failed,25,Technology,Web,2
+failed,25,Theater,Theater,1
+failed,26,Art,Art,2
+failed,26,Art,Painting,1
+failed,26,Art,"Performance Art",1
+failed,26,Crafts,Crafts,1
+failed,26,Design,"Product Design",2
+failed,26,Fashion,Couture,1
+failed,26,Fashion,Fashion,3
+failed,26,Fashion,Jewelry,1
+failed,26,"Film & Video",Documentary,3
+failed,26,"Film & Video","Narrative Film",1
+failed,26,"Film & Video",Shorts,3
+failed,26,Food,"Community Gardens",1
+failed,26,Food,Food,1
+failed,26,Food,"Food Trucks",2
+failed,26,Food,Restaurants,1
+failed,26,Food,"Small Batch",1
+failed,26,Games,"Tabletop Games",1
+failed,26,Music,"Electronic Music",1
+failed,26,Music,"Indie Rock",1
+failed,26,Music,Music,3
+failed,26,Music,Pop,1
+failed,26,Photography,Photography,1
+failed,26,Publishing,"Children's Books",2
+failed,26,Publishing,Fiction,1
+failed,26,Publishing,Periodicals,1
+failed,26,Technology,Hardware,1
+failed,26,Technology,Technology,1
+failed,26,Theater,Plays,1
+failed,26,Theater,Theater,2
+failed,27,Art,Art,1
+failed,27,Crafts,Crafts,1
+failed,27,Dance,Dance,2
+failed,27,Design,Architecture,1
+failed,27,Design,"Product Design",1
+failed,27,Fashion,Fashion,1
+failed,27,"Film & Video",Animation,1
+failed,27,"Film & Video",Documentary,2
+failed,27,"Film & Video",Family,1
+failed,27,"Film & Video","Film & Video",1
+failed,27,"Film & Video","Movie Theaters",1
+failed,27,Food,Restaurants,1
+failed,27,Games,Games,1
+failed,27,Games,"Video Games",1
+failed,27,Music,"Classical Music",2
+failed,27,Music,Hip-Hop,3
+failed,27,Music,Rock,1
+failed,27,Publishing,"Children's Books",1
+failed,27,Publishing,Fiction,1
+failed,27,Publishing,Nonfiction,2
+failed,27,Publishing,Poetry,1
+failed,27,Publishing,Publishing,2
+failed,27,Technology,Hardware,1
+failed,27,Technology,Technology,1
+failed,27,Theater,Plays,1
+failed,28,Art,Art,1
+failed,28,Art,"Conceptual Art",1
+failed,28,Art,Illustration,3
+failed,28,Art,Painting,1
+failed,28,Comics,"Comic Books",1
+failed,28,Crafts,Crafts,2
+failed,28,Design,"Product Design",4
+failed,28,Fashion,Accessories,4
+failed,28,Fashion,Couture,1
+failed,28,Fashion,Fashion,5
+failed,28,"Film & Video",Animation,1
+failed,28,"Film & Video",Comedy,2
+failed,28,"Film & Video",Documentary,2
+failed,28,"Film & Video","Film & Video",2
+failed,28,"Film & Video","Narrative Film",1
+failed,28,"Film & Video",Webseries,2
+failed,28,Food,Restaurants,2
+failed,28,Food,"Small Batch",1
+failed,28,Games,"Tabletop Games",2
+failed,28,Games,"Video Games",3
+failed,28,Music,Hip-Hop,2
+failed,28,Music,"Indie Rock",1
+failed,28,Music,Music,2
+failed,28,Music,Pop,1
+failed,28,Music,Rock,2
+failed,28,Publishing,"Art Books",1
+failed,28,Publishing,"Children's Books",2
+failed,28,Publishing,Fiction,1
+failed,28,Publishing,Nonfiction,3
+failed,28,Publishing,Periodicals,2
+failed,28,Technology,Apps,4
+failed,28,Technology,Gadgets,1
+failed,28,Technology,Software,2
+failed,28,Technology,Technology,2
+failed,28,Theater,Theater,2
+failed,29,Art,Art,4
+failed,29,Art,Ceramics,1
+failed,29,Art,Painting,1
+failed,29,Comics,"Comic Books",2
+failed,29,Comics,Comics,2
+failed,29,Design,"Graphic Design",1
+failed,29,Design,"Interactive Design",1
+failed,29,Design,"Product Design",3
+failed,29,Fashion,Apparel,3
+failed,29,Fashion,Jewelry,1
+failed,29,Fashion,Ready-to-wear,1
+failed,29,"Film & Video",Comedy,2
+failed,29,"Film & Video",Documentary,3
+failed,29,"Film & Video","Film & Video",5
+failed,29,"Film & Video","Movie Theaters",1
+failed,29,"Film & Video","Narrative Film",1
+failed,29,"Film & Video",Shorts,1
+failed,29,"Film & Video",Webseries,2
+failed,29,Food,Cookbooks,1
+failed,29,Food,Drinks,2
+failed,29,Food,Farms,1
+failed,29,Food,"Food Trucks",1
+failed,29,Food,Restaurants,1
+failed,29,Games,"Live Games",1
+failed,29,Games,"Playing Cards",2
+failed,29,Games,"Tabletop Games",1
+failed,29,Games,"Video Games",2
+failed,29,Music,"Country & Folk",2
+failed,29,Music,"Electronic Music",1
+failed,29,Music,Hip-Hop,1
+failed,29,Music,"Indie Rock",1
+failed,29,Music,Music,2
+failed,29,Music,R&B,1
+failed,29,Music,Rock,1
+failed,29,Music,"World Music",1
+failed,29,Photography,Photography,3
+failed,29,Publishing,"Children's Books",1
+failed,29,Publishing,Fiction,2
+failed,29,Publishing,Nonfiction,4
+failed,29,Publishing,"Radio & Podcasts",1
+failed,29,Publishing,"Young Adult",2
+failed,29,Technology,"3D Printing",1
+failed,29,Technology,Apps,3
+failed,29,Technology,"DIY Electronics",1
+failed,29,Technology,Software,1
+failed,29,Technology,Sound,1
+failed,29,Technology,Technology,2
+failed,29,Technology,Wearables,1
+failed,29,Theater,Experimental,1
+failed,30,Art,Art,61
+failed,30,Art,Ceramics,2
+failed,30,Art,"Conceptual Art",2
+failed,30,Art,"Digital Art",13
+failed,30,Art,Illustration,18
+failed,30,Art,Installations,1
+failed,30,Art,"Mixed Media",20
+failed,30,Art,Painting,19
+failed,30,Art,"Performance Art",15
+failed,30,Art,"Public Art",16
+failed,30,Art,Sculpture,11
+failed,30,Art,Textiles,2
+failed,30,Art,"Video Art",2
+failed,30,Comics,Anthologies,4
+failed,30,Comics,"Comic Books",23
+failed,30,Comics,Comics,34
+failed,30,Comics,"Graphic Novels",10
+failed,30,Comics,Webcomics,1
+failed,30,Crafts,Candles,4
+failed,30,Crafts,Crafts,50
+failed,30,Crafts,Crochet,1
+failed,30,Crafts,DIY,14
+failed,30,Crafts,Embroidery,2
+failed,30,Crafts,Glass,2
+failed,30,Crafts,Pottery,1
+failed,30,Crafts,Printing,2
+failed,30,Crafts,Quilts,1
+failed,30,Crafts,Weaving,2
+failed,30,Crafts,Woodworking,11
+failed,30,Dance,Dance,6
+failed,30,Dance,Performances,4
+failed,30,Design,Architecture,8
+failed,30,Design,"Civic Design",4
+failed,30,Design,Design,25
+failed,30,Design,"Graphic Design",12
+failed,30,Design,"Interactive Design",4
+failed,30,Design,"Product Design",164
+failed,30,Fashion,Accessories,29
+failed,30,Fashion,Apparel,65
+failed,30,Fashion,Childrenswear,4
+failed,30,Fashion,Couture,5
+failed,30,Fashion,Fashion,85
+failed,30,Fashion,Footwear,6
+failed,30,Fashion,Jewelry,13
+failed,30,Fashion,Ready-to-wear,6
+failed,30,"Film & Video",Action,8
+failed,30,"Film & Video",Animation,23
+failed,30,"Film & Video",Comedy,13
+failed,30,"Film & Video",Documentary,136
+failed,30,"Film & Video",Drama,17
+failed,30,"Film & Video",Family,3
+failed,30,"Film & Video","Film & Video",74
+failed,30,"Film & Video",Horror,9
+failed,30,"Film & Video","Movie Theaters",1
+failed,30,"Film & Video","Music Videos",6
+failed,30,"Film & Video","Narrative Film",28
+failed,30,"Film & Video","Science Fiction",6
+failed,30,"Film & Video",Shorts,63
+failed,30,"Film & Video",Television,11
+failed,30,"Film & Video",Thrillers,5
+failed,30,"Film & Video",Webseries,71
+failed,30,Food,Bacon,2
+failed,30,Food,"Community Gardens",2
+failed,30,Food,Cookbooks,5
+failed,30,Food,Drinks,22
+failed,30,Food,Events,6
+failed,30,Food,"Farmer's Markets",6
+failed,30,Food,Farms,21
+failed,30,Food,Food,116
+failed,30,Food,"Food Trucks",25
+failed,30,Food,Restaurants,28
+failed,30,Food,"Small Batch",16
+failed,30,Food,Spaces,6
+failed,30,Food,Vegan,3
+failed,30,Games,Games,27
+failed,30,Games,"Gaming Hardware",3
+failed,30,Games,"Live Games",7
+failed,30,Games,"Mobile Games",15
+failed,30,Games,"Playing Cards",24
+failed,30,Games,"Tabletop Games",59
+failed,30,Games,"Video Games",96
+failed,30,Journalism,Audio,3
+failed,30,Journalism,Journalism,8
+failed,30,Journalism,Photo,2
+failed,30,Journalism,Print,8
+failed,30,Journalism,Video,3
+failed,30,Music,Music,3
+failed,30,Music,Blues,2
+failed,30,Music,"Classical Music",5
+failed,30,Music,"Country & Folk",22
+failed,30,Music,"Electronic Music",16
+failed,30,Music,Faith,7
+failed,30,Music,Hip-Hop,50
+failed,30,Music,"Indie Rock",29
+failed,30,Music,Jazz,7
+failed,30,Music,Kids,1
+failed,30,Music,Latin,2
+failed,30,Music,Metal,5
+failed,30,Music,Music,85
+failed,30,Music,Pop,31
+failed,30,Music,Punk,7
+failed,30,Music,R&B,7
+failed,30,Music,Rock,34
+failed,30,Music,"World Music",7
+failed,30,Photography,Animals,1
+failed,30,Photography,"Fine Art",4
+failed,30,Photography,Nature,3
+failed,30,Photography,People,9
+failed,30,Photography,Photobooks,7
+failed,30,Photography,Photography,43
+failed,30,Photography,Places,5
+failed,30,Publishing,Academic,12
+failed,30,Publishing,"Art Books",16
+failed,30,Publishing,Calendars,1
+failed,30,Publishing,"Children's Books",67
+failed,30,Publishing,Fiction,107
+failed,30,Publishing,"Literary Journals",4
+failed,30,Publishing,Nonfiction,96
+failed,30,Publishing,Periodicals,13
+failed,30,Publishing,Poetry,18
+failed,30,Publishing,Publishing,42
+failed,30,Publishing,"Radio & Podcasts",6
+failed,30,Publishing,"Young Adult",10
+failed,30,Publishing,Zines,1
+failed,30,Technology,Technology,1
+failed,30,Technology,"3D Printing",7
+failed,30,Technology,Apps,64
+failed,30,Technology,"Camera Equipment",1
+failed,30,Technology,"DIY Electronics",8
+failed,30,Technology,"Fabrication Tools",5
+failed,30,Technology,Flight,4
+failed,30,Technology,Gadgets,15
+failed,30,Technology,Hardware,18
+failed,30,Technology,Robots,1
+failed,30,Technology,Software,23
+failed,30,Technology,Sound,4
+failed,30,Technology,"Space Exploration",3
+failed,30,Technology,Technology,56
+failed,30,Technology,Wearables,4
+failed,30,Technology,Web,53
+failed,30,Theater,Experimental,8
+failed,30,Theater,Festivals,2
+failed,30,Theater,Immersive,3
+failed,30,Theater,Musical,5
+failed,30,Theater,Plays,4
+failed,30,Theater,Theater,27
+failed,31,Art,Art,2
+failed,31,Art,"Digital Art",1
+failed,31,Art,Painting,2
+failed,31,Art,Sculpture,1
+failed,31,Comics,"Comic Books",1
+failed,31,Comics,Comics,3
+failed,31,Comics,"Graphic Novels",1
+failed,31,Crafts,Crafts,1
+failed,31,Crafts,Quilts,1
+failed,31,Crafts,Woodworking,1
+failed,31,Design,Design,3
+failed,31,Design,"Product Design",15
+failed,31,Fashion,Accessories,1
+failed,31,Fashion,Apparel,5
+failed,31,Fashion,Fashion,4
+failed,31,Fashion,Ready-to-wear,1
+failed,31,"Film & Video",Animation,1
+failed,31,"Film & Video",Comedy,1
+failed,31,"Film & Video",Documentary,6
+failed,31,"Film & Video",Drama,1
+failed,31,"Film & Video",Family,1
+failed,31,"Film & Video","Film & Video",3
+failed,31,"Film & Video","Narrative Film",5
+failed,31,"Film & Video","Science Fiction",1
+failed,31,"Film & Video",Shorts,6
+failed,31,"Film & Video",Thrillers,1
+failed,31,"Film & Video",Webseries,7
+failed,31,Food,Drinks,3
+failed,31,Food,Farms,1
+failed,31,Food,Food,2
+failed,31,Food,Restaurants,2
+failed,31,Food,"Small Batch",1
+failed,31,Food,Spaces,1
+failed,31,Food,Vegan,1
+failed,31,Games,"Tabletop Games",10
+failed,31,Games,"Video Games",6
+failed,31,Journalism,Journalism,1
+failed,31,Journalism,Print,1
+failed,31,Music,"Country & Folk",3
+failed,31,Music,Faith,1
+failed,31,Music,Hip-Hop,1
+failed,31,Music,"Indie Rock",2
+failed,31,Music,Jazz,1
+failed,31,Music,Music,6
+failed,31,Music,R&B,1
+failed,31,Music,Rock,2
+failed,31,Music,"World Music",1
+failed,31,Photography,People,1
+failed,31,Photography,Photobooks,1
+failed,31,Photography,Photography,2
+failed,31,Photography,Places,1
+failed,31,Publishing,"Art Books",3
+failed,31,Publishing,Calendars,1
+failed,31,Publishing,"Children's Books",1
+failed,31,Publishing,Fiction,6
+failed,31,Publishing,Nonfiction,5
+failed,31,Publishing,Publishing,4
+failed,31,Technology,"3D Printing",1
+failed,31,Technology,Apps,3
+failed,31,Technology,Gadgets,1
+failed,31,Technology,Hardware,2
+failed,31,Technology,Sound,1
+failed,31,Technology,Technology,1
+failed,31,Technology,Wearables,1
+failed,31,Technology,Web,2
+failed,31,Theater,Experimental,1
+failed,31,Theater,Theater,3
+failed,32,Art,Art,3
+failed,32,Art,"Digital Art",1
+failed,32,Art,Illustration,1
+failed,32,Art,"Mixed Media",1
+failed,32,Art,Painting,3
+failed,32,Comics,"Comic Books",1
+failed,32,Design,"Product Design",7
+failed,32,Fashion,Accessories,2
+failed,32,Fashion,Apparel,2
+failed,32,Fashion,Fashion,1
+failed,32,Fashion,Footwear,1
+failed,32,"Film & Video",Documentary,3
+failed,32,"Film & Video",Drama,1
+failed,32,"Film & Video","Film & Video",1
+failed,32,"Film & Video",Shorts,2
+failed,32,"Film & Video",Television,1
+failed,32,"Film & Video",Thrillers,1
+failed,32,"Film & Video",Webseries,3
+failed,32,Food,Events,2
+failed,32,Food,Farms,2
+failed,32,Food,Food,3
+failed,32,Food,"Small Batch",1
+failed,32,Games,"Live Games",2
+failed,32,Games,"Tabletop Games",5
+failed,32,Games,"Video Games",5
+failed,32,Journalism,Journalism,1
+failed,32,Music,"Classical Music",1
+failed,32,Music,"Country & Folk",1
+failed,32,Music,Hip-Hop,1
+failed,32,Music,"Indie Rock",3
+failed,32,Music,Music,2
+failed,32,Music,Pop,1
+failed,32,Music,R&B,1
+failed,32,Music,Rock,5
+failed,32,Photography,Animals,1
+failed,32,Photography,Photography,1
+failed,32,Publishing,"Art Books",2
+failed,32,Publishing,"Children's Books",2
+failed,32,Publishing,Fiction,3
+failed,32,Publishing,Nonfiction,2
+failed,32,Publishing,Poetry,3
+failed,32,Publishing,Publishing,1
+failed,32,Publishing,"Radio & Podcasts",1
+failed,32,Technology,Hardware,1
+failed,32,Technology,Software,1
+failed,32,Technology,Technology,2
+failed,32,Technology,Wearables,1
+failed,32,Theater,Plays,1
+failed,32,Theater,Theater,1
+failed,33,Art,Art,2
+failed,33,Art,Installations,1
+failed,33,Art,Painting,3
+failed,33,Art,"Public Art",1
+failed,33,Comics,Comics,1
+failed,33,Comics,"Graphic Novels",1
+failed,33,Crafts,Crafts,1
+failed,33,Dance,Dance,1
+failed,33,Design,"Product Design",7
+failed,33,Fashion,Apparel,1
+failed,33,Fashion,Fashion,3
+failed,33,"Film & Video",Comedy,3
+failed,33,"Film & Video",Documentary,6
+failed,33,"Film & Video",Drama,1
+failed,33,"Film & Video","Film & Video",1
+failed,33,"Film & Video","Narrative Film",3
+failed,33,"Film & Video",Shorts,3
+failed,33,"Film & Video",Television,1
+failed,33,"Film & Video",Webseries,1
+failed,33,Food,Farms,1
+failed,33,Food,Food,2
+failed,33,Games,"Tabletop Games",2
+failed,33,Games,"Video Games",6
+failed,33,Journalism,Journalism,2
+failed,33,Music,"Electronic Music",1
+failed,33,Music,Hip-Hop,1
+failed,33,Music,"Indie Rock",2
+failed,33,Music,Jazz,1
+failed,33,Music,Music,4
+failed,33,Music,Rock,3
+failed,33,Photography,Photobooks,1
+failed,33,Photography,Photography,3
+failed,33,Photography,Places,1
+failed,33,Publishing,"Art Books",1
+failed,33,Publishing,"Children's Books",1
+failed,33,Publishing,Fiction,4
+failed,33,Publishing,Nonfiction,1
+failed,33,Publishing,"Young Adult",1
+failed,33,Technology,Apps,1
+failed,33,Technology,Hardware,1
+failed,33,Technology,Technology,2
+failed,33,Technology,Wearables,1
+failed,33,Technology,Web,1
+failed,34,Art,Art,1
+failed,34,Art,"Mixed Media",1
+failed,34,Art,"Public Art",1
+failed,34,Comics,"Comic Books",2
+failed,34,Dance,Performances,1
+failed,34,Design,"Product Design",3
+failed,34,Fashion,Apparel,2
+failed,34,Fashion,Fashion,2
+failed,34,Fashion,Footwear,1
+failed,34,"Film & Video",Documentary,2
+failed,34,"Film & Video",Horror,1
+failed,34,"Film & Video","Narrative Film",1
+failed,34,"Film & Video",Shorts,5
+failed,34,"Film & Video",Thrillers,3
+failed,34,"Film & Video",Webseries,2
+failed,34,Food,Events,1
+failed,34,Food,"Food Trucks",1
+failed,34,Food,"Small Batch",1
+failed,34,Games,"Playing Cards",1
+failed,34,Games,"Tabletop Games",5
+failed,34,Games,"Video Games",3
+failed,34,Music,Music,1
+failed,34,Music,Pop,1
+failed,34,Music,Rock,2
+failed,34,Photography,People,1
+failed,34,Photography,Photography,1
+failed,34,Publishing,Fiction,1
+failed,34,Publishing,Publishing,1
+failed,34,Technology,Apps,1
+failed,34,Technology,Gadgets,1
+failed,34,Technology,Hardware,1
+failed,34,Technology,Wearables,1
+failed,35,Art,Art,4
+failed,35,Art,Painting,2
+failed,35,Comics,"Comic Books",1
+failed,35,Comics,Comics,3
+failed,35,Comics,"Graphic Novels",2
+failed,35,Crafts,Crafts,2
+failed,35,Crafts,DIY,1
+failed,35,Dance,Dance,1
+failed,35,Dance,Performances,1
+failed,35,Design,Architecture,2
+failed,35,Design,Design,3
+failed,35,Design,"Graphic Design",2
+failed,35,Design,"Product Design",9
+failed,35,Fashion,Apparel,2
+failed,35,Fashion,Fashion,5
+failed,35,"Film & Video",Comedy,3
+failed,35,"Film & Video",Documentary,6
+failed,35,"Film & Video",Drama,1
+failed,35,"Film & Video","Film & Video",4
+failed,35,"Film & Video","Narrative Film",4
+failed,35,"Film & Video","Science Fiction",1
+failed,35,"Film & Video",Shorts,2
+failed,35,"Film & Video",Webseries,1
+failed,35,Food,Drinks,1
+failed,35,Food,"Farmer's Markets",2
+failed,35,Food,Food,5
+failed,35,Food,"Small Batch",2
+failed,35,Games,"Mobile Games",1
+failed,35,Games,"Tabletop Games",6
+failed,35,Games,"Video Games",3
+failed,35,Journalism,Audio,1
+failed,35,Journalism,Journalism,2
+failed,35,Journalism,Video,1
+failed,35,Music,"Country & Folk",1
+failed,35,Music,"Electronic Music",1
+failed,35,Music,Faith,1
+failed,35,Music,Hip-Hop,1
+failed,35,Music,"Indie Rock",1
+failed,35,Music,Metal,2
+failed,35,Music,Music,4
+failed,35,Music,Pop,1
+failed,35,Music,Rock,1
+failed,35,Music,"World Music",1
+failed,35,Photography,"Fine Art",1
+failed,35,Photography,Nature,1
+failed,35,Photography,Photography,1
+failed,35,Publishing,"Art Books",1
+failed,35,Publishing,"Children's Books",3
+failed,35,Publishing,Fiction,2
+failed,35,Publishing,Nonfiction,1
+failed,35,Technology,"3D Printing",1
+failed,35,Technology,Apps,2
+failed,35,Technology,Gadgets,2
+failed,35,Technology,Hardware,1
+failed,35,Technology,Robots,1
+failed,35,Technology,Software,4
+failed,35,Technology,Technology,5
+failed,35,Technology,Wearables,2
+failed,35,Theater,Theater,2
+failed,36,Art,Art,1
+failed,36,Art,Illustration,1
+failed,36,Art,"Performance Art",1
+failed,36,Comics,Comics,1
+failed,36,Crafts,Crafts,1
+failed,36,Design,Design,2
+failed,36,Design,"Graphic Design",1
+failed,36,Design,"Product Design",3
+failed,36,"Film & Video",Animation,2
+failed,36,"Film & Video",Documentary,3
+failed,36,"Film & Video","Narrative Film",2
+failed,36,"Film & Video",Shorts,2
+failed,36,"Film & Video",Webseries,2
+failed,36,Food,Food,2
+failed,36,Food,"Food Trucks",1
+failed,36,Food,Restaurants,1
+failed,36,Food,"Small Batch",1
+failed,36,Food,Vegan,1
+failed,36,Games,"Mobile Games",1
+failed,36,Games,"Tabletop Games",1
+failed,36,Games,"Video Games",3
+failed,36,Music,"Electronic Music",1
+failed,36,Music,Rock,3
+failed,36,Photography,Photography,1
+failed,36,Publishing,Fiction,1
+failed,36,Publishing,Nonfiction,2
+failed,36,Publishing,Poetry,1
+failed,36,Publishing,Publishing,1
+failed,36,Theater,Theater,2
+failed,37,Art,Art,1
+failed,37,Art,Illustration,1
+failed,37,Art,"Performance Art",1
+failed,37,Comics,Anthologies,1
+failed,37,Comics,Comics,1
+failed,37,Crafts,Crafts,1
+failed,37,Design,Design,1
+failed,37,Design,"Product Design",1
+failed,37,Fashion,Apparel,1
+failed,37,Fashion,Fashion,1
+failed,37,Fashion,Ready-to-wear,1
+failed,37,"Film & Video",Documentary,2
+failed,37,"Film & Video","Film & Video",2
+failed,37,Food,Food,3
+failed,37,Games,"Tabletop Games",1
+failed,37,Music,Hip-Hop,1
+failed,37,Music,Jazz,1
+failed,37,Music,Rock,3
+failed,37,Photography,Places,1
+failed,37,Publishing,"Art Books",1
+failed,37,Publishing,Fiction,3
+failed,37,Publishing,"Radio & Podcasts",1
+failed,37,Publishing,Zines,1
+failed,37,Technology,Gadgets,1
+failed,37,Technology,Technology,2
+failed,38,Art,"Digital Art",1
+failed,38,Art,"Performance Art",1
+failed,38,Comics,Comics,1
+failed,38,Crafts,Candles,1
+failed,38,Crafts,Crafts,1
+failed,38,Design,"Product Design",3
+failed,38,Fashion,Fashion,1
+failed,38,Fashion,Footwear,1
+failed,38,"Film & Video","Film & Video",1
+failed,38,"Film & Video",Horror,1
+failed,38,"Film & Video","Movie Theaters",1
+failed,38,"Film & Video","Narrative Film",1
+failed,38,"Film & Video",Shorts,2
+failed,38,"Film & Video",Webseries,1
+failed,38,Food,"Farmer's Markets",1
+failed,38,Food,Food,2
+failed,38,Food,Restaurants,1
+failed,38,Food,"Small Batch",2
+failed,38,Games,Puzzles,1
+failed,38,Games,"Tabletop Games",2
+failed,38,Games,"Video Games",1
+failed,38,Music,"Indie Rock",1
+failed,38,Music,Jazz,1
+failed,38,Music,Music,1
+failed,38,Music,Pop,1
+failed,38,Photography,People,1
+failed,38,Publishing,Nonfiction,2
+failed,38,Technology,Apps,1
+failed,38,Technology,Wearables,1
+failed,38,Technology,Web,1
+failed,39,Art,"Mixed Media",1
+failed,39,Crafts,Crafts,1
+failed,39,Crafts,DIY,1
+failed,39,Design,Design,1
+failed,39,Design,"Product Design",2
+failed,39,Fashion,Apparel,3
+failed,39,Fashion,Fashion,1
+failed,39,"Film & Video",Documentary,4
+failed,39,"Film & Video","Film & Video",1
+failed,39,"Film & Video",Shorts,1
+failed,39,Food,Food,1
+failed,39,Food,"Small Batch",2
+failed,39,Games,"Tabletop Games",1
+failed,39,Music,"Country & Folk",1
+failed,39,Music,Music,1
+failed,39,Publishing,Fiction,1
+failed,39,Technology,Hardware,1
+failed,40,Art,Art,2
+failed,40,Art,Ceramics,1
+failed,40,Art,"Conceptual Art",1
+failed,40,Art,"Mixed Media",2
+failed,40,Art,Painting,2
+failed,40,Art,"Performance Art",2
+failed,40,Art,"Public Art",1
+failed,40,Comics,"Comic Books",1
+failed,40,Comics,Comics,1
+failed,40,Comics,"Graphic Novels",1
+failed,40,Crafts,Crafts,1
+failed,40,Crafts,Printing,1
+failed,40,Design,"Civic Design",1
+failed,40,Design,Design,3
+failed,40,Design,"Product Design",9
+failed,40,Fashion,Apparel,4
+failed,40,Fashion,Fashion,11
+failed,40,Fashion,Footwear,1
+failed,40,"Film & Video",Animation,2
+failed,40,"Film & Video",Comedy,1
+failed,40,"Film & Video",Documentary,8
+failed,40,"Film & Video",Drama,2
+failed,40,"Film & Video","Film & Video",9
+failed,40,"Film & Video","Movie Theaters",1
+failed,40,"Film & Video","Music Videos",1
+failed,40,"Film & Video","Narrative Film",2
+failed,40,"Film & Video",Shorts,8
+failed,40,"Film & Video",Webseries,4
+failed,40,Food,Events,1
+failed,40,Food,Food,5
+failed,40,Food,"Food Trucks",1
+failed,40,Food,Restaurants,4
+failed,40,Games,Games,1
+failed,40,Games,"Playing Cards",1
+failed,40,Games,Puzzles,1
+failed,40,Games,"Tabletop Games",2
+failed,40,Games,"Video Games",1
+failed,40,Journalism,Journalism,1
+failed,40,Music,"Country & Folk",1
+failed,40,Music,Hip-Hop,3
+failed,40,Music,Jazz,3
+failed,40,Music,Music,14
+failed,40,Music,Pop,1
+failed,40,Music,Punk,1
+failed,40,Music,Rock,3
+failed,40,Photography,Animals,1
+failed,40,Photography,Photography,2
+failed,40,Photography,Places,1
+failed,40,Publishing,"Children's Books",2
+failed,40,Publishing,Fiction,6
+failed,40,Publishing,Nonfiction,2
+failed,40,Publishing,Periodicals,1
+failed,40,Publishing,Publishing,2
+failed,40,Technology,Apps,2
+failed,40,Technology,Gadgets,1
+failed,40,Technology,Hardware,3
+failed,40,Technology,Software,1
+failed,40,Technology,"Space Exploration",1
+failed,40,Technology,Technology,5
+failed,40,Technology,Wearables,1
+failed,40,Technology,Web,3
+failed,40,Theater,Festivals,1
+failed,40,Theater,Theater,1
+failed,41,Art,Art,1
+failed,41,Art,Illustration,1
+failed,41,Art,"Public Art",1
+failed,41,Comics,Comics,1
+failed,41,Comics,"Graphic Novels",1
+failed,41,Crafts,DIY,1
+failed,41,Dance,Dance,1
+failed,41,Design,Design,1
+failed,41,Design,"Product Design",3
+failed,41,Fashion,Accessories,1
+failed,41,Fashion,Apparel,1
+failed,41,Fashion,Fashion,1
+failed,41,"Film & Video",Documentary,4
+failed,41,"Film & Video","Film & Video",3
+failed,41,Food,Food,2
+failed,41,Music,"Indie Rock",2
+failed,41,Music,Music,3
+failed,41,Music,Pop,1
+failed,41,Photography,"Fine Art",1
+failed,41,Publishing,"Children's Books",1
+failed,41,Publishing,Fiction,3
+failed,41,Publishing,"Literary Journals",1
+failed,41,Publishing,Nonfiction,2
+failed,41,Technology,Apps,3
+failed,42,Art,Art,1
+failed,42,Design,"Civic Design",1
+failed,42,Design,Design,1
+failed,42,Design,"Product Design",3
+failed,42,Fashion,Apparel,1
+failed,42,Fashion,Fashion,1
+failed,42,"Film & Video",Documentary,6
+failed,42,"Film & Video","Film & Video",2
+failed,42,Food,Food,1
+failed,42,Games,Games,1
+failed,42,Games,"Tabletop Games",1
+failed,42,Games,"Video Games",1
+failed,42,Music,"Classical Music",1
+failed,42,Music,"Country & Folk",1
+failed,42,Music,Jazz,1
+failed,42,Music,Rock,2
+failed,42,Publishing,Nonfiction,1
+failed,42,Publishing,Publishing,1
+failed,42,Technology,Apps,1
+failed,42,Theater,Theater,1
+failed,43,Art,Art,1
+failed,43,"Film & Video",Webseries,1
+failed,43,Food,Food,1
+failed,43,Food,Restaurants,1
+failed,43,Games,"Tabletop Games",2
+failed,43,Journalism,Journalism,1
+failed,43,Music,Music,1
+failed,43,Photography,"Fine Art",1
+failed,43,Photography,Photography,1
+failed,43,Publishing,Fiction,1
+failed,43,Publishing,Nonfiction,1
+failed,43,Publishing,Periodicals,1
+failed,44,Comics,"Comic Books",1
+failed,44,Dance,Dance,1
+failed,44,Design,Design,1
+failed,44,Design,"Product Design",1
+failed,44,Fashion,Apparel,1
+failed,44,"Film & Video",Documentary,2
+failed,44,"Film & Video","Narrative Film",1
+failed,44,"Film & Video",Shorts,2
+failed,44,Games,"Tabletop Games",1
+failed,44,Games,"Video Games",1
+failed,44,Music,"Country & Folk",1
+failed,44,Music,Music,1
+failed,44,Music,Rock,2
+failed,44,Publishing,Publishing,1
+failed,44,Theater,Festivals,1
+failed,44,Theater,Theater,1
+failed,45,Art,Art,12
+failed,45,Art,Ceramics,1
+failed,45,Art,Illustration,1
+failed,45,Art,Installations,1
+failed,45,Art,"Mixed Media",1
+failed,45,Art,Painting,2
+failed,45,Art,"Performance Art",2
+failed,45,Art,"Public Art",3
+failed,45,Art,Sculpture,1
+failed,45,Comics,Comics,5
+failed,45,Crafts,Crafts,2
+failed,45,Crafts,DIY,1
+failed,45,Crafts,Embroidery,1
+failed,45,Crafts,Printing,1
+failed,45,Design,Design,4
+failed,45,Design,"Graphic Design",2
+failed,45,Design,"Interactive Design",1
+failed,45,Design,"Product Design",32
+failed,45,Fashion,Accessories,4
+failed,45,Fashion,Apparel,2
+failed,45,Fashion,Childrenswear,1
+failed,45,Fashion,Fashion,16
+failed,45,Fashion,Footwear,3
+failed,45,Fashion,Ready-to-wear,1
+failed,45,"Film & Video",Animation,3
+failed,45,"Film & Video",Comedy,2
+failed,45,"Film & Video",Documentary,18
+failed,45,"Film & Video",Drama,2
+failed,45,"Film & Video",Family,1
+failed,45,"Film & Video","Film & Video",13
+failed,45,"Film & Video",Horror,2
+failed,45,"Film & Video","Music Videos",1
+failed,45,"Film & Video","Narrative Film",6
+failed,45,"Film & Video","Science Fiction",2
+failed,45,"Film & Video",Shorts,9
+failed,45,"Film & Video",Webseries,7
+failed,45,Food,Cookbooks,1
+failed,45,Food,Drinks,3
+failed,45,Food,Farms,1
+failed,45,Food,Food,13
+failed,45,Food,"Food Trucks",1
+failed,45,Food,Restaurants,4
+failed,45,Food,"Small Batch",1
+failed,45,Food,Vegan,1
+failed,45,Games,Games,1
+failed,45,Games,"Mobile Games",1
+failed,45,Games,"Playing Cards",1
+failed,45,Games,"Tabletop Games",6
+failed,45,Games,"Video Games",5
+failed,45,Journalism,Journalism,2
+failed,45,Journalism,Video,2
+failed,45,Music,"Classical Music",1
+failed,45,Music,"Country & Folk",4
+failed,45,Music,"Electronic Music",3
+failed,45,Music,Hip-Hop,3
+failed,45,Music,"Indie Rock",4
+failed,45,Music,Music,10
+failed,45,Music,Pop,3
+failed,45,Music,Rock,5
+failed,45,Music,"World Music",1
+failed,45,Photography,Photography,5
+failed,45,Publishing,"Art Books",1
+failed,45,Publishing,"Children's Books",5
+failed,45,Publishing,Fiction,9
+failed,45,Publishing,Nonfiction,8
+failed,45,Publishing,Periodicals,1
+failed,45,Publishing,Poetry,1
+failed,45,Publishing,Publishing,5
+failed,45,Publishing,"Radio & Podcasts",1
+failed,45,Publishing,"Young Adult",1
+failed,45,Technology,"3D Printing",2
+failed,45,Technology,Apps,9
+failed,45,Technology,"DIY Electronics",1
+failed,45,Technology,Flight,1
+failed,45,Technology,Gadgets,4
+failed,45,Technology,Hardware,3
+failed,45,Technology,Makerspaces,1
+failed,45,Technology,Software,4
+failed,45,Technology,Technology,16
+failed,45,Technology,Wearables,3
+failed,45,Technology,Web,6
+failed,45,Theater,Experimental,1
+failed,45,Theater,Theater,5
+failed,46,Art,Art,2
+failed,46,Art,"Performance Art",1
+failed,46,Design,"Product Design",1
+failed,46,Fashion,Fashion,1
+failed,46,"Film & Video",Documentary,1
+failed,46,"Film & Video",Horror,1
+failed,46,"Film & Video","Narrative Film",1
+failed,46,"Film & Video",Shorts,2
+failed,46,"Film & Video",Webseries,1
+failed,46,Food,Food,1
+failed,46,Games,"Video Games",1
+failed,46,Music,"Country & Folk",1
+failed,46,Music,"Electronic Music",1
+failed,46,Music,"Indie Rock",1
+failed,46,Music,Music,4
+failed,46,Music,"World Music",1
+failed,46,Photography,Photography,1
+failed,46,Publishing,"Children's Books",1
+failed,46,Publishing,Fiction,1
+failed,46,Publishing,Nonfiction,1
+failed,46,Technology,Apps,1
+failed,46,Technology,Web,1
+failed,46,Theater,Theater,1
+failed,47,Design,Design,1
+failed,47,Design,"Product Design",1
+failed,47,"Film & Video",Documentary,3
+failed,47,"Film & Video",Family,1
+failed,47,"Film & Video","Film & Video",2
+failed,47,"Film & Video","Science Fiction",1
+failed,47,"Film & Video",Shorts,2
+failed,47,Food,Food,2
+failed,47,Music,Music,1
+failed,47,Photography,"Fine Art",1
+failed,47,Photography,Photography,1
+failed,47,Publishing,Nonfiction,1
+failed,47,Technology,Hardware,1
+failed,48,Art,Art,1
+failed,48,Art,"Mixed Media",1
+failed,48,Art,Painting,1
+failed,48,Art,"Performance Art",1
+failed,48,Fashion,Fashion,1
+failed,48,"Film & Video",Action,1
+failed,48,"Film & Video",Documentary,2
+failed,48,"Film & Video",Horror,1
+failed,48,Games,"Tabletop Games",2
+failed,48,Music,Music,1
+failed,48,Photography,Photography,1
+failed,48,Publishing,"Children's Books",1
+failed,48,Publishing,Fiction,1
+failed,48,Publishing,Publishing,1
+failed,49,Art,"Mixed Media",1
+failed,49,Dance,Dance,1
+failed,49,"Film & Video","Film & Video",1
+failed,49,"Film & Video","Narrative Film",1
+failed,49,"Film & Video",Shorts,1
+failed,49,Food,Food,1
+failed,49,Games,"Video Games",1
+failed,49,Music,"Electronic Music",1
+failed,49,Music,"Indie Rock",1
+failed,49,Publishing,Fiction,1
+failed,50,Art,Art,1
+failed,50,Art,Sculpture,1
+failed,50,Design,"Product Design",3
+failed,50,Fashion,Apparel,2
+failed,50,"Film & Video",Animation,1
+failed,50,"Film & Video",Comedy,1
+failed,50,"Film & Video",Documentary,1
+failed,50,"Film & Video","Film & Video",1
+failed,50,"Film & Video",Shorts,1
+failed,50,"Film & Video",Thrillers,1
+failed,50,Food,"Farmer's Markets",1
+failed,50,Food,Food,1
+failed,50,Food,"Food Trucks",2
+failed,50,Games,Games,1
+failed,50,Music,"Country & Folk",1
+failed,50,Music,"Indie Rock",1
+failed,50,Music,Music,3
+failed,50,Music,Rock,2
+failed,50,Publishing,Nonfiction,1
+failed,50,Publishing,"Radio & Podcasts",1
+failed,50,Technology,Apps,2
+failed,50,Technology,"DIY Electronics",1
+failed,50,Technology,Hardware,1
+failed,50,Technology,Technology,1
+failed,50,Theater,Theater,2
+failed,51,Art,"Digital Art",1
+failed,51,Art,"Public Art",1
+failed,51,Art,Sculpture,1
+failed,51,Comics,Comics,1
+failed,51,Fashion,Fashion,1
+failed,51,"Film & Video","Film & Video",1
+failed,51,"Film & Video","Narrative Film",1
+failed,51,"Film & Video",Shorts,2
+failed,51,"Film & Video",Webseries,1
+failed,51,Food,Food,2
+failed,51,Music,Jazz,1
+failed,51,Music,Pop,1
+failed,51,Photography,Nature,1
+failed,51,Publishing,"Art Books",1
+failed,51,Publishing,Publishing,1
+failed,51,Technology,Web,1
+failed,52,Art,"Digital Art",1
+failed,52,Design,Architecture,1
+failed,52,"Film & Video","Narrative Film",1
+failed,52,"Film & Video",Television,1
+failed,52,Food,Restaurants,1
+failed,52,Music,"Classical Music",1
+failed,52,Music,Jazz,2
+failed,52,Music,Music,1
+failed,52,Music,Pop,1
+failed,52,Music,Rock,1
+failed,52,Publishing,"Children's Books",1
+failed,52,Publishing,Fiction,2
+failed,52,Technology,Apps,1
+failed,52,Theater,Theater,1
+failed,53,Art,Art,1
+failed,53,Crafts,DIY,1
+failed,53,Design,"Graphic Design",1
+failed,53,"Film & Video",Animation,2
+failed,53,"Film & Video","Narrative Film",1
+failed,53,Games,"Video Games",1
+failed,53,Publishing,Nonfiction,1
+failed,53,Publishing,Publishing,1
+failed,54,Art,Art,1
+failed,54,Art,"Mixed Media",1
+failed,54,Art,"Public Art",1
+failed,54,Design,"Graphic Design",1
+failed,54,"Film & Video",Shorts,1
+failed,54,Food,Cookbooks,1
+failed,54,Food,Food,1
+failed,54,Music,Hip-Hop,1
+failed,54,Music,Pop,1
+failed,54,Music,Rock,1
+failed,54,Music,"World Music",1
+failed,54,Publishing,Fiction,1
+failed,54,Technology,Technology,1
+failed,55,Art,Art,2
+failed,55,Art,"Performance Art",1
+failed,55,Design,Design,1
+failed,55,Fashion,Apparel,2
+failed,55,"Film & Video","Film & Video",1
+failed,55,"Film & Video","Narrative Film",1
+failed,55,Food,Food,1
+failed,55,Food,Restaurants,1
+failed,55,Food,"Small Batch",1
+failed,55,Games,"Live Games",1
+failed,55,Games,"Tabletop Games",1
+failed,55,Games,"Video Games",1
+failed,55,Music,"Classical Music",1
+failed,55,Music,"World Music",1
+failed,55,Technology,Gadgets,1
+failed,55,Technology,Hardware,1
+failed,56,Art,Illustration,1
+failed,56,Art,Sculpture,1
+failed,56,"Film & Video",Action,1
+failed,56,"Film & Video",Documentary,2
+failed,56,"Film & Video",Drama,1
+failed,56,"Film & Video",Shorts,2
+failed,56,"Film & Video",Television,1
+failed,56,"Film & Video",Webseries,1
+failed,56,Music,Music,1
+failed,56,Photography,Photography,1
+failed,56,Publishing,"Art Books",1
+failed,56,Publishing,"Children's Books",1
+failed,56,Publishing,Fiction,2
+failed,56,Technology,Technology,1
+failed,56,Technology,Web,1
+failed,56,Theater,Theater,1
+failed,57,Art,"Performance Art",1
+failed,57,Fashion,Apparel,2
+failed,57,Food,Drinks,1
+failed,57,Food,Restaurants,1
+failed,57,Music,"Country & Folk",1
+failed,57,Music,Hip-Hop,1
+failed,57,Photography,"Fine Art",1
+failed,57,Photography,Photography,1
+failed,57,Publishing,Fiction,1
+failed,57,Publishing,Nonfiction,1
+failed,57,Technology,Apps,1
+failed,57,Technology,"DIY Electronics",1
+failed,58,Art,Art,1
+failed,58,Art,Sculpture,1
+failed,58,Dance,Performances,1
+failed,58,Design,Design,1
+failed,58,"Film & Video",Animation,1
+failed,58,"Film & Video",Documentary,3
+failed,58,Food,Restaurants,1
+failed,58,Music,Hip-Hop,1
+failed,58,Music,Music,1
+failed,58,Music,Pop,1
+failed,58,Publishing,Publishing,1
+failed,58,Theater,Musical,1
+failed,58,Theater,Theater,2
+failed,59,Art,Art,1
+failed,59,Art,"Performance Art",1
+failed,59,Design,"Product Design",3
+failed,59,Fashion,Apparel,1
+failed,59,Fashion,Fashion,1
+failed,59,"Film & Video",Documentary,3
+failed,59,"Film & Video","Film & Video",2
+failed,59,"Film & Video","Narrative Film",2
+failed,59,"Film & Video",Shorts,1
+failed,59,Food,Drinks,1
+failed,59,Food,"Food Trucks",1
+failed,59,Games,"Mobile Games",1
+failed,59,Games,"Tabletop Games",1
+failed,59,Music,"Electronic Music",1
+failed,59,Music,"Indie Rock",1
+failed,59,Music,Jazz,1
+failed,59,Music,Music,1
+failed,59,Music,Pop,1
+failed,59,Music,"World Music",3
+failed,59,Publishing,"Children's Books",2
+failed,59,Publishing,Fiction,1
+failed,59,Publishing,Nonfiction,1
+failed,59,Publishing,Poetry,1
+failed,59,Technology,Hardware,2
+failed,59,Technology,Software,1
+failed,59,Technology,Technology,1
+failed,59,Technology,Web,1
+failed,59,Theater,Theater,3
+failed,60,Art,Art,14
+failed,60,Art,"Digital Art",2
+failed,60,Art,Illustration,1
+failed,60,Art,Installations,1
+failed,60,Art,"Mixed Media",3
+failed,60,Art,Painting,6
+failed,60,Art,"Performance Art",2
+failed,60,Art,"Public Art",9
+failed,60,Art,Sculpture,3
+failed,60,Comics,"Comic Books",2
+failed,60,Comics,Comics,11
+failed,60,Comics,"Graphic Novels",2
+failed,60,Crafts,Crafts,13
+failed,60,Crafts,Crochet,2
+failed,60,Crafts,DIY,4
+failed,60,Crafts,Embroidery,1
+failed,60,Crafts,Knitting,1
+failed,60,Crafts,Woodworking,2
+failed,60,Dance,Dance,2
+failed,60,Design,"Civic Design",1
+failed,60,Design,Design,9
+failed,60,Design,"Graphic Design",2
+failed,60,Design,"Interactive Design",1
+failed,60,Design,"Product Design",22
+failed,60,Design,Typography,1
+failed,60,Fashion,Accessories,2
+failed,60,Fashion,Apparel,15
+failed,60,Fashion,Childrenswear,2
+failed,60,Fashion,Couture,1
+failed,60,Fashion,Fashion,7
+failed,60,"Film & Video",Action,2
+failed,60,"Film & Video",Animation,8
+failed,60,"Film & Video",Comedy,4
+failed,60,"Film & Video",Documentary,40
+failed,60,"Film & Video",Drama,11
+failed,60,"Film & Video",Family,1
+failed,60,"Film & Video","Film & Video",30
+failed,60,"Film & Video",Horror,3
+failed,60,"Film & Video","Movie Theaters",1
+failed,60,"Film & Video","Music Videos",1
+failed,60,"Film & Video","Narrative Film",14
+failed,60,"Film & Video",Romance,1
+failed,60,"Film & Video","Science Fiction",3
+failed,60,"Film & Video",Shorts,13
+failed,60,"Film & Video",Television,1
+failed,60,"Film & Video",Thrillers,2
+failed,60,"Film & Video",Webseries,13
+failed,60,Food,"Community Gardens",2
+failed,60,Food,Cookbooks,3
+failed,60,Food,Drinks,3
+failed,60,Food,Events,1
+failed,60,Food,"Farmer's Markets",2
+failed,60,Food,Farms,3
+failed,60,Food,Food,20
+failed,60,Food,"Food Trucks",5
+failed,60,Food,Restaurants,7
+failed,60,Food,"Small Batch",4
+failed,60,Food,Spaces,1
+failed,60,Food,Vegan,2
+failed,60,Games,Games,2
+failed,60,Games,"Live Games",3
+failed,60,Games,"Mobile Games",1
+failed,60,Games,"Tabletop Games",4
+failed,60,Games,"Video Games",9
+failed,60,Journalism,Journalism,4
+failed,60,Journalism,Photo,1
+failed,60,Journalism,Print,2
+failed,60,Journalism,Video,1
+failed,60,Music,"Classical Music",4
+failed,60,Music,"Country & Folk",5
+failed,60,Music,Faith,1
+failed,60,Music,Hip-Hop,15
+failed,60,Music,"Indie Rock",2
+failed,60,Music,Jazz,2
+failed,60,Music,Metal,2
+failed,60,Music,Music,22
+failed,60,Music,Pop,2
+failed,60,Music,Punk,2
+failed,60,Music,R&B,1
+failed,60,Music,Rock,16
+failed,60,Music,"World Music",4
+failed,60,Photography,Nature,1
+failed,60,Photography,People,2
+failed,60,Photography,Photography,14
+failed,60,Photography,Places,2
+failed,60,Publishing,Academic,5
+failed,60,Publishing,"Art Books",2
+failed,60,Publishing,"Children's Books",8
+failed,60,Publishing,Fiction,22
+failed,60,Publishing,Nonfiction,23
+failed,60,Publishing,Periodicals,1
+failed,60,Publishing,Poetry,5
+failed,60,Publishing,Publishing,11
+failed,60,Publishing,"Radio & Podcasts",1
+failed,60,Publishing,Translations,1
+failed,60,Publishing,"Young Adult",3
+failed,60,Technology,"3D Printing",2
+failed,60,Technology,Apps,11
+failed,60,Technology,Flight,2
+failed,60,Technology,Gadgets,5
+failed,60,Technology,Hardware,4
+failed,60,Technology,Makerspaces,1
+failed,60,Technology,Robots,1
+failed,60,Technology,Software,14
+failed,60,Technology,Technology,15
+failed,60,Technology,Wearables,2
+failed,60,Technology,Web,18
+failed,60,Theater,Experimental,2
+failed,60,Theater,Festivals,1
+failed,60,Theater,Immersive,1
+failed,60,Theater,Musical,4
+failed,60,Theater,Plays,2
+failed,60,Theater,Theater,17
+failed,61,Art,Painting,1
+failed,61,Art,"Performance Art",1
+failed,61,Comics,Comics,1
+failed,61,"Film & Video",Animation,1
+failed,61,"Film & Video",Documentary,2
+failed,61,"Film & Video","Narrative Film",1
+failed,61,Music,Hip-Hop,1
+failed,61,Music,"Indie Rock",1
+failed,61,Photography,Photography,1
+failed,61,Publishing,"Children's Books",1
+failed,61,Theater,Theater,2
+failed,62,"Film & Video",Documentary,2
+failed,62,Food,Food,1
+failed,63,Music,"Electronic Music",1
+failed,63,Music,"Indie Rock",1
+failed,64,"Film & Video",Documentary,1
+failed,64,Music,Music,1
+failed,66,Design,"Product Design",1
+failed,66,"Film & Video",Shorts,1
+failed,66,"Film & Video",Webseries,1
+failed,66,Music,Rock,1
+failed,66,Photography,Photography,1
+failed,66,Technology,Hardware,1
+failed,66,Theater,Theater,1
+failed,67,"Film & Video","Film & Video",1
+failed,69,Fashion,Fashion,1
+failed,70,Design,"Product Design",1
+failed,70,Theater,Theater,1
+failed,71,"Film & Video","Film & Video",1
+failed,71,Music,Hip-Hop,1
+failed,72,"Film & Video",Shorts,1
+failed,73,"Film & Video","Film & Video",1
+failed,75,"Film & Video",Documentary,1
+failed,75,Music,"Electronic Music",1
+failed,76,"Film & Video",Shorts,1
+failed,77,"Film & Video","Film & Video",1
+failed,78,Music,"Indie Rock",1
+failed,80,"Film & Video",Shorts,1
+failed,81,Dance,Dance,1
+failed,83,"Film & Video","Narrative Film",1
+failed,83,"Film & Video",Shorts,1
+failed,84,"Film & Video",Webseries,1
+failed,84,Music,Music,1
+failed,86,Design,"Product Design",1
+failed,86,"Film & Video",Documentary,2
+failed,86,Publishing,Fiction,1
+failed,86,Publishing,Publishing,1
+failed,87,Art,"Digital Art",1
+failed,88,Music,"Indie Rock",1
+failed,88,Music,Music,1
+failed,88,Theater,Theater,1
+failed,89,"Film & Video",Documentary,2
+failed,89,"Film & Video","Narrative Film",1
+failed,89,"Film & Video",Shorts,1
+failed,89,Music,Hip-Hop,1
+failed,89,Music,Music,1
+failed,89,Music,Pop,1
+failed,89,Music,"World Music",1
+failed,90,Art,Painting,1
+failed,90,Art,"Performance Art",1
+failed,90,Comics,Comics,2
+failed,90,Design,"Product Design",1
+failed,90,Fashion,Fashion,2
+failed,90,"Film & Video",Documentary,6
+failed,90,"Film & Video","Film & Video",4
+failed,90,"Film & Video","Narrative Film",1
+failed,90,"Film & Video",Shorts,1
+failed,90,"Film & Video",Webseries,2
+failed,90,Food,Food,1
+failed,90,Games,Games,1
+failed,90,Games,"Tabletop Games",1
+failed,90,Journalism,Journalism,1
+failed,90,Music,Hip-Hop,2
+failed,90,Music,"Indie Rock",2
+failed,90,Music,Music,2
+failed,90,Music,Rock,1
+failed,90,Publishing,"Children's Books",1
+failed,90,Publishing,Fiction,2
+failed,90,Publishing,Poetry,1
+failed,90,Publishing,Publishing,1
+failed,90,Technology,Software,2
+failed,90,Technology,Technology,1
+failed,91,Art,"Mixed Media",1
+failed,91,"Film & Video","Narrative Film",2
+failed,91,"Film & Video",Shorts,1
+failed,91,"Film & Video",Webseries,1
+failed,91,Journalism,Journalism,1
+failed,91,Music,Jazz,1
+failed,91,Music,Music,2
+failed,91,Publishing,"Children's Books",1
+failed,91,Publishing,Nonfiction,1
+failed,91,Theater,Theater,2
+failed,92,"Film & Video","Film & Video",1
+successful,1,Art,Art,1
+successful,1,Photography,Photography,1
+successful,1,Publishing,Fiction,1
+successful,2,Food,Bacon,1
+successful,2,Games,"Playing Cards",1
+successful,3,Journalism,Journalism,1
+successful,4,Art,"Digital Art",1
+successful,4,Art,"Performance Art",1
+successful,4,Crafts,Crafts,1
+successful,5,"Film & Video","Film & Video",2
+successful,5,"Film & Video","Music Videos",1
+successful,5,"Film & Video",Shorts,1
+successful,5,Games,"Tabletop Games",2
+successful,5,Music,Music,1
+successful,6,Art,Sculpture,1
+successful,6,Publishing,"Art Books",1
+successful,7,Art,Art,1
+successful,7,Art,Illustration,1
+successful,7,Art,"Mixed Media",2
+successful,7,Comics,Comics,1
+successful,7,Comics,"Graphic Novels",1
+successful,7,Comics,Webcomics,2
+successful,7,Crafts,Embroidery,1
+successful,7,Design,Design,1
+successful,7,Design,"Product Design",2
+successful,7,Fashion,Accessories,1
+successful,7,"Film & Video",Documentary,1
+successful,7,"Film & Video","Film & Video",1
+successful,7,"Film & Video",Shorts,2
+successful,7,Food,"Food Trucks",1
+successful,7,Food,"Small Batch",1
+successful,7,Games,"Tabletop Games",2
+successful,7,Music,"Indie Rock",1
+successful,7,Music,Music,1
+successful,7,Music,"World Music",1
+successful,7,Photography,"Fine Art",1
+successful,7,Publishing,"Children's Books",1
+successful,7,Theater,Theater,1
+successful,8,Art,Art,2
+successful,8,Crafts,Crafts,1
+successful,8,"Film & Video",Shorts,1
+successful,8,Games,Games,1
+successful,8,Games,"Tabletop Games",2
+successful,8,Publishing,Fiction,1
+successful,8,Theater,Theater,1
+successful,9,Art,Art,1
+successful,9,Art,"Public Art",1
+successful,9,Art,Sculpture,1
+successful,9,Crafts,Crafts,1
+successful,9,"Film & Video",Shorts,1
+successful,9,Games,"Tabletop Games",2
+successful,9,Music,"Country & Folk",1
+successful,9,Theater,Experimental,1
+successful,9,Theater,Festivals,1
+successful,9,Theater,Theater,1
+successful,10,Art,"Mixed Media",2
+successful,10,Art,"Performance Art",1
+successful,10,Art,"Public Art",1
+successful,10,Comics,Comics,1
+successful,10,Comics,Webcomics,1
+successful,10,Crafts,Crafts,1
+successful,10,Crafts,Knitting,1
+successful,10,Design,"Product Design",1
+successful,10,Fashion,Jewelry,1
+successful,10,"Film & Video",Action,1
+successful,10,"Film & Video",Drama,2
+successful,10,"Film & Video",Shorts,5
+successful,10,Food,Food,2
+successful,10,Food,"Food Trucks",1
+successful,10,Games,"Tabletop Games",2
+successful,10,Music,"Classical Music",1
+successful,10,Music,"Country & Folk",2
+successful,10,Music,Jazz,1
+successful,10,Music,Metal,1
+successful,10,Music,Music,2
+successful,10,Music,Pop,1
+successful,10,Photography,"Fine Art",1
+successful,10,Publishing,Calendars,1
+successful,10,Publishing,Zines,1
+successful,10,Theater,Experimental,1
+successful,10,Theater,Theater,4
+successful,11,Dance,Dance,1
+successful,11,"Film & Video","Film & Video",1
+successful,11,"Film & Video","Science Fiction",1
+successful,11,Food,Food,1
+successful,11,Games,"Playing Cards",1
+successful,11,Publishing,Fiction,1
+successful,12,Art,Illustration,1
+successful,12,Art,"Public Art",1
+successful,12,Comics,"Comic Books",1
+successful,12,Design,"Product Design",1
+successful,12,"Film & Video",Shorts,2
+successful,12,"Film & Video",Thrillers,1
+successful,12,Food,Food,1
+successful,12,Food,"Small Batch",1
+successful,12,Games,"Tabletop Games",1
+successful,12,Music,"Classical Music",1
+successful,12,Music,"Indie Rock",1
+successful,12,Theater,Musical,1
+successful,12,Theater,Theater,1
+successful,13,Art,"Mixed Media",1
+successful,13,Art,Sculpture,1
+successful,13,"Film & Video",Shorts,1
+successful,13,"Film & Video",Thrillers,1
+successful,13,Games,"Tabletop Games",2
+successful,13,Publishing,Publishing,2
+successful,13,Theater,Theater,2
+successful,14,Art,Illustration,2
+successful,14,Art,Painting,2
+successful,14,Art,"Performance Art",1
+successful,14,Comics,Webcomics,1
+successful,14,Crafts,Crafts,1
+successful,14,Crafts,DIY,1
+successful,14,Dance,Dance,1
+successful,14,Design,"Graphic Design",1
+successful,14,Design,"Product Design",1
+successful,14,Fashion,Childrenswear,1
+successful,14,"Film & Video",Animation,1
+successful,14,"Film & Video",Comedy,1
+successful,14,"Film & Video","Film & Video",2
+successful,14,"Film & Video",Horror,2
+successful,14,"Film & Video","Music Videos",1
+successful,14,"Film & Video",Shorts,8
+successful,14,"Film & Video",Webseries,1
+successful,14,Food,Food,1
+successful,14,Food,Spaces,1
+successful,14,Games,"Tabletop Games",1
+successful,14,Music,"Classical Music",1
+successful,14,Music,Faith,1
+successful,14,Music,"Indie Rock",3
+successful,14,Music,Music,7
+successful,14,Music,R&B,1
+successful,14,Music,Rock,3
+successful,14,Publishing,"Children's Books",1
+successful,14,Publishing,Fiction,2
+successful,14,Publishing,Periodicals,1
+successful,14,Publishing,"Radio & Podcasts",1
+successful,14,Publishing,"Young Adult",1
+successful,14,Technology,Apps,1
+successful,14,Technology,Technology,1
+successful,14,Theater,Festivals,1
+successful,14,Theater,Theater,2
+successful,15,Art,Art,3
+successful,15,Art,"Digital Art",1
+successful,15,Art,Illustration,2
+successful,15,Art,Installations,1
+successful,15,Art,"Public Art",1
+successful,15,Art,Sculpture,1
+successful,15,Comics,"Comic Books",2
+successful,15,Comics,Comics,1
+successful,15,Crafts,Crafts,1
+successful,15,Design,"Graphic Design",2
+successful,15,Design,"Product Design",3
+successful,15,Fashion,Accessories,2
+successful,15,Fashion,Apparel,1
+successful,15,"Film & Video",Animation,1
+successful,15,"Film & Video",Documentary,7
+successful,15,"Film & Video",Drama,1
+successful,15,"Film & Video","Film & Video",3
+successful,15,"Film & Video",Shorts,3
+successful,15,"Film & Video",Webseries,2
+successful,15,Food,Food,1
+successful,15,Food,Spaces,1
+successful,15,Games,Games,1
+successful,15,Games,"Playing Cards",1
+successful,15,Games,"Tabletop Games",2
+successful,15,Journalism,Journalism,1
+successful,15,Journalism,Print,1
+successful,15,Music,"Country & Folk",3
+successful,15,Music,"Indie Rock",2
+successful,15,Music,Music,6
+successful,15,Music,Rock,1
+successful,15,Photography,Photography,2
+successful,15,Publishing,Calendars,1
+successful,15,Publishing,Fiction,3
+successful,15,Publishing,Periodicals,1
+successful,15,Publishing,Publishing,1
+successful,15,Publishing,"Radio & Podcasts",1
+successful,15,Publishing,"Young Adult",2
+successful,15,Technology,Technology,3
+successful,15,Theater,Experimental,1
+successful,15,Theater,Theater,1
+successful,16,Art,Art,1
+successful,16,Art,"Conceptual Art",1
+successful,16,Art,"Digital Art",1
+successful,16,Art,"Public Art",2
+successful,16,Art,Sculpture,1
+successful,16,Comics,Comics,1
+successful,16,Design,Design,1
+successful,16,"Film & Video",Documentary,2
+successful,16,"Film & Video","Film & Video",3
+successful,16,"Film & Video",Shorts,2
+successful,16,Food,Farms,1
+successful,16,Food,Food,2
+successful,16,Games,"Playing Cards",1
+successful,16,Games,"Tabletop Games",2
+successful,16,Games,"Video Games",1
+successful,16,Music,"Country & Folk",2
+successful,16,Music,"Indie Rock",2
+successful,16,Music,Music,1
+successful,16,Music,Pop,2
+successful,16,Music,Rock,3
+successful,16,Music,"World Music",1
+successful,16,Photography,Photography,3
+successful,16,Theater,Theater,2
+successful,17,Art,Ceramics,1
+successful,17,Art,"Digital Art",1
+successful,17,Art,"Mixed Media",1
+successful,17,Comics,"Graphic Novels",1
+successful,17,"Film & Video",Shorts,3
+successful,17,"Film & Video",Webseries,1
+successful,17,Games,"Live Games",1
+successful,17,Games,"Tabletop Games",1
+successful,17,Music,"Classical Music",1
+successful,17,Music,Music,2
+successful,17,Music,Pop,1
+successful,17,Publishing,"Children's Books",1
+successful,17,Publishing,Fiction,1
+successful,17,Publishing,Nonfiction,1
+successful,17,Technology,Technology,1
+successful,17,Theater,Plays,1
+successful,17,Theater,Theater,1
+successful,18,Art,"Public Art",1
+successful,18,Comics,Comics,2
+successful,18,Design,"Product Design",1
+successful,18,Fashion,Fashion,1
+successful,18,"Film & Video",Animation,1
+successful,18,"Film & Video",Documentary,1
+successful,18,"Film & Video","Film & Video",1
+successful,18,"Film & Video",Shorts,3
+successful,18,Food,Bacon,1
+successful,18,Games,"Tabletop Games",1
+successful,18,Music,"Country & Folk",3
+successful,18,Music,"Indie Rock",1
+successful,18,Music,Music,4
+successful,18,Publishing,"Art Books",1
+successful,18,Technology,Gadgets,1
+successful,18,Technology,Technology,2
+successful,18,Theater,Theater,2
+successful,19,Art,"Mixed Media",1
+successful,19,Comics,Comics,1
+successful,19,Fashion,Accessories,1
+successful,19,Fashion,Fashion,1
+successful,19,"Film & Video",Documentary,1
+successful,19,"Film & Video",Shorts,2
+successful,19,"Film & Video",Television,1
+successful,19,Games,"Tabletop Games",2
+successful,19,Photography,Photography,1
+successful,19,Theater,Theater,1
+successful,20,Art,Art,2
+successful,20,Art,Illustration,2
+successful,20,Art,"Mixed Media",1
+successful,20,Art,"Performance Art",1
+successful,20,Art,"Public Art",3
+successful,20,Comics,"Graphic Novels",2
+successful,20,Crafts,Crafts,6
+successful,20,Dance,Dance,2
+successful,20,Design,"Product Design",1
+successful,20,Fashion,Accessories,1
+successful,20,Fashion,Apparel,2
+successful,20,"Film & Video",Documentary,2
+successful,20,"Film & Video",Drama,1
+successful,20,"Film & Video","Film & Video",1
+successful,20,"Film & Video",Horror,1
+successful,20,"Film & Video","Narrative Film",1
+successful,20,"Film & Video","Science Fiction",1
+successful,20,"Film & Video",Shorts,5
+successful,20,"Film & Video",Webseries,4
+successful,20,Food,Food,4
+successful,20,Food,Restaurants,1
+successful,20,Food,"Small Batch",2
+successful,20,Food,Spaces,1
+successful,20,Food,Vegan,1
+successful,20,Games,"Tabletop Games",8
+successful,20,Games,"Video Games",3
+successful,20,Music,"Country & Folk",2
+successful,20,Music,Hip-Hop,1
+successful,20,Music,"Indie Rock",5
+successful,20,Music,Jazz,1
+successful,20,Music,Kids,1
+successful,20,Music,Music,3
+successful,20,Music,Pop,1
+successful,20,Photography,Photography,5
+successful,20,Publishing,Academic,1
+successful,20,Publishing,"Children's Books",1
+successful,20,Publishing,Fiction,1
+successful,20,Publishing,Nonfiction,1
+successful,20,Publishing,Periodicals,1
+successful,20,Publishing,Publishing,1
+successful,20,Technology,Hardware,1
+successful,20,Technology,Robots,1
+successful,20,Technology,"Space Exploration",1
+successful,20,Technology,Technology,1
+successful,20,Theater,Theater,5
+successful,21,Art,Art,4
+successful,21,Art,"Conceptual Art",1
+successful,21,Art,Installations,2
+successful,21,Art,"Mixed Media",3
+successful,21,Art,Painting,1
+successful,21,Art,"Performance Art",1
+successful,21,Art,"Public Art",3
+successful,21,Comics,"Comic Books",1
+successful,21,Comics,"Graphic Novels",1
+successful,21,Dance,Dance,3
+successful,21,Design,"Civic Design",1
+successful,21,Design,"Graphic Design",1
+successful,21,Design,"Product Design",3
+successful,21,Fashion,Accessories,1
+successful,21,Fashion,Apparel,1
+successful,21,Fashion,Fashion,1
+successful,21,"Film & Video",Documentary,4
+successful,21,"Film & Video",Drama,1
+successful,21,"Film & Video","Film & Video",4
+successful,21,"Film & Video",Shorts,7
+successful,21,Food,Drinks,1
+successful,21,Food,Events,1
+successful,21,Food,Food,1
+successful,21,Games,"Tabletop Games",5
+successful,21,Music,"Classical Music",3
+successful,21,Music,"Country & Folk",3
+successful,21,Music,"Indie Rock",2
+successful,21,Music,Music,7
+successful,21,Music,Pop,2
+successful,21,Music,Rock,1
+successful,21,Photography,Photography,2
+successful,21,Publishing,Academic,1
+successful,21,Publishing,"Art Books",2
+successful,21,Publishing,Fiction,1
+successful,21,Publishing,Nonfiction,5
+successful,21,Publishing,Periodicals,2
+successful,21,Publishing,Poetry,1
+successful,21,Publishing,Publishing,1
+successful,21,Publishing,"Radio & Podcasts",2
+successful,21,Technology,"Camera Equipment",1
+successful,21,Technology,Gadgets,1
+successful,21,Technology,Technology,2
+successful,21,Theater,Musical,3
+successful,21,Theater,Plays,2
+successful,21,Theater,Theater,7
+successful,22,Art,"Public Art",1
+successful,22,Art,Sculpture,1
+successful,22,Comics,Comics,1
+successful,22,Comics,"Graphic Novels",1
+successful,22,Crafts,Crafts,2
+successful,22,Design,Architecture,2
+successful,22,Fashion,Fashion,1
+successful,22,"Film & Video",Comedy,1
+successful,22,"Film & Video",Documentary,2
+successful,22,"Film & Video","Film & Video",3
+successful,22,"Film & Video",Horror,1
+successful,22,"Film & Video","Narrative Film",1
+successful,22,"Film & Video",Shorts,4
+successful,22,Food,Drinks,1
+successful,22,Food,Food,2
+successful,22,Games,Games,1
+successful,22,Games,"Tabletop Games",6
+successful,22,Games,"Video Games",1
+successful,22,Music,"Country & Folk",1
+successful,22,Music,"Electronic Music",1
+successful,22,Music,Faith,1
+successful,22,Music,Rock,2
+successful,22,Photography,Animals,1
+successful,22,Photography,Photography,1
+successful,22,Publishing,Nonfiction,1
+successful,22,Publishing,Periodicals,1
+successful,22,Publishing,"Radio & Podcasts",1
+successful,22,Theater,Musical,2
+successful,22,Theater,Plays,1
+successful,22,Theater,Theater,2
+successful,23,Art,Art,4
+successful,23,Art,"Digital Art",1
+successful,23,Art,Installations,1
+successful,23,Art,"Performance Art",1
+successful,23,Comics,"Comic Books",1
+successful,23,Crafts,Pottery,1
+successful,23,Crafts,Printing,1
+successful,23,Dance,Dance,2
+successful,23,Design,Design,1
+successful,23,Design,"Product Design",3
+successful,23,"Film & Video",Documentary,1
+successful,23,Food,Food,4
+successful,23,Games,Games,2
+successful,23,Games,"Tabletop Games",2
+successful,23,Games,"Video Games",1
+successful,23,Music,"Country & Folk",1
+successful,23,Music,Hip-Hop,1
+successful,23,Music,"Indie Rock",2
+successful,23,Music,Music,2
+successful,23,Publishing,"Children's Books",1
+successful,23,Publishing,Publishing,1
+successful,23,Technology,Flight,1
+successful,23,Technology,Technology,1
+successful,23,Theater,Theater,4
+successful,24,Art,Art,1
+successful,24,Art,Illustration,1
+successful,24,Art,"Mixed Media",3
+successful,24,Art,"Performance Art",2
+successful,24,Art,Sculpture,1
+successful,24,Comics,"Comic Books",2
+successful,24,Comics,Comics,2
+successful,24,Comics,"Graphic Novels",1
+successful,24,Dance,Dance,2
+successful,24,Dance,Performances,1
+successful,24,Design,Design,2
+successful,24,Design,"Product Design",4
+successful,24,Fashion,Accessories,1
+successful,24,"Film & Video",Animation,1
+successful,24,"Film & Video",Documentary,1
+successful,24,"Film & Video","Film & Video",1
+successful,24,"Film & Video","Music Videos",1
+successful,24,"Film & Video","Narrative Film",2
+successful,24,"Film & Video",Shorts,3
+successful,24,Food,Restaurants,2
+successful,24,Games,"Tabletop Games",2
+successful,24,Music,"Classical Music",2
+successful,24,Music,"Country & Folk",1
+successful,24,Music,"Indie Rock",1
+successful,24,Music,Music,2
+successful,24,Music,Rock,1
+successful,24,Publishing,"Art Books",1
+successful,24,Publishing,Fiction,1
+successful,24,Publishing,Nonfiction,1
+successful,24,Technology,"DIY Electronics",1
+successful,24,Technology,Web,1
+successful,24,Theater,Experimental,1
+successful,24,Theater,Theater,3
+successful,25,Art,Art,3
+successful,25,Art,"Mixed Media",1
+successful,25,Art,Painting,2
+successful,25,Art,"Public Art",1
+successful,25,Comics,Anthologies,1
+successful,25,Comics,"Comic Books",1
+successful,25,Comics,Comics,1
+successful,25,Comics,"Graphic Novels",2
+successful,25,Crafts,Crafts,1
+successful,25,Crafts,Woodworking,1
+successful,25,Dance,Dance,1
+successful,25,Design,"Product Design",4
+successful,25,"Film & Video",Comedy,1
+successful,25,"Film & Video",Documentary,4
+successful,25,"Film & Video",Drama,1
+successful,25,"Film & Video","Film & Video",1
+successful,25,"Film & Video","Narrative Film",3
+successful,25,"Film & Video",Shorts,10
+successful,25,"Film & Video",Webseries,1
+successful,25,Food,Food,1
+successful,25,Games,"Playing Cards",1
+successful,25,Games,"Tabletop Games",5
+successful,25,Games,"Video Games",2
+successful,25,Music,"Classical Music",2
+successful,25,Music,"Country & Folk",3
+successful,25,Music,Faith,1
+successful,25,Music,Hip-Hop,1
+successful,25,Music,"Indie Rock",3
+successful,25,Music,Music,4
+successful,25,Music,Pop,1
+successful,25,Music,Rock,3
+successful,25,Music,"World Music",1
+successful,25,Photography,Photography,2
+successful,25,Publishing,"Art Books",1
+successful,25,Publishing,"Children's Books",1
+successful,25,Publishing,Fiction,1
+successful,25,Publishing,Nonfiction,1
+successful,25,Publishing,Poetry,1
+successful,25,Publishing,Publishing,1
+successful,25,Technology,"3D Printing",1
+successful,25,Technology,Apps,1
+successful,25,Technology,Hardware,1
+successful,25,Technology,Technology,1
+successful,25,Theater,Plays,1
+successful,25,Theater,Theater,4
+successful,26,Art,Illustration,1
+successful,26,Art,"Mixed Media",1
+successful,26,Art,"Performance Art",1
+successful,26,Art,"Public Art",1
+successful,26,Art,Sculpture,1
+successful,26,Comics,Anthologies,1
+successful,26,Comics,Webcomics,2
+successful,26,Design,"Graphic Design",1
+successful,26,Design,"Product Design",1
+successful,26,Fashion,Fashion,1
+successful,26,"Film & Video",Documentary,1
+successful,26,"Film & Video",Drama,1
+successful,26,"Film & Video","Film & Video",1
+successful,26,"Film & Video","Narrative Film",2
+successful,26,"Film & Video",Shorts,1
+successful,26,Food,Food,1
+successful,26,Food,"Small Batch",1
+successful,26,Games,Games,1
+successful,26,Games,"Tabletop Games",1
+successful,26,Journalism,Journalism,1
+successful,26,Music,"Indie Rock",4
+successful,26,Music,Jazz,1
+successful,26,Music,Music,2
+successful,26,Music,Pop,1
+successful,26,Music,Punk,1
+successful,26,Publishing,"Art Books",1
+successful,26,Publishing,"Children's Books",1
+successful,26,Publishing,Fiction,1
+successful,26,Publishing,Nonfiction,1
+successful,26,Publishing,Poetry,1
+successful,26,Publishing,Publishing,1
+successful,26,Technology,Hardware,1
+successful,26,Technology,Web,1
+successful,26,Theater,Theater,1
+successful,27,Art,Painting,1
+successful,27,Art,"Public Art",1
+successful,27,Comics,Comics,1
+successful,27,Crafts,DIY,1
+successful,27,Dance,Dance,2
+successful,27,Design,Architecture,1
+successful,27,Design,"Product Design",3
+successful,27,Fashion,Fashion,1
+successful,27,Fashion,Jewelry,1
+successful,27,"Film & Video",Documentary,1
+successful,27,"Film & Video",Drama,1
+successful,27,"Film & Video","Film & Video",1
+successful,27,"Film & Video",Shorts,8
+successful,27,"Film & Video",Webseries,1
+successful,27,Games,"Tabletop Games",5
+successful,27,Games,"Video Games",1
+successful,27,Music,"Classical Music",1
+successful,27,Music,"Country & Folk",2
+successful,27,Music,"Indie Rock",1
+successful,27,Music,Music,3
+successful,27,Music,Rock,2
+successful,27,Music,"World Music",1
+successful,27,Photography,Photography,1
+successful,27,Publishing,"Children's Books",1
+successful,27,Publishing,Nonfiction,1
+successful,27,Theater,Plays,1
+successful,27,Theater,Theater,3
+successful,28,Art,Art,3
+successful,28,Art,"Conceptual Art",1
+successful,28,Art,Illustration,1
+successful,28,Art,Painting,2
+successful,28,Art,"Public Art",1
+successful,28,Art,Sculpture,3
+successful,28,Crafts,Crafts,1
+successful,28,Crafts,Stationery,1
+successful,28,Design,Architecture,1
+successful,28,Design,"Graphic Design",1
+successful,28,Design,"Product Design",4
+successful,28,"Film & Video",Documentary,1
+successful,28,"Film & Video",Drama,1
+successful,28,"Film & Video","Film & Video",1
+successful,28,"Film & Video",Horror,1
+successful,28,"Film & Video","Narrative Film",3
+successful,28,"Film & Video",Shorts,1
+successful,28,Food,Food,2
+successful,28,Games,"Playing Cards",2
+successful,28,Games,"Tabletop Games",2
+successful,28,Games,"Video Games",2
+successful,28,Music,"Classical Music",1
+successful,28,Music,"Country & Folk",3
+successful,28,Music,"Indie Rock",6
+successful,28,Music,Jazz,1
+successful,28,Music,Music,7
+successful,28,Music,Pop,1
+successful,28,Music,R&B,1
+successful,28,Music,Rock,1
+successful,28,Photography,"Fine Art",2
+successful,28,Photography,Photobooks,1
+successful,28,Photography,Photography,4
+successful,28,Publishing,Fiction,4
+successful,28,Publishing,Nonfiction,1
+successful,28,Publishing,Poetry,1
+successful,28,Technology,Apps,1
+successful,28,Technology,"Camera Equipment",1
+successful,28,Technology,Hardware,2
+successful,28,Technology,Technology,1
+successful,28,Theater,Festivals,1
+successful,28,Theater,Immersive,1
+successful,28,Theater,Theater,2
+successful,29,Art,"Digital Art",1
+successful,29,Art,"Performance Art",1
+successful,29,Art,"Public Art",1
+successful,29,Art,Sculpture,2
+successful,29,Comics,Comics,2
+successful,29,Crafts,DIY,1
+successful,29,Crafts,Printing,1
+successful,29,Crafts,Woodworking,2
+successful,29,Dance,Performances,1
+successful,29,Design,Design,1
+successful,29,Design,"Product Design",8
+successful,29,Fashion,Fashion,3
+successful,29,"Film & Video",Comedy,1
+successful,29,"Film & Video",Documentary,3
+successful,29,"Film & Video",Fantasy,1
+successful,29,"Film & Video","Film & Video",6
+successful,29,"Film & Video",Shorts,5
+successful,29,"Film & Video",Television,1
+successful,29,"Film & Video",Webseries,1
+successful,29,Food,Cookbooks,1
+successful,29,Food,Events,1
+successful,29,Food,Food,2
+successful,29,Food,"Small Batch",2
+successful,29,Games,"Live Games",1
+successful,29,Games,"Tabletop Games",10
+successful,29,Games,"Video Games",1
+successful,29,Music,"Classical Music",3
+successful,29,Music,Faith,1
+successful,29,Music,"Indie Rock",2
+successful,29,Music,Music,6
+successful,29,Music,Rock,2
+successful,29,Music,"World Music",2
+successful,29,Photography,Photobooks,1
+successful,29,Photography,Photography,4
+successful,29,Publishing,"Art Books",3
+successful,29,Publishing,"Literary Journals",1
+successful,29,Publishing,Nonfiction,1
+successful,29,Publishing,Periodicals,1
+successful,29,Publishing,Publishing,2
+successful,29,Publishing,"Radio & Podcasts",1
+successful,29,Technology,Apps,1
+successful,29,Technology,"Fabrication Tools",1
+successful,29,Technology,Gadgets,1
+successful,29,Technology,Makerspaces,1
+successful,29,Theater,Theater,3
+successful,30,Art,Art,31
+successful,30,Art,Ceramics,3
+successful,30,Art,"Conceptual Art",7
+successful,30,Art,"Digital Art",5
+successful,30,Art,Illustration,18
+successful,30,Art,Installations,3
+successful,30,Art,"Mixed Media",10
+successful,30,Art,Painting,19
+successful,30,Art,"Performance Art",12
+successful,30,Art,"Public Art",11
+successful,30,Art,Sculpture,8
+successful,30,Art,Textiles,1
+successful,30,Art,"Video Art",3
+successful,30,Comics,Anthologies,7
+successful,30,Comics,"Comic Books",29
+successful,30,Comics,Comics,41
+successful,30,Comics,"Graphic Novels",15
+successful,30,Comics,Webcomics,7
+successful,30,Crafts,Crafts,22
+successful,30,Crafts,DIY,2
+successful,30,Crafts,Knitting,4
+successful,30,Crafts,Letterpress,1
+successful,30,Crafts,Pottery,2
+successful,30,Crafts,Printing,1
+successful,30,Crafts,Stationery,1
+successful,30,Crafts,Weaving,1
+successful,30,Crafts,Woodworking,2
+successful,30,Dance,Dance,15
+successful,30,Dance,Performances,6
+successful,30,Dance,Workshops,1
+successful,30,Design,Architecture,3
+successful,30,Design,"Civic Design",1
+successful,30,Design,Design,6
+successful,30,Design,"Graphic Design",9
+successful,30,Design,"Interactive Design",2
+successful,30,Design,"Product Design",88
+successful,30,Fashion,Accessories,10
+successful,30,Fashion,Apparel,20
+successful,30,Fashion,Childrenswear,1
+successful,30,Fashion,Couture,2
+successful,30,Fashion,Fashion,33
+successful,30,Fashion,Footwear,2
+successful,30,Fashion,Jewelry,8
+successful,30,Fashion,"Pet Fashion",1
+successful,30,"Film & Video","Film & Video",1
+successful,30,"Film & Video",Animation,10
+successful,30,"Film & Video",Comedy,8
+successful,30,"Film & Video",Documentary,79
+successful,30,"Film & Video",Drama,7
+successful,30,"Film & Video",Family,1
+successful,30,"Film & Video","Film & Video",37
+successful,30,"Film & Video",Horror,2
+successful,30,"Film & Video","Music Videos",4
+successful,30,"Film & Video","Narrative Film",23
+successful,30,"Film & Video","Science Fiction",7
+successful,30,"Film & Video",Shorts,92
+successful,30,"Film & Video",Television,1
+successful,30,"Film & Video",Webseries,28
+successful,30,Food,Bacon,1
+successful,30,Food,"Community Gardens",2
+successful,30,Food,Drinks,12
+successful,30,Food,Events,6
+successful,30,Food,"Farmer's Markets",2
+successful,30,Food,Farms,7
+successful,30,Food,Food,49
+successful,30,Food,"Food Trucks",5
+successful,30,Food,Restaurants,7
+successful,30,Food,"Small Batch",11
+successful,30,Food,Spaces,4
+successful,30,Food,Vegan,2
+successful,30,Games,Games,9
+successful,30,Games,"Gaming Hardware",1
+successful,30,Games,"Live Games",1
+successful,30,Games,"Mobile Games",1
+successful,30,Games,"Playing Cards",9
+successful,30,Games,Puzzles,1
+successful,30,Games,"Tabletop Games",80
+successful,30,Games,"Video Games",28
+successful,30,Journalism,Journalism,7
+successful,30,Journalism,Print,3
+successful,30,Music,Music,1
+successful,30,Music,Blues,2
+successful,30,Music,"Classical Music",16
+successful,30,Music,"Country & Folk",42
+successful,30,Music,"Electronic Music",11
+successful,30,Music,Faith,11
+successful,30,Music,Hip-Hop,9
+successful,30,Music,"Indie Rock",52
+successful,30,Music,Jazz,11
+successful,30,Music,Kids,1
+successful,30,Music,Metal,2
+successful,30,Music,Music,79
+successful,30,Music,Pop,15
+successful,30,Music,Punk,2
+successful,30,Music,R&B,4
+successful,30,Music,Rock,51
+successful,30,Music,"World Music",10
+successful,30,Photography,Animals,1
+successful,30,Photography,"Fine Art",2
+successful,30,Photography,Nature,1
+successful,30,Photography,People,1
+successful,30,Photography,Photobooks,7
+successful,30,Photography,Photography,22
+successful,30,Photography,Places,1
+successful,30,Publishing,Academic,1
+successful,30,Publishing,"Art Books",14
+successful,30,Publishing,Calendars,1
+successful,30,Publishing,"Children's Books",39
+successful,30,Publishing,Fiction,31
+successful,30,Publishing,"Literary Journals",1
+successful,30,Publishing,Nonfiction,39
+successful,30,Publishing,Periodicals,4
+successful,30,Publishing,Poetry,7
+successful,30,Publishing,Publishing,19
+successful,30,Publishing,"Radio & Podcasts",8
+successful,30,Publishing,"Young Adult",3
+successful,30,Publishing,Zines,3
+successful,30,Technology,"3D Printing",1
+successful,30,Technology,Apps,6
+successful,30,Technology,"Camera Equipment",1
+successful,30,Technology,"DIY Electronics",4
+successful,30,Technology,Gadgets,9
+successful,30,Technology,Hardware,15
+successful,30,Technology,Makerspaces,2
+successful,30,Technology,Robots,4
+successful,30,Technology,Software,6
+successful,30,Technology,Sound,5
+successful,30,Technology,"Space Exploration",2
+successful,30,Technology,Technology,15
+successful,30,Technology,Wearables,3
+successful,30,Technology,Web,5
+successful,30,Theater,Experimental,4
+successful,30,Theater,Festivals,2
+successful,30,Theater,Immersive,1
+successful,30,Theater,Musical,5
+successful,30,Theater,Plays,5
+successful,30,Theater,Theater,52
+successful,31,Art,Art,2
+successful,31,Art,Illustration,3
+successful,31,Art,Installations,1
+successful,31,Art,"Mixed Media",2
+successful,31,Art,Painting,1
+successful,31,Art,"Performance Art",1
+successful,31,Art,"Public Art",3
+successful,31,Comics,"Comic Books",3
+successful,31,Comics,Comics,5
+successful,31,Comics,"Graphic Novels",3
+successful,31,Crafts,Knitting,1
+successful,31,Dance,Dance,4
+successful,31,Dance,Performances,1
+successful,31,Design,Design,1
+successful,31,Design,"Graphic Design",3
+successful,31,Design,"Product Design",15
+successful,31,Fashion,Accessories,1
+successful,31,Fashion,Apparel,1
+successful,31,Fashion,Fashion,4
+successful,31,Fashion,"Pet Fashion",1
+successful,31,"Film & Video",Animation,2
+successful,31,"Film & Video",Documentary,11
+successful,31,"Film & Video",Drama,1
+successful,31,"Film & Video",Fantasy,1
+successful,31,"Film & Video","Film & Video",3
+successful,31,"Film & Video",Horror,4
+successful,31,"Film & Video","Narrative Film",3
+successful,31,"Film & Video",Romance,1
+successful,31,"Film & Video",Shorts,7
+successful,31,"Film & Video",Webseries,3
+successful,31,Food,Drinks,2
+successful,31,Food,Food,7
+successful,31,Food,Restaurants,1
+successful,31,Food,"Small Batch",1
+successful,31,Games,"Gaming Hardware",1
+successful,31,Games,"Playing Cards",3
+successful,31,Games,"Tabletop Games",18
+successful,31,Games,"Video Games",5
+successful,31,Music,Music,1
+successful,31,Music,"Classical Music",6
+successful,31,Music,"Country & Folk",7
+successful,31,Music,Hip-Hop,1
+successful,31,Music,"Indie Rock",5
+successful,31,Music,Jazz,3
+successful,31,Music,Metal,1
+successful,31,Music,Music,15
+successful,31,Music,Pop,1
+successful,31,Music,Punk,1
+successful,31,Music,Rock,5
+successful,31,Music,"World Music",1
+successful,31,Photography,People,3
+successful,31,Photography,Photobooks,2
+successful,31,Photography,Photography,7
+successful,31,Publishing,"Art Books",4
+successful,31,Publishing,"Children's Books",7
+successful,31,Publishing,Fiction,5
+successful,31,Publishing,Nonfiction,6
+successful,31,Publishing,Periodicals,1
+successful,31,Publishing,Poetry,1
+successful,31,Technology,Apps,1
+successful,31,Technology,"Camera Equipment",1
+successful,31,Technology,"DIY Electronics",4
+successful,31,Technology,"Fabrication Tools",1
+successful,31,Technology,Hardware,2
+successful,31,Technology,Technology,1
+successful,31,Technology,Wearables,1
+successful,31,Theater,Theater,5
+successful,32,Art,Art,3
+successful,32,Art,"Digital Art",1
+successful,32,Art,Illustration,1
+successful,32,Art,"Mixed Media",2
+successful,32,Art,Painting,2
+successful,32,Art,"Performance Art",2
+successful,32,Art,Sculpture,1
+successful,32,Comics,Anthologies,1
+successful,32,Comics,Comics,2
+successful,32,Comics,"Graphic Novels",2
+successful,32,Crafts,Crafts,2
+successful,32,Dance,Performances,1
+successful,32,Design,"Civic Design",1
+successful,32,Design,Design,2
+successful,32,Design,"Graphic Design",2
+successful,32,Design,"Interactive Design",1
+successful,32,Design,"Product Design",13
+successful,32,Fashion,Accessories,3
+successful,32,Fashion,Fashion,2
+successful,32,Fashion,Footwear,1
+successful,32,"Film & Video",Comedy,3
+successful,32,"Film & Video",Documentary,1
+successful,32,"Film & Video","Film & Video",3
+successful,32,"Film & Video",Shorts,6
+successful,32,"Film & Video",Webseries,1
+successful,32,Food,Farms,1
+successful,32,Food,Food,2
+successful,32,Food,"Small Batch",2
+successful,32,Food,Vegan,1
+successful,32,Games,Games,1
+successful,32,Games,"Playing Cards",1
+successful,32,Games,"Tabletop Games",6
+successful,32,Games,"Video Games",1
+successful,32,Music,"Classical Music",2
+successful,32,Music,"Country & Folk",1
+successful,32,Music,Faith,2
+successful,32,Music,Hip-Hop,1
+successful,32,Music,"Indie Rock",3
+successful,32,Music,Jazz,1
+successful,32,Music,Music,5
+successful,32,Music,Pop,3
+successful,32,Music,Rock,3
+successful,32,Music,"World Music",2
+successful,32,Photography,Photography,2
+successful,32,Publishing,"Art Books",1
+successful,32,Publishing,"Children's Books",2
+successful,32,Publishing,Fiction,1
+successful,32,Publishing,Nonfiction,5
+successful,32,Publishing,Periodicals,1
+successful,32,Publishing,Poetry,1
+successful,32,Publishing,Publishing,2
+successful,32,Publishing,"Young Adult",1
+successful,32,Technology,Apps,1
+successful,32,Technology,Hardware,2
+successful,32,Theater,Experimental,1
+successful,32,Theater,Musical,1
+successful,32,Theater,Theater,4
+successful,33,Art,Art,2
+successful,33,Art,Ceramics,1
+successful,33,Art,"Conceptual Art",1
+successful,33,Art,Illustration,1
+successful,33,Art,Painting,1
+successful,33,Art,"Public Art",1
+successful,33,Comics,Anthologies,1
+successful,33,Comics,"Comic Books",1
+successful,33,Comics,Comics,1
+successful,33,Crafts,Stationery,1
+successful,33,Dance,Performances,2
+successful,33,Design,Design,2
+successful,33,Design,"Product Design",5
+successful,33,Fashion,Accessories,1
+successful,33,Fashion,Fashion,2
+successful,33,Fashion,Footwear,1
+successful,33,"Film & Video",Comedy,2
+successful,33,"Film & Video",Documentary,7
+successful,33,"Film & Video","Film & Video",4
+successful,33,"Film & Video","Narrative Film",1
+successful,33,"Film & Video",Shorts,3
+successful,33,"Film & Video",Webseries,1
+successful,33,Food,"Food Trucks",1
+successful,33,Food,Restaurants,1
+successful,33,Food,Spaces,1
+successful,33,Games,"Live Games",1
+successful,33,Games,"Tabletop Games",7
+successful,33,Games,"Video Games",1
+successful,33,Journalism,Journalism,1
+successful,33,Music,"Classical Music",2
+successful,33,Music,"Country & Folk",1
+successful,33,Music,Faith,1
+successful,33,Music,"Indie Rock",4
+successful,33,Music,Jazz,2
+successful,33,Music,Metal,1
+successful,33,Music,Music,4
+successful,33,Music,Punk,2
+successful,33,Music,Rock,5
+successful,33,Music,"World Music",1
+successful,33,Photography,Photobooks,1
+successful,33,Photography,Photography,1
+successful,33,Publishing,"Children's Books",3
+successful,33,Publishing,Fiction,3
+successful,33,Publishing,Periodicals,1
+successful,33,Publishing,Publishing,4
+successful,33,Publishing,"Radio & Podcasts",1
+successful,33,Technology,"Fabrication Tools",1
+successful,33,Theater,Festivals,1
+successful,34,Art,Art,1
+successful,34,Art,Illustration,1
+successful,34,Art,Installations,1
+successful,34,Art,"Mixed Media",2
+successful,34,Comics,"Comic Books",1
+successful,34,Dance,Dance,1
+successful,34,Design,"Civic Design",1
+successful,34,Fashion,Fashion,2
+successful,34,"Film & Video",Documentary,3
+successful,34,"Film & Video","Film & Video",1
+successful,34,"Film & Video","Narrative Film",1
+successful,34,"Film & Video",Webseries,1
+successful,34,Food,Food,2
+successful,34,Games,"Tabletop Games",5
+successful,34,Music,"Classical Music",1
+successful,34,Music,"Country & Folk",1
+successful,34,Music,Faith,1
+successful,34,Music,"Indie Rock",1
+successful,34,Music,Jazz,1
+successful,34,Music,Music,2
+successful,34,Music,Pop,2
+successful,34,Music,Rock,1
+successful,34,Photography,Photography,1
+successful,34,Publishing,"Art Books",1
+successful,34,Publishing,"Children's Books",4
+successful,34,Publishing,"Literary Journals",1
+successful,34,Publishing,Nonfiction,1
+successful,34,Publishing,Publishing,1
+successful,34,Technology,"DIY Electronics",1
+successful,34,Technology,Technology,1
+successful,34,Theater,Theater,1
+successful,35,Art,Art,5
+successful,35,Art,Illustration,2
+successful,35,Art,"Public Art",1
+successful,35,Comics,Anthologies,2
+successful,35,Comics,"Comic Books",1
+successful,35,Comics,Comics,4
+successful,35,Comics,"Graphic Novels",1
+successful,35,Comics,Webcomics,1
+successful,35,Crafts,Crafts,1
+successful,35,Dance,Dance,2
+successful,35,Design,Architecture,1
+successful,35,Design,Design,1
+successful,35,Design,"Product Design",10
+successful,35,Fashion,Accessories,2
+successful,35,Fashion,Apparel,2
+successful,35,Fashion,Fashion,3
+successful,35,Fashion,Footwear,2
+successful,35,Fashion,Jewelry,1
+successful,35,"Film & Video","Film & Video",1
+successful,35,"Film & Video",Animation,2
+successful,35,"Film & Video",Comedy,1
+successful,35,"Film & Video",Documentary,8
+successful,35,"Film & Video",Shorts,2
+successful,35,Food,"Community Gardens",1
+successful,35,Food,Food,4
+successful,35,Games,"Mobile Games",1
+successful,35,Games,"Playing Cards",1
+successful,35,Games,"Tabletop Games",2
+successful,35,Games,"Video Games",1
+successful,35,Journalism,Journalism,1
+successful,35,Music,"Classical Music",2
+successful,35,Music,"Country & Folk",1
+successful,35,Music,"Indie Rock",8
+successful,35,Music,Jazz,1
+successful,35,Music,Music,6
+successful,35,Music,Pop,2
+successful,35,Music,Rock,5
+successful,35,Photography,Photobooks,1
+successful,35,Photography,Photography,1
+successful,35,Publishing,"Art Books",2
+successful,35,Publishing,Calendars,1
+successful,35,Publishing,"Children's Books",3
+successful,35,Publishing,Fiction,3
+successful,35,Publishing,Nonfiction,4
+successful,35,Publishing,Periodicals,1
+successful,35,Publishing,Poetry,1
+successful,35,Publishing,Publishing,2
+successful,35,Technology,"Camera Equipment",1
+successful,35,Technology,Gadgets,2
+successful,35,Technology,Hardware,2
+successful,35,Technology,Web,1
+successful,35,Theater,Musical,1
+successful,35,Theater,Theater,2
+successful,36,Art,"Performance Art",1
+successful,36,Art,"Public Art",1
+successful,36,Comics,"Graphic Novels",1
+successful,36,Dance,Performances,1
+successful,36,Design,"Graphic Design",1
+successful,36,Design,"Product Design",8
+successful,36,Fashion,Accessories,1
+successful,36,Fashion,Apparel,3
+successful,36,Fashion,Fashion,2
+successful,36,"Film & Video",Animation,1
+successful,36,"Film & Video","Film & Video",1
+successful,36,"Film & Video","Narrative Film",1
+successful,36,"Film & Video",Shorts,1
+successful,36,Food,Cookbooks,1
+successful,36,Food,Food,2
+successful,36,Food,Restaurants,1
+successful,36,Games,"Playing Cards",1
+successful,36,Games,"Tabletop Games",8
+successful,36,Games,"Video Games",1
+successful,36,Music,"Country & Folk",1
+successful,36,Music,"Indie Rock",1
+successful,36,Music,Jazz,1
+successful,36,Music,Music,2
+successful,36,Music,Rock,3
+successful,36,Music,"World Music",2
+successful,36,Photography,Photography,1
+successful,36,Publishing,"Children's Books",2
+successful,36,Publishing,Fiction,1
+successful,36,Publishing,Publishing,1
+successful,36,Publishing,"Radio & Podcasts",1
+successful,36,Technology,"DIY Electronics",1
+successful,37,Comics,Anthologies,1
+successful,37,Comics,"Comic Books",1
+successful,37,Comics,"Graphic Novels",1
+successful,37,Dance,Performances,1
+successful,37,Design,"Graphic Design",1
+successful,37,Design,"Product Design",4
+successful,37,Fashion,Apparel,1
+successful,37,Fashion,Fashion,3
+successful,37,"Film & Video",Documentary,3
+successful,37,"Film & Video",Horror,1
+successful,37,"Film & Video","Narrative Film",3
+successful,37,"Film & Video",Shorts,1
+successful,37,Food,Food,1
+successful,37,Food,Restaurants,1
+successful,37,Games,Games,1
+successful,37,Games,"Tabletop Games",3
+successful,37,Journalism,Journalism,1
+successful,37,Music,"Classical Music",2
+successful,37,Music,"Country & Folk",2
+successful,37,Music,Faith,1
+successful,37,Music,"Indie Rock",1
+successful,37,Music,Music,1
+successful,37,Music,Rock,1
+successful,37,Photography,Photobooks,1
+successful,37,Photography,Photography,1
+successful,37,Publishing,"Children's Books",1
+successful,37,Publishing,Fiction,1
+successful,37,Publishing,Nonfiction,2
+successful,37,Publishing,Periodicals,1
+successful,37,Technology,Apps,1
+successful,37,Technology,Technology,1
+successful,37,Theater,Theater,1
+successful,38,Art,Art,1
+successful,38,Art,"Performance Art",1
+successful,38,Comics,"Graphic Novels",1
+successful,38,Dance,Dance,1
+successful,38,Dance,Performances,1
+successful,38,Design,"Product Design",4
+successful,38,Fashion,Accessories,1
+successful,38,"Film & Video",Documentary,3
+successful,38,"Film & Video",Drama,1
+successful,38,"Film & Video","Film & Video",1
+successful,38,"Film & Video",Shorts,1
+successful,38,Food,Events,1
+successful,38,Food,"Small Batch",1
+successful,38,Games,Games,1
+successful,38,Games,"Tabletop Games",1
+successful,38,Music,"Classical Music",1
+successful,38,Music,"Indie Rock",1
+successful,38,Music,Jazz,1
+successful,38,Music,Music,1
+successful,38,Music,Pop,1
+successful,38,Music,Rock,1
+successful,38,Publishing,"Art Books",1
+successful,38,Publishing,Fiction,2
+successful,38,Publishing,Poetry,1
+successful,38,Technology,"Camera Equipment",1
+successful,38,Technology,Hardware,1
+successful,38,Theater,Plays,2
+successful,38,Theater,Theater,2
+successful,39,Art,Art,1
+successful,39,Art,"Mixed Media",1
+successful,39,Comics,Comics,1
+successful,39,Design,"Product Design",2
+successful,39,Fashion,Fashion,1
+successful,39,"Film & Video",Animation,1
+successful,39,"Film & Video",Documentary,2
+successful,39,"Film & Video",Fantasy,1
+successful,39,"Film & Video","Narrative Film",2
+successful,39,"Film & Video",Shorts,1
+successful,39,Games,"Tabletop Games",2
+successful,39,Music,"Classical Music",1
+successful,39,Music,"Country & Folk",1
+successful,39,Music,Rock,1
+successful,39,Music,"World Music",1
+successful,39,Photography,Photography,2
+successful,39,Publishing,Fiction,1
+successful,39,Technology,Sound,1
+successful,39,Theater,Theater,2
+successful,40,Art,Art,3
+successful,40,Art,Painting,1
+successful,40,Art,"Performance Art",1
+successful,40,Art,"Public Art",2
+successful,40,Comics,"Comic Books",2
+successful,40,Comics,Comics,4
+successful,40,Comics,"Graphic Novels",2
+successful,40,Crafts,DIY,1
+successful,40,Dance,Dance,3
+successful,40,Design,"Product Design",9
+successful,40,Fashion,Accessories,1
+successful,40,Fashion,Apparel,1
+successful,40,"Film & Video",Animation,2
+successful,40,"Film & Video",Documentary,7
+successful,40,"Film & Video","Film & Video",2
+successful,40,"Film & Video","Narrative Film",2
+successful,40,"Film & Video",Romance,1
+successful,40,"Film & Video",Shorts,5
+successful,40,"Film & Video",Webseries,2
+successful,40,Food,Food,1
+successful,40,Food,Restaurants,1
+successful,40,Food,Vegan,1
+successful,40,Games,Games,1
+successful,40,Games,"Tabletop Games",1
+successful,40,Games,"Video Games",1
+successful,40,Music,"Country & Folk",1
+successful,40,Music,"Electronic Music",1
+successful,40,Music,Faith,1
+successful,40,Music,Hip-Hop,1
+successful,40,Music,"Indie Rock",1
+successful,40,Music,Jazz,2
+successful,40,Music,Music,4
+successful,40,Music,Pop,5
+successful,40,Music,Punk,2
+successful,40,Music,R&B,1
+successful,40,Music,Rock,4
+successful,40,Photography,People,1
+successful,40,Photography,Photography,1
+successful,40,Publishing,"Children's Books",1
+successful,40,Publishing,Fiction,1
+successful,40,Publishing,Nonfiction,2
+successful,40,Publishing,"Radio & Podcasts",1
+successful,40,Technology,Gadgets,3
+successful,40,Technology,Robots,1
+successful,40,Technology,Technology,1
+successful,40,Theater,Theater,5
+successful,41,Art,Installations,1
+successful,41,Art,"Performance Art",1
+successful,41,Art,"Public Art",1
+successful,41,Dance,Dance,2
+successful,41,Design,"Product Design",3
+successful,41,Fashion,Fashion,1
+successful,41,"Film & Video",Documentary,3
+successful,41,"Film & Video","Film & Video",1
+successful,41,"Film & Video",Webseries,1
+successful,41,Food,Food,1
+successful,41,Food,"Small Batch",1
+successful,41,Food,Spaces,1
+successful,41,Games,"Tabletop Games",2
+successful,41,Games,"Video Games",1
+successful,41,Music,"Country & Folk",1
+successful,41,Music,Hip-Hop,1
+successful,41,Music,Jazz,1
+successful,41,Music,Music,3
+successful,41,Photography,Photography,1
+successful,41,Publishing,Fiction,1
+successful,41,Publishing,Nonfiction,3
+successful,41,Technology,"DIY Electronics",1
+successful,41,Technology,Software,1
+successful,41,Technology,Web,1
+successful,41,Theater,Theater,1
+successful,42,Art,Painting,2
+successful,42,Art,"Performance Art",1
+successful,42,Art,"Public Art",1
+successful,42,Design,"Product Design",2
+successful,42,Fashion,Apparel,1
+successful,42,Fashion,Fashion,1
+successful,42,"Film & Video",Documentary,1
+successful,42,"Film & Video",Shorts,2
+successful,42,"Film & Video",Webseries,1
+successful,42,Games,"Video Games",1
+successful,42,Music,"Country & Folk",1
+successful,42,Music,"Indie Rock",3
+successful,42,Music,Music,3
+successful,42,Music,Rock,3
+successful,42,Photography,Photography,1
+successful,42,Publishing,"Children's Books",2
+successful,42,Publishing,Fiction,1
+successful,42,Publishing,"Radio & Podcasts",1
+successful,42,Technology,Hardware,1
+successful,42,Technology,Technology,1
+successful,43,Art,Sculpture,1
+successful,43,Comics,Comics,1
+successful,43,Comics,"Graphic Novels",1
+successful,43,Comics,Webcomics,1
+successful,43,Design,"Product Design",5
+successful,43,"Film & Video",Documentary,2
+successful,43,"Film & Video","Film & Video",3
+successful,43,"Film & Video","Narrative Film",1
+successful,43,Music,"Indie Rock",2
+successful,43,Music,Rock,2
+successful,43,Publishing,"Art Books",1
+successful,43,Technology,"Camera Equipment",1
+successful,43,Theater,Theater,1
+successful,44,Design,"Product Design",2
+successful,44,Fashion,Apparel,1
+successful,44,"Film & Video",Animation,2
+successful,44,"Film & Video","Film & Video",1
+successful,44,"Film & Video","Music Videos",1
+successful,44,Games,"Tabletop Games",3
+successful,44,Games,"Video Games",1
+successful,44,Music,Jazz,1
+successful,44,Music,Music,1
+successful,44,Publishing,"Art Books",1
+successful,44,Publishing,"Children's Books",1
+successful,44,Publishing,Nonfiction,1
+successful,44,Technology,Technology,1
+successful,44,Theater,Theater,1
+successful,45,Art,Art,1
+successful,45,Art,Illustration,1
+successful,45,Art,Painting,1
+successful,45,Art,"Public Art",2
+successful,45,Art,"Video Art",1
+successful,45,Comics,Anthologies,1
+successful,45,Comics,"Comic Books",1
+successful,45,Comics,Comics,1
+successful,45,Comics,"Graphic Novels",1
+successful,45,Comics,Webcomics,1
+successful,45,Crafts,Crafts,1
+successful,45,Dance,Dance,4
+successful,45,Design,Design,2
+successful,45,Design,"Graphic Design",1
+successful,45,Design,"Product Design",18
+successful,45,Fashion,Accessories,1
+successful,45,Fashion,Apparel,3
+successful,45,Fashion,Fashion,4
+successful,45,"Film & Video",Animation,2
+successful,45,"Film & Video",Documentary,17
+successful,45,"Film & Video",Drama,1
+successful,45,"Film & Video","Film & Video",4
+successful,45,"Film & Video",Horror,1
+successful,45,"Film & Video","Narrative Film",2
+successful,45,"Film & Video",Shorts,11
+successful,45,"Film & Video",Thrillers,1
+successful,45,Food,Drinks,2
+successful,45,Food,Food,8
+successful,45,Games,Games,1
+successful,45,Games,"Playing Cards",1
+successful,45,Games,"Tabletop Games",5
+successful,45,Games,"Video Games",5
+successful,45,Journalism,Journalism,3
+successful,45,Music,"Country & Folk",5
+successful,45,Music,Faith,1
+successful,45,Music,"Indie Rock",4
+successful,45,Music,Jazz,1
+successful,45,Music,Kids,1
+successful,45,Music,Metal,1
+successful,45,Music,Music,13
+successful,45,Music,Pop,3
+successful,45,Music,Rock,6
+successful,45,Music,"World Music",2
+successful,45,Photography,Photobooks,1
+successful,45,Photography,Photography,2
+successful,45,Publishing,"Art Books",1
+successful,45,Publishing,"Children's Books",7
+successful,45,Publishing,Fiction,1
+successful,45,Publishing,"Literary Journals",1
+successful,45,Publishing,Nonfiction,1
+successful,45,Publishing,Periodicals,1
+successful,45,Publishing,Publishing,1
+successful,45,Publishing,"Radio & Podcasts",1
+successful,45,Technology,Apps,1
+successful,45,Technology,"Camera Equipment",1
+successful,45,Technology,"DIY Electronics",1
+successful,45,Technology,Gadgets,2
+successful,45,Technology,Hardware,3
+successful,45,Technology,Robots,1
+successful,45,Technology,Software,1
+successful,45,Technology,"Space Exploration",1
+successful,45,Technology,Technology,2
+successful,45,Technology,Wearables,1
+successful,45,Technology,Web,1
+successful,45,Theater,Musical,2
+successful,45,Theater,Theater,4
+successful,46,Art,Art,1
+successful,46,Art,"Mixed Media",1
+successful,46,Art,Sculpture,1
+successful,46,Design,Design,1
+successful,46,Design,"Product Design",3
+successful,46,"Film & Video",Documentary,1
+successful,46,"Film & Video","Film & Video",1
+successful,46,"Film & Video","Narrative Film",1
+successful,46,Food,Farms,1
+successful,46,Food,Food,1
+successful,46,Games,"Tabletop Games",2
+successful,46,Journalism,Journalism,1
+successful,46,Music,"Indie Rock",1
+successful,46,Music,Music,3
+successful,46,Music,Pop,1
+successful,46,Publishing,"Children's Books",1
+successful,46,Publishing,Periodicals,1
+successful,46,Publishing,Publishing,1
+successful,46,Technology,Technology,2
+successful,46,Technology,Wearables,1
+successful,46,Theater,Theater,1
+successful,47,Art,Art,1
+successful,47,Comics,"Comic Books",1
+successful,47,Comics,Comics,1
+successful,47,"Film & Video",Fantasy,1
+successful,47,"Film & Video","Film & Video",1
+successful,47,"Film & Video","Narrative Film",1
+successful,47,Games,"Video Games",1
+successful,47,Journalism,Journalism,1
+successful,47,Music,Music,1
+successful,47,Music,Rock,2
+successful,47,Theater,Experimental,1
+successful,47,Theater,Theater,1
+successful,48,Art,"Conceptual Art",1
+successful,48,Art,Sculpture,1
+successful,48,Crafts,Crafts,1
+successful,48,Dance,Dance,3
+successful,48,Food,Events,1
+successful,48,Music,"Classical Music",1
+successful,48,Music,"Indie Rock",1
+successful,48,Music,Music,2
+successful,48,Music,Pop,1
+successful,48,Music,Rock,1
+successful,49,Comics,Comics,1
+successful,49,"Film & Video",Documentary,3
+successful,49,"Film & Video","Film & Video",1
+successful,49,Food,Food,1
+successful,49,Music,Rock,1
+successful,49,Photography,Photography,1
+successful,49,Technology,"3D Printing",1
+successful,49,Theater,Theater,1
+successful,50,Art,"Performance Art",1
+successful,50,Design,"Product Design",5
+successful,50,"Film & Video",Documentary,1
+successful,50,"Film & Video",Drama,1
+successful,50,"Film & Video","Narrative Film",2
+successful,50,"Film & Video",Shorts,2
+successful,50,Music,"Country & Folk",1
+successful,50,Music,Hip-Hop,1
+successful,50,Music,"Indie Rock",1
+successful,50,Music,Music,5
+successful,50,Music,Rock,1
+successful,50,Music,"World Music",1
+successful,50,Photography,Photography,1
+successful,50,Publishing,"Children's Books",1
+successful,50,Publishing,Fiction,1
+successful,50,Publishing,Nonfiction,1
+successful,50,Technology,Technology,1
+successful,50,Theater,Theater,3
+successful,51,Design,"Product Design",1
+successful,51,Design,Typography,1
+successful,51,"Film & Video",Documentary,1
+successful,51,"Film & Video","Film & Video",1
+successful,51,"Film & Video","Narrative Film",1
+successful,51,Games,"Tabletop Games",1
+successful,51,Music,"Indie Rock",2
+successful,51,Music,Music,2
+successful,52,Art,"Performance Art",1
+successful,52,Comics,"Comic Books",1
+successful,52,"Film & Video",Shorts,1
+successful,52,Music,"Classical Music",1
+successful,52,Music,Music,2
+successful,52,Publishing,Nonfiction,1
+successful,53,Design,"Product Design",1
+successful,53,"Film & Video",Documentary,2
+successful,53,"Film & Video",Shorts,1
+successful,53,Music,"Country & Folk",3
+successful,53,Publishing,Publishing,1
+successful,53,Theater,Experimental,1
+successful,53,Theater,Theater,2
+successful,54,Art,Art,2
+successful,54,Art,"Public Art",1
+successful,54,Dance,Performances,1
+successful,54,Design,"Product Design",1
+successful,54,"Film & Video",Documentary,2
+successful,54,"Film & Video",Shorts,1
+successful,54,Food,Events,1
+successful,54,Games,Games,1
+successful,54,Games,"Playing Cards",1
+successful,54,Music,"Classical Music",1
+successful,54,Music,Music,1
+successful,54,Publishing,Nonfiction,1
+successful,54,Publishing,Poetry,1
+successful,55,Comics,Comics,1
+successful,55,"Film & Video",Documentary,2
+successful,55,"Film & Video","Film & Video",1
+successful,55,Music,Music,1
+successful,55,Publishing,Publishing,1
+successful,55,Technology,Gadgets,1
+successful,56,Games,"Tabletop Games",1
+successful,56,Music,Jazz,1
+successful,56,Music,Music,1
+successful,56,Publishing,"Art Books",1
+successful,57,Design,"Graphic Design",1
+successful,57,Design,"Product Design",1
+successful,57,Music,"Indie Rock",1
+successful,57,Music,Rock,1
+successful,57,Publishing,Publishing,1
+successful,58,Comics,Comics,2
+successful,58,"Film & Video",Documentary,1
+successful,58,Food,"Community Gardens",1
+successful,58,Games,Games,1
+successful,58,Music,Hip-Hop,1
+successful,58,Music,Metal,1
+successful,58,Music,Rock,1
+successful,58,Photography,Photography,1
+successful,58,Technology,Hardware,2
+successful,59,Art,Art,1
+successful,59,Design,"Product Design",1
+successful,59,"Film & Video",Documentary,1
+successful,59,"Film & Video",Shorts,1
+successful,59,Music,"Indie Rock",2
+successful,59,Music,Music,1
+successful,59,Music,R&B,1
+successful,59,Publishing,"Art Books",1
+successful,59,Publishing,Nonfiction,1
+successful,59,Publishing,Publishing,1
+successful,59,Theater,Theater,1
+successful,60,Art,Art,3
+successful,60,Art,"Conceptual Art",1
+successful,60,Art,"Mixed Media",2
+successful,60,Art,Painting,2
+successful,60,Art,"Performance Art",2
+successful,60,Art,"Public Art",3
+successful,60,Art,Sculpture,1
+successful,60,Art,Textiles,1
+successful,60,Comics,"Comic Books",2
+successful,60,Comics,Comics,5
+successful,60,Comics,"Graphic Novels",1
+successful,60,Crafts,Crafts,1
+successful,60,Dance,Dance,1
+successful,60,Dance,Performances,1
+successful,60,Design,Design,1
+successful,60,Design,"Graphic Design",1
+successful,60,Design,"Product Design",13
+successful,60,Design,Typography,1
+successful,60,Fashion,Fashion,2
+successful,60,"Film & Video",Action,1
+successful,60,"Film & Video",Animation,1
+successful,60,"Film & Video",Comedy,1
+successful,60,"Film & Video",Documentary,19
+successful,60,"Film & Video","Film & Video",10
+successful,60,"Film & Video",Horror,1
+successful,60,"Film & Video","Narrative Film",4
+successful,60,"Film & Video",Shorts,8
+successful,60,"Film & Video",Webseries,4
+successful,60,Food,"Community Gardens",1
+successful,60,Food,Farms,1
+successful,60,Food,Food,5
+successful,60,Food,Spaces,1
+successful,60,Games,"Tabletop Games",9
+successful,60,Journalism,Print,1
+successful,60,Music,"Classical Music",6
+successful,60,Music,"Country & Folk",5
+successful,60,Music,Hip-Hop,1
+successful,60,Music,"Indie Rock",7
+successful,60,Music,Jazz,6
+successful,60,Music,Metal,1
+successful,60,Music,Music,11
+successful,60,Music,Pop,4
+successful,60,Music,Rock,6
+successful,60,Music,"World Music",1
+successful,60,Photography,Nature,1
+successful,60,Photography,Photography,5
+successful,60,Publishing,"Art Books",3
+successful,60,Publishing,Fiction,5
+successful,60,Publishing,Nonfiction,3
+successful,60,Publishing,Periodicals,1
+successful,60,Publishing,Poetry,1
+successful,60,Publishing,Publishing,3
+successful,60,Publishing,"Radio & Podcasts",2
+successful,60,Technology,"DIY Electronics",1
+successful,60,Technology,Hardware,4
+successful,60,Technology,Robots,2
+successful,60,Theater,Experimental,3
+successful,60,Theater,Musical,1
+successful,60,Theater,Plays,1
+successful,60,Theater,Theater,9
+successful,61,"Film & Video","Film & Video",2
+successful,61,Music,Hip-Hop,1
+successful,61,Music,"Indie Rock",2
+successful,61,Music,Music,2
+successful,61,Music,"World Music",1
+successful,62,Art,Art,1
+successful,62,Journalism,Journalism,1
+successful,62,Music,"Indie Rock",3
+successful,62,Music,Music,1
+successful,62,Theater,Theater,1
+successful,63,"Film & Video",Documentary,1
+successful,63,"Film & Video","Narrative Film",1
+successful,63,Music,"Indie Rock",1
+successful,63,Photography,Photography,1
+successful,64,Games,"Video Games",1
+successful,64,Music,Music,1
+successful,65,Dance,Dance,1
+successful,65,"Film & Video",Documentary,1
+successful,65,"Film & Video",Shorts,1
+successful,65,Music,Music,1
+successful,66,"Film & Video",Documentary,1
+successful,66,"Film & Video","Narrative Film",1
+successful,66,"Film & Video",Shorts,1
+successful,66,Music,Music,2
+successful,66,Music,Rock,1
+successful,67,"Film & Video",Shorts,1
+successful,68,Theater,Theater,1
+successful,69,"Film & Video",Documentary,1
+successful,70,Music,Music,1
+successful,71,Design,"Product Design",1
+successful,72,Photography,Photography,1
+successful,75,"Film & Video",Shorts,1
+successful,76,Music,"Indie Rock",1
+successful,77,Art,Illustration,1
+successful,77,Publishing,"Children's Books",1
+successful,81,"Film & Video",Webseries,1
+successful,81,Music,"Classical Music",1
+successful,82,"Film & Video",Shorts,1
+successful,84,Journalism,Journalism,1
+successful,84,Music,"Indie Rock",1
+successful,85,Music,Music,1
+successful,86,Music,"Electronic Music",1
+successful,86,Music,Music,1
+successful,87,"Film & Video",Shorts,1
+successful,87,Photography,Photography,1
+successful,88,Art,Art,1
+successful,88,Art,"Mixed Media",1
+successful,89,Art,Art,1
+successful,89,"Film & Video",Shorts,1
+successful,89,"Film & Video",Webseries,1
+successful,89,Music,Music,1
+successful,90,Art,Art,2
+successful,90,Art,"Performance Art",1
+successful,90,Comics,Comics,1
+successful,90,Design,"Product Design",1
+successful,90,Fashion,Fashion,1
+successful,90,"Film & Video",Documentary,3
+successful,90,"Film & Video","Film & Video",4
+successful,90,"Film & Video","Narrative Film",1
+successful,90,"Film & Video",Shorts,3
+successful,90,Music,"Classical Music",1
+successful,90,Music,Hip-Hop,1
+successful,90,Music,"Indie Rock",2
+successful,90,Music,Jazz,1
+successful,90,Music,Music,1
+successful,90,Photography,Photography,1
+successful,90,Publishing,Nonfiction,1
+successful,90,Publishing,Publishing,1
+successful,90,Publishing,Translations,1
+successful,90,Technology,Technology,1
+successful,90,Theater,Theater,3
+successful,91,Comics,Comics,1
+successful,91,"Film & Video",Shorts,1
+successful,91,Food,Food,1
+successful,91,Journalism,Journalism,1
+successful,91,Music,"Classical Music",1
+successful,91,Music,"Indie Rock",1
+successful,91,Music,Music,1

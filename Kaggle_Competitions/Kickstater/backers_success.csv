@@ -1,0 +1,1001 @@
+outcome,backers,category_name,country_name,count(*)
+canceled,0,Art,AT,1
+canceled,0,Art,DK,1
+canceled,0,Art,GB,2
+canceled,0,Art,IT,1
+canceled,0,Art,MX,2
+canceled,0,Art,SE,1
+canceled,0,Art,US,28
+canceled,0,Comics,US,6
+canceled,0,Crafts,AU,1
+canceled,0,Crafts,CA,1
+canceled,0,Crafts,DK,1
+canceled,0,Crafts,GB,2
+canceled,0,Crafts,US,10
+canceled,0,Design,AU,1
+canceled,0,Design,CA,1
+canceled,0,Design,DK,1
+canceled,0,Design,FR,1
+canceled,0,Design,GB,3
+canceled,0,Design,US,22
+canceled,0,Fashion,AU,5
+canceled,0,Fashion,CA,3
+canceled,0,Fashion,GB,4
+canceled,0,Fashion,IE,1
+canceled,0,Fashion,IT,1
+canceled,0,Fashion,US,21
+canceled,0,"Film & Video",AU,3
+canceled,0,"Film & Video",CA,4
+canceled,0,"Film & Video",DE,1
+canceled,0,"Film & Video",ES,1
+canceled,0,"Film & Video",FR,1
+canceled,0,"Film & Video",GB,11
+canceled,0,"Film & Video","N,0""",1
+canceled,0,"Film & Video",NL,2
+canceled,0,"Film & Video",US,56
+canceled,0,Food,AU,1
+canceled,0,Food,CA,3
+canceled,0,Food,DK,1
+canceled,0,Food,GB,3
+canceled,0,Food,IE,1
+canceled,0,Food,NZ,2
+canceled,0,Food,US,27
+canceled,0,Games,AU,2
+canceled,0,Games,CA,2
+canceled,0,Games,DE,2
+canceled,0,Games,ES,1
+canceled,0,Games,FR,5
+canceled,0,Games,GB,4
+canceled,0,Games,MX,1
+canceled,0,Games,NO,2
+canceled,0,Games,US,28
+canceled,0,Journalism,AU,1
+canceled,0,Journalism,US,3
+canceled,0,Music,AT,2
+canceled,0,Music,AU,1
+canceled,0,Music,CA,5
+canceled,0,Music,FR,1
+canceled,0,Music,GB,3
+canceled,0,Music,"N,0""",1
+canceled,0,Music,SE,1
+canceled,0,Music,US,40
+canceled,0,Photography,AU,1
+canceled,0,Photography,CA,2
+canceled,0,Photography,GB,2
+canceled,0,Photography,NL,2
+canceled,0,Photography,NO,1
+canceled,0,Photography,NZ,1
+canceled,0,Photography,US,9
+canceled,0,Publishing,AU,1
+canceled,0,Publishing,CA,5
+canceled,0,Publishing,DE,1
+canceled,0,Publishing,ES,2
+canceled,0,Publishing,FR,1
+canceled,0,Publishing,GB,8
+canceled,0,Publishing,NL,1
+canceled,0,Publishing,US,44
+canceled,0,Technology,AU,1
+canceled,0,Technology,BE,1
+canceled,0,Technology,DE,1
+canceled,0,Technology,GB,4
+canceled,0,Technology,HK,1
+canceled,0,Technology,MX,1
+canceled,0,Technology,NZ,1
+canceled,0,Technology,US,30
+canceled,0,Theater,BE,1
+canceled,0,Theater,GB,1
+canceled,0,Theater,US,11
+failed,0,Art,AU,3
+failed,0,Art,CA,6
+failed,0,Art,DE,2
+failed,0,Art,ES,1
+failed,0,Art,GB,16
+failed,0,Art,IE,2
+failed,0,Art,LU,1
+failed,0,Art,NL,1
+failed,0,Art,NO,1
+failed,0,Art,NZ,1
+failed,0,Art,US,92
+failed,0,Comics,US,11
+failed,0,Crafts,CA,6
+failed,0,Crafts,FR,2
+failed,0,Crafts,GB,4
+failed,0,Crafts,HK,1
+failed,0,Crafts,NZ,1
+failed,0,Crafts,SG,1
+failed,0,Crafts,US,41
+failed,0,Dance,CA,1
+failed,0,Dance,GB,2
+failed,0,Dance,US,4
+failed,0,Design,AU,2
+failed,0,Design,CA,1
+failed,0,Design,CH,2
+failed,0,Design,ES,1
+failed,0,Design,GB,7
+failed,0,Design,IT,4
+failed,0,Design,MX,1
+failed,0,Design,NL,1
+failed,0,Design,US,35
+failed,0,Fashion,AT,1
+failed,0,Fashion,AU,4
+failed,0,Fashion,BE,1
+failed,0,Fashion,CA,5
+failed,0,Fashion,CH,1
+failed,0,Fashion,DE,4
+failed,0,Fashion,DK,1
+failed,0,Fashion,ES,1
+failed,0,Fashion,FR,2
+failed,0,Fashion,GB,8
+failed,0,Fashion,US,91
+failed,0,"Film & Video",AT,1
+failed,0,"Film & Video",AU,6
+failed,0,"Film & Video",CA,18
+failed,0,"Film & Video",CH,1
+failed,0,"Film & Video",DE,2
+failed,0,"Film & Video",ES,1
+failed,0,"Film & Video",FR,4
+failed,0,"Film & Video",GB,19
+failed,0,"Film & Video",IE,3
+failed,0,"Film & Video",IT,1
+failed,0,"Film & Video",NL,1
+failed,0,"Film & Video",NZ,1
+failed,0,"Film & Video",US,251
+failed,0,Food,AU,2
+failed,0,Food,CA,4
+failed,0,Food,CH,2
+failed,0,Food,DK,1
+failed,0,Food,ES,1
+failed,0,Food,GB,17
+failed,0,Food,IE,1
+failed,0,Food,IT,5
+failed,0,Food,MX,2
+failed,0,Food,NZ,1
+failed,0,Food,SE,1
+failed,0,Food,US,94
+failed,0,Games,AU,1
+failed,0,Games,CA,4
+failed,0,Games,ES,3
+failed,0,Games,FR,1
+failed,0,Games,GB,5
+failed,0,Games,IT,2
+failed,0,Games,MX,1
+failed,0,Games,NL,1
+failed,0,Games,NO,1
+failed,0,Games,US,36
+failed,0,Journalism,GB,2
+failed,0,Journalism,US,17
+failed,0,Music,AU,6
+failed,0,Music,CA,10
+failed,0,Music,DE,2
+failed,0,Music,ES,1
+failed,0,Music,GB,5
+failed,0,Music,MX,2
+failed,0,Music,"N,0""",5
+failed,0,Music,SG,1
+failed,0,Music,US,165
+failed,0,Photography,AU,2
+failed,0,Photography,CA,3
+failed,0,Photography,DE,2
+failed,0,Photography,ES,1
+failed,0,Photography,FR,1
+failed,0,Photography,GB,5
+failed,0,Photography,IT,1
+failed,0,Photography,NL,2
+failed,0,Photography,US,32
+failed,0,Publishing,AU,2
+failed,0,Publishing,CA,17
+failed,0,Publishing,DE,3
+failed,0,Publishing,ES,2
+failed,0,Publishing,GB,18
+failed,0,Publishing,HK,1
+failed,0,Publishing,IE,2
+failed,0,Publishing,IT,1
+failed,0,Publishing,MX,2
+failed,0,Publishing,NL,1
+failed,0,Publishing,SE,1
+failed,0,Publishing,US,193
+failed,0,Technology,AT,1
+failed,0,Technology,AU,5
+failed,0,Technology,CA,6
+failed,0,Technology,CH,2
+failed,0,Technology,DE,5
+failed,0,Technology,DK,1
+failed,0,Technology,ES,5
+failed,0,Technology,FR,6
+failed,0,Technology,GB,15
+failed,0,Technology,IT,6
+failed,0,Technology,"N,0""",1
+failed,0,Technology,NL,3
+failed,0,Technology,SE,3
+failed,0,Technology,US,117
+failed,0,Theater,AU,2
+failed,0,Theater,GB,4
+failed,0,Theater,MX,1
+failed,0,Theater,SE,1
+failed,0,Theater,US,38
+live,0,Art,ES,1
+live,0,Art,US,2
+live,0,Comics,US,1
+live,0,Crafts,US,1
+live,0,Fashion,CA,1
+live,0,Fashion,GB,1
+live,0,Fashion,US,4
+live,0,"Film & Video",AT,1
+live,0,"Film & Video",MX,1
+live,0,"Film & Video",US,4
+live,0,Games,AT,1
+live,0,Games,GB,1
+live,0,Games,US,1
+live,0,Music,IT,1
+live,0,Publishing,US,1
+live,0,Technology,ES,1
+live,0,Technology,IT,1
+live,0,Technology,MX,1
+live,0,Technology,US,2
+successful,0,"Film & Video","N,0""",2
+successful,0,Music,"N,0""",5
+suspended,0,Art,US,2
+suspended,0,Crafts,US,1
+suspended,0,Design,US,3
+suspended,0,Fashion,US,1
+suspended,0,Food,AU,1
+suspended,0,Food,US,2
+suspended,0,Games,GB,1
+suspended,0,Games,US,2
+suspended,0,Music,US,3
+suspended,0,Photography,GB,1
+suspended,0,Photography,US,2
+suspended,0,Publishing,US,2
+suspended,0,Technology,NZ,1
+suspended,0,Technology,US,1
+undefined,0,"Film & Video","N,0""",31
+undefined,0,Music,"N,0""",92
+undefined,0,Publishing,"N,0""",17
+canceled,1,Art,AU,1
+canceled,1,Art,BE,1
+canceled,1,Art,CA,1
+canceled,1,Art,DE,1
+canceled,1,Art,ES,1
+canceled,1,Art,GB,3
+canceled,1,Art,NZ,1
+canceled,1,Art,US,7
+canceled,1,Comics,CA,1
+canceled,1,Comics,GB,1
+canceled,1,Comics,US,3
+canceled,1,Crafts,GB,2
+canceled,1,Crafts,NL,1
+canceled,1,Crafts,US,5
+canceled,1,Design,CA,1
+canceled,1,Design,GB,1
+canceled,1,Design,NZ,1
+canceled,1,Design,US,8
+canceled,1,Fashion,CA,1
+canceled,1,Fashion,GB,1
+canceled,1,Fashion,MX,1
+canceled,1,Fashion,US,7
+canceled,1,"Film & Video",CA,2
+canceled,1,"Film & Video",US,32
+canceled,1,Food,AU,1
+canceled,1,Food,CA,2
+canceled,1,Food,GB,2
+canceled,1,Food,US,9
+canceled,1,Games,CA,1
+canceled,1,Games,DE,1
+canceled,1,Games,ES,1
+canceled,1,Games,MX,1
+canceled,1,Games,US,11
+canceled,1,Journalism,US,5
+canceled,1,Music,AU,1
+canceled,1,Music,CA,2
+canceled,1,Music,NL,1
+canceled,1,Music,US,19
+canceled,1,Photography,AU,1
+canceled,1,Photography,DE,1
+canceled,1,Photography,NL,1
+canceled,1,Photography,US,2
+canceled,1,Publishing,CA,1
+canceled,1,Publishing,GB,2
+canceled,1,Publishing,US,17
+canceled,1,Technology,CA,1
+canceled,1,Technology,GB,3
+canceled,1,Technology,NL,1
+canceled,1,Technology,NO,1
+canceled,1,Technology,SE,1
+canceled,1,Technology,US,16
+canceled,1,Theater,GB,2
+canceled,1,Theater,US,1
+failed,1,Art,AU,3
+failed,1,Art,CA,3
+failed,1,Art,GB,15
+failed,1,Art,IT,2
+failed,1,Art,NL,3
+failed,1,Art,SE,2
+failed,1,Art,US,70
+failed,1,Comics,GB,3
+failed,1,Comics,US,11
+failed,1,Crafts,CA,2
+failed,1,Crafts,GB,2
+failed,1,Crafts,US,35
+failed,1,Dance,GB,1
+failed,1,Dance,US,1
+failed,1,Design,AU,1
+failed,1,Design,CA,6
+failed,1,Design,DE,1
+failed,1,Design,GB,6
+failed,1,Design,US,36
+failed,1,Fashion,AU,5
+failed,1,Fashion,CA,1
+failed,1,Fashion,ES,3
+failed,1,Fashion,GB,11
+failed,1,Fashion,HK,1
+failed,1,Fashion,IE,1
+failed,1,Fashion,NZ,1
+failed,1,Fashion,US,73
+failed,1,"Film & Video",AT,1
+failed,1,"Film & Video",AU,1
+failed,1,"Film & Video",CA,6
+failed,1,"Film & Video",DE,1
+failed,1,"Film & Video",GB,21
+failed,1,"Film & Video",IE,1
+failed,1,"Film & Video",MX,2
+failed,1,"Film & Video",NZ,2
+failed,1,"Film & Video",US,153
+failed,1,Food,AU,2
+failed,1,Food,CA,7
+failed,1,Food,CH,1
+failed,1,Food,DE,1
+failed,1,Food,DK,1
+failed,1,Food,ES,1
+failed,1,Food,FR,2
+failed,1,Food,GB,7
+failed,1,Food,IT,3
+failed,1,Food,NL,2
+failed,1,Food,SE,3
+failed,1,Food,US,63
+failed,1,Games,AU,3
+failed,1,Games,CA,4
+failed,1,Games,DE,3
+failed,1,Games,ES,1
+failed,1,Games,FR,2
+failed,1,Games,GB,5
+failed,1,Games,IT,1
+failed,1,Games,NL,2
+failed,1,Games,NZ,1
+failed,1,Games,US,34
+failed,1,Journalism,GB,2
+failed,1,Journalism,US,12
+failed,1,Music,AU,3
+failed,1,Music,CA,9
+failed,1,Music,DE,2
+failed,1,Music,DK,2
+failed,1,Music,ES,1
+failed,1,Music,FR,1
+failed,1,Music,GB,8
+failed,1,Music,IT,3
+failed,1,Music,MX,1
+failed,1,Music,SE,1
+failed,1,Music,US,122
+failed,1,Photography,CA,2
+failed,1,Photography,DE,2
+failed,1,Photography,GB,5
+failed,1,Photography,IT,1
+failed,1,Photography,US,26
+failed,1,Publishing,AU,2
+failed,1,Publishing,CA,7
+failed,1,Publishing,DE,1
+failed,1,Publishing,GB,10
+failed,1,Publishing,NL,3
+failed,1,Publishing,NZ,2
+failed,1,Publishing,SE,2
+failed,1,Publishing,US,116
+failed,1,Technology,AU,5
+failed,1,Technology,CA,9
+failed,1,Technology,CH,2
+failed,1,Technology,DE,3
+failed,1,Technology,ES,1
+failed,1,Technology,FR,1
+failed,1,Technology,GB,16
+failed,1,Technology,IT,3
+failed,1,Technology,MX,2
+failed,1,Technology,NL,3
+failed,1,Technology,NO,1
+failed,1,Technology,SE,2
+failed,1,Technology,SG,2
+failed,1,Technology,US,85
+failed,1,Theater,AU,1
+failed,1,Theater,GB,5
+failed,1,Theater,US,15
+live,1,Design,DE,1
+live,1,Design,US,1
+live,1,Fashion,US,2
+live,1,"Film & Video",US,2
+live,1,Games,MX,1
+live,1,Games,US,1
+live,1,Music,US,1
+live,1,Publishing,CA,1
+live,1,Publishing,US,1
+live,1,Technology,CA,1
+live,1,Technology,GB,1
+live,1,Technology,US,1
+successful,1,Art,AU,1
+successful,1,Art,US,2
+successful,1,"Film & Video",US,2
+successful,1,Food,US,1
+successful,1,Games,GB,1
+successful,1,Games,US,1
+successful,1,Music,US,1
+successful,1,Photography,AU,1
+successful,1,Photography,US,2
+successful,1,Theater,GB,1
+suspended,1,Art,US,1
+suspended,1,Design,US,1
+suspended,1,Fashion,US,1
+suspended,1,Food,US,1
+suspended,1,Games,US,1
+suspended,1,Publishing,US,1
+canceled,2,Art,AT,1
+canceled,2,Art,US,6
+canceled,2,Comics,AU,1
+canceled,2,Comics,FR,1
+canceled,2,Comics,GB,1
+canceled,2,Design,AU,1
+canceled,2,Design,CA,1
+canceled,2,Design,US,4
+canceled,2,Fashion,CA,1
+canceled,2,Fashion,GB,2
+canceled,2,Fashion,IT,1
+canceled,2,Fashion,NL,1
+canceled,2,Fashion,US,3
+canceled,2,"Film & Video",AU,1
+canceled,2,"Film & Video",GB,2
+canceled,2,"Film & Video",NL,1
+canceled,2,"Film & Video",NZ,1
+canceled,2,"Film & Video",US,8
+canceled,2,Food,GB,3
+canceled,2,Food,US,4
+canceled,2,Games,CA,1
+canceled,2,Games,GB,1
+canceled,2,Games,US,7
+canceled,2,Music,CA,1
+canceled,2,Music,US,5
+canceled,2,Photography,US,2
+canceled,2,Publishing,AU,1
+canceled,2,Publishing,US,8
+canceled,2,Technology,AT,1
+canceled,2,Technology,AU,1
+canceled,2,Technology,CH,1
+canceled,2,Technology,DK,1
+canceled,2,Technology,US,10
+canceled,2,Theater,US,3
+failed,2,Art,AU,1
+failed,2,Art,CA,6
+failed,2,Art,ES,1
+failed,2,Art,GB,10
+failed,2,Art,IT,2
+failed,2,Art,SE,1
+failed,2,Art,US,35
+failed,2,Comics,CA,2
+failed,2,Comics,GB,1
+failed,2,Comics,US,10
+failed,2,Crafts,DE,1
+failed,2,Crafts,GB,5
+failed,2,Crafts,US,22
+failed,2,Dance,AU,1
+failed,2,Dance,US,8
+failed,2,Design,AT,1
+failed,2,Design,CA,1
+failed,2,Design,DE,1
+failed,2,Design,ES,1
+failed,2,Design,GB,4
+failed,2,Design,IT,1
+failed,2,Design,MX,1
+failed,2,Design,NL,1
+failed,2,Design,SG,1
+failed,2,Design,US,33
+failed,2,Fashion,AU,1
+failed,2,Fashion,CA,1
+failed,2,Fashion,DK,1
+failed,2,Fashion,FR,1
+failed,2,Fashion,GB,4
+failed,2,Fashion,US,49
+failed,2,"Film & Video",AT,1
+failed,2,"Film & Video",AU,3
+failed,2,"Film & Video",CA,2
+failed,2,"Film & Video",GB,10
+failed,2,"Film & Video",IT,1
+failed,2,"Film & Video",NZ,1
+failed,2,"Film & Video",US,111
+failed,2,Food,AU,1
+failed,2,Food,CA,8
+failed,2,Food,GB,2
+failed,2,Food,IT,3
+failed,2,Food,MX,1
+failed,2,Food,US,59
+failed,2,Games,AU,6
+failed,2,Games,CH,1
+failed,2,Games,ES,2
+failed,2,Games,GB,3
+failed,2,Games,MX,1
+failed,2,Games,NL,1
+failed,2,Games,SE,1
+failed,2,Games,US,37
+failed,2,Journalism,BE,1
+failed,2,Journalism,MX,1
+failed,2,Journalism,US,5
+failed,2,Music,CH,1
+failed,2,Music,DE,1
+failed,2,Music,GB,6
+failed,2,Music,IT,1
+failed,2,Music,NL,2
+failed,2,Music,US,72
+failed,2,Photography,AU,2
+failed,2,Photography,CA,1
+failed,2,Photography,DE,1
+failed,2,Photography,DK,1
+failed,2,Photography,ES,1
+failed,2,Photography,GB,5
+failed,2,Photography,IT,1
+failed,2,Photography,US,16
+failed,2,Publishing,AU,3
+failed,2,Publishing,BE,1
+failed,2,Publishing,CA,7
+failed,2,Publishing,CH,1
+failed,2,Publishing,GB,6
+failed,2,Publishing,NL,1
+failed,2,Publishing,NO,1
+failed,2,Publishing,SE,1
+failed,2,Publishing,US,74
+failed,2,Technology,AU,2
+failed,2,Technology,CA,4
+failed,2,Technology,DE,2
+failed,2,Technology,DK,1
+failed,2,Technology,ES,2
+failed,2,Technology,GB,13
+failed,2,Technology,IT,2
+failed,2,Technology,NL,1
+failed,2,Technology,NZ,1
+failed,2,Technology,US,48
+failed,2,Theater,DK,1
+failed,2,Theater,GB,2
+failed,2,Theater,SE,1
+failed,2,Theater,US,14
+live,2,Comics,US,1
+live,2,Crafts,US,1
+live,2,Design,US,1
+live,2,Music,US,1
+live,2,Publishing,MX,1
+live,2,Publishing,US,2
+live,2,Technology,US,1
+successful,2,Art,GB,1
+successful,2,Art,US,5
+successful,2,Crafts,GB,1
+successful,2,Fashion,US,2
+successful,2,"Film & Video",AU,1
+successful,2,"Film & Video",GB,1
+successful,2,Food,US,3
+successful,2,Music,US,1
+successful,2,Photography,US,1
+suspended,2,Crafts,NL,1
+suspended,2,Design,US,1
+suspended,2,"Film & Video",US,1
+suspended,2,Food,US,1
+suspended,2,Technology,CA,1
+canceled,3,Art,CA,1
+canceled,3,Art,ES,1
+canceled,3,Art,US,3
+canceled,3,Comics,US,1
+canceled,3,Crafts,GB,1
+canceled,3,Crafts,US,3
+canceled,3,Dance,US,2
+canceled,3,Design,DE,1
+canceled,3,Design,ES,2
+canceled,3,Design,MX,1
+canceled,3,Design,US,5
+canceled,3,Fashion,IT,1
+canceled,3,Fashion,US,1
+canceled,3,"Film & Video",FR,1
+canceled,3,"Film & Video",GB,1
+canceled,3,"Film & Video",US,14
+canceled,3,Food,GB,1
+canceled,3,Food,US,3
+canceled,3,Games,AU,3
+canceled,3,Games,ES,1
+canceled,3,Games,GB,2
+canceled,3,Games,US,10
+canceled,3,Music,US,6
+canceled,3,Photography,US,3
+canceled,3,Publishing,US,9
+canceled,3,Technology,DK,1
+canceled,3,Technology,GB,1
+canceled,3,Technology,NO,1
+canceled,3,Technology,US,1
+canceled,3,Theater,FR,1
+canceled,3,Theater,US,1
+failed,3,Art,AU,1
+failed,3,Art,CA,4
+failed,3,Art,GB,3
+failed,3,Art,NZ,1
+failed,3,Art,US,35
+failed,3,Comics,CA,2
+failed,3,Comics,US,10
+failed,3,Crafts,AU,2
+failed,3,Crafts,CA,1
+failed,3,Crafts,FR,1
+failed,3,Crafts,GB,1
+failed,3,Crafts,US,17
+failed,3,Dance,US,1
+failed,3,Design,AU,1
+failed,3,Design,CA,2
+failed,3,Design,GB,3
+failed,3,Design,HK,1
+failed,3,Design,US,24
+failed,3,Fashion,AU,2
+failed,3,Fashion,CA,2
+failed,3,Fashion,CH,1
+failed,3,Fashion,GB,5
+failed,3,Fashion,MX,1
+failed,3,Fashion,US,32
+failed,3,"Film & Video",AU,2
+failed,3,"Film & Video",CA,2
+failed,3,"Film & Video",CH,1
+failed,3,"Film & Video",DE,1
+failed,3,"Film & Video",DK,1
+failed,3,"Film & Video",FR,1
+failed,3,"Film & Video",GB,8
+failed,3,"Film & Video",US,66
+failed,3,Food,GB,1
+failed,3,Food,IT,2
+failed,3,Food,SE,1
+failed,3,Food,US,35
+failed,3,Games,AT,1
+failed,3,Games,AU,1
+failed,3,Games,CA,1
+failed,3,Games,DK,1
+failed,3,Games,FR,1
+failed,3,Games,GB,2
+failed,3,Games,US,26
+failed,3,Journalism,CH,1
+failed,3,Journalism,GB,1
+failed,3,Journalism,US,3
+failed,3,Music,AU,1
+failed,3,Music,CA,5
+failed,3,Music,GB,3
+failed,3,Music,NO,1
+failed,3,Music,US,40
+failed,3,Photography,DE,1
+failed,3,Photography,FR,1
+failed,3,Photography,GB,2
+failed,3,Photography,US,17
+failed,3,Publishing,AU,1
+failed,3,Publishing,CA,4
+failed,3,Publishing,ES,1
+failed,3,Publishing,GB,5
+failed,3,Publishing,NZ,1
+failed,3,Publishing,SE,1
+failed,3,Publishing,US,50
+failed,3,Technology,AU,6
+failed,3,Technology,BE,1
+failed,3,Technology,CA,4
+failed,3,Technology,DE,4
+failed,3,Technology,FR,1
+failed,3,Technology,IT,3
+failed,3,Technology,MX,1
+failed,3,Technology,SE,1
+failed,3,Technology,US,35
+failed,3,Theater,US,8
+live,3,Art,DK,1
+live,3,Art,US,1
+live,3,"Film & Video",GB,1
+live,3,"Film & Video",US,1
+live,3,Publishing,US,1
+live,3,Technology,NZ,1
+successful,3,Art,GB,1
+successful,3,Art,US,1
+successful,3,Crafts,US,1
+successful,3,"Film & Video",US,1
+successful,3,Food,AU,1
+successful,3,Food,GB,1
+successful,3,Food,US,1
+successful,3,Music,US,1
+successful,3,Publishing,US,1
+suspended,3,Games,US,1
+suspended,3,Theater,US,1
+canceled,4,Art,DK,1
+canceled,4,Art,GB,1
+canceled,4,Art,US,1
+canceled,4,Comics,AU,1
+canceled,4,Crafts,US,2
+canceled,4,Design,AU,1
+canceled,4,Design,BE,1
+canceled,4,Design,CA,1
+canceled,4,Design,ES,1
+canceled,4,Design,NL,1
+canceled,4,Design,US,4
+canceled,4,Fashion,GB,1
+canceled,4,Fashion,US,2
+canceled,4,"Film & Video",AU,1
+canceled,4,"Film & Video",CA,1
+canceled,4,"Film & Video",US,8
+canceled,4,Food,AU,1
+canceled,4,Food,GB,1
+canceled,4,Food,US,4
+canceled,4,Games,CA,1
+canceled,4,Games,GB,3
+canceled,4,Games,US,6
+canceled,4,Photography,US,4
+canceled,4,Publishing,US,3
+canceled,4,Technology,GB,2
+canceled,4,Technology,US,3
+failed,4,Art,AU,1
+failed,4,Art,CA,1
+failed,4,Art,GB,3
+failed,4,Art,US,22
+failed,4,Comics,GB,1
+failed,4,Comics,US,11
+failed,4,Crafts,AU,1
+failed,4,Crafts,CA,2
+failed,4,Crafts,DE,2
+failed,4,Crafts,GB,1
+failed,4,Crafts,US,15
+failed,4,Dance,US,1
+failed,4,Design,AU,1
+failed,4,Design,DE,1
+failed,4,Design,HK,1
+failed,4,Design,IE,1
+failed,4,Design,MX,1
+failed,4,Design,US,22
+failed,4,Fashion,AU,1
+failed,4,Fashion,CA,1
+failed,4,Fashion,GB,3
+failed,4,Fashion,IT,1
+failed,4,Fashion,NL,1
+failed,4,Fashion,US,17
+failed,4,"Film & Video",AT,1
+failed,4,"Film & Video",AU,1
+failed,4,"Film & Video",CA,2
+failed,4,"Film & Video",DE,1
+failed,4,"Film & Video",DK,1
+failed,4,"Film & Video",ES,1
+failed,4,"Film & Video",GB,4
+failed,4,"Film & Video",NO,1
+failed,4,"Film & Video",NZ,1
+failed,4,"Film & Video",US,59
+failed,4,Food,GB,3
+failed,4,Food,IT,2
+failed,4,Food,US,18
+failed,4,Games,CA,3
+failed,4,Games,DE,1
+failed,4,Games,ES,1
+failed,4,Games,GB,2
+failed,4,Games,US,18
+failed,4,Journalism,CA,1
+failed,4,Journalism,US,4
+failed,4,Music,CA,1
+failed,4,Music,GB,3
+failed,4,Music,SE,2
+failed,4,Music,US,35
+failed,4,Photography,AU,2
+failed,4,Photography,IT,1
+failed,4,Photography,MX,1
+failed,4,Photography,US,10
+failed,4,Publishing,AT,1
+failed,4,Publishing,CH,1
+failed,4,Publishing,GB,3
+failed,4,Publishing,IT,2
+failed,4,Publishing,MX,1
+failed,4,Publishing,US,46
+failed,4,Technology,AU,2
+failed,4,Technology,CA,2
+failed,4,Technology,DE,2
+failed,4,Technology,FR,1
+failed,4,Technology,GB,5
+failed,4,Technology,HK,1
+failed,4,Technology,IT,1
+failed,4,Technology,NL,3
+failed,4,Technology,SG,1
+failed,4,Technology,US,25
+failed,4,Theater,US,9
+live,4,Art,IT,1
+live,4,Design,US,1
+live,4,Games,US,1
+live,4,Music,CA,1
+live,4,Photography,ES,1
+live,4,Technology,DE,1
+successful,4,Art,US,3
+successful,4,Crafts,CA,1
+successful,4,Crafts,MX,1
+successful,4,Design,US,2
+successful,4,"Film & Video",US,1
+successful,4,Food,US,1
+successful,4,Games,IT,1
+successful,4,Games,US,2
+successful,4,Music,US,3
+successful,4,Publishing,US,1
+successful,4,Theater,US,1
+suspended,4,Journalism,US,1
+suspended,4,Technology,IT,1
+canceled,5,Art,US,1
+canceled,5,Design,US,1
+canceled,5,Fashion,US,4
+canceled,5,"Film & Video",US,5
+canceled,5,Food,AU,1
+canceled,5,Food,CA,1
+canceled,5,Food,US,2
+canceled,5,Games,CA,1
+canceled,5,Games,US,5
+canceled,5,Journalism,GB,1
+canceled,5,Music,GB,1
+canceled,5,Music,US,3
+canceled,5,Publishing,US,2
+canceled,5,Technology,CA,1
+canceled,5,Technology,US,4
+canceled,5,Theater,US,2
+failed,5,Art,AU,1
+failed,5,Art,GB,1
+failed,5,Art,HK,1
+failed,5,Art,MX,1
+failed,5,Art,NZ,1
+failed,5,Art,US,19
+failed,5,Comics,AU,1
+failed,5,Comics,GB,1
+failed,5,Comics,US,6
+failed,5,Crafts,US,5
+failed,5,Dance,US,1
+failed,5,Design,AU,1
+failed,5,Design,CA,2
+failed,5,Design,DE,2
+failed,5,Design,ES,1
+failed,5,Design,NO,1
+failed,5,Design,US,21
+failed,5,Fashion,CA,1
+failed,5,Fashion,DE,1
+failed,5,Fashion,GB,5
+failed,5,Fashion,NL,1
+failed,5,Fashion,US,10
+failed,5,"Film & Video",CA,2
+failed,5,"Film & Video",FR,1
+failed,5,"Film & Video",GB,1
+failed,5,"Film & Video",NL,2
+failed,5,"Film & Video",NZ,1
+failed,5,"Film & Video",SE,1
+failed,5,"Film & Video",US,48
+failed,5,Food,CA,1
+failed,5,Food,GB,3
+failed,5,Food,US,22
+failed,5,Games,AU,1
+failed,5,Games,CA,1
+failed,5,Games,DK,1
+failed,5,Games,GB,4
+failed,5,Games,IT,1
+failed,5,Games,US,15
+failed,5,Journalism,ES,1
+failed,5,Journalism,GB,1
+failed,5,Journalism,US,2
+failed,5,Music,CA,2
+failed,5,Music,GB,2
+failed,5,Music,SE,1
+failed,5,Music,US,35
+failed,5,Photography,CA,1
+failed,5,Photography,GB,2
+failed,5,Photography,MX,1
+failed,5,Photography,US,4
+failed,5,Publishing,CA,3
+failed,5,Publishing,GB,1
+failed,5,Publishing,IT,1
+failed,5,Publishing,US,16
+failed,5,Technology,AU,1
+failed,5,Technology,CA,2
+failed,5,Technology,DE,1
+failed,5,Technology,ES,1
+failed,5,Technology,GB,2
+failed,5,Technology,IT,1
+failed,5,Technology,SE,1
+failed,5,Technology,US,22
+failed,5,Theater,SE,1
+failed,5,Theater,US,3
+live,5,Crafts,US,1
+live,5,Food,US,1
+live,5,Technology,AU,1
+live,5,Technology,US,1
+successful,5,Art,US,3
+successful,5,Design,US,1
+successful,5,Fashion,US,2
+successful,5,"Film & Video",GB,1
+successful,5,"Film & Video",US,4
+successful,5,Food,US,3
+successful,5,Journalism,US,1
+successful,5,Music,US,2
+successful,5,Photography,US,1
+successful,5,Publishing,AU,1
+successful,5,Publishing,US,1
+successful,5,Technology,US,1
+successful,5,Theater,US,1
+suspended,5,Design,US,1
+canceled,6,Art,AU,1
+canceled,6,Art,DE,1
+canceled,6,Art,US,3
+canceled,6,Crafts,US,1
+canceled,6,Design,US,1
+canceled,6,Fashion,US,1
+canceled,6,"Film & Video",US,3
+canceled,6,Food,US,1
+canceled,6,Games,AU,1
+canceled,6,Games,FR,1
+canceled,6,Games,US,5
+canceled,6,Music,NL,1
+canceled,6,Music,US,2
+canceled,6,Photography,US,1
+canceled,6,Publishing,AU,1
+canceled,6,Publishing,US,1
+canceled,6,Technology,AU,1
+canceled,6,Technology,CA,2
+canceled,6,Technology,GB,1
+canceled,6,Technology,IE,1
+canceled,6,Technology,SE,1
+canceled,6,Technology,US,2
+failed,6,Art,CA,1
+failed,6,Art,GB,3
+failed,6,Art,US,16
+failed,6,Comics,US,8
+failed,6,Crafts,AU,1
+failed,6,Crafts,GB,2
+failed,6,Dance,US,3
+failed,6,Design,CA,1
+failed,6,Design,MX,1
+failed,6,Design,SE,1
+failed,6,Design,US,16
+failed,6,Fashion,CA,1
+failed,6,Fashion,DE,1
+failed,6,Fashion,GB,1
+failed,6,Fashion,IT,2
+failed,6,Fashion,US,13
+failed,6,"Film & Video",CA,2
+failed,6,"Film & Video",GB,4
+failed,6,"Film & Video",IE,1
+failed,6,"Film & Video",US,32
+failed,6,Food,AT,1
+failed,6,Food,NL,1
+failed,6,Food,US,13
+failed,6,Games,AU,1
+failed,6,Games,DK,1
+failed,6,Games,GB,6
+failed,6,Games,IT,1
+failed,6,Games,US,8
+failed,6,Journalism,US,4
+failed,6,Music,AU,1
+failed,6,Music,GB,3
+failed,6,Music,SE,1
+failed,6,Music,US,19
+failed,6,Photography,CA,1
+failed,6,Photography,FR,1
+failed,6,Photography,IT,1
+failed,6,Photography,NL,1
+failed,6,Photography,US,5
+failed,6,Publishing,CA,1
+failed,6,Publishing,GB,6
+failed,6,Publishing,IT,1
+failed,6,Publishing,US,25
+failed,6,Technology,AU,1
+failed,6,Technology,BE,1
+failed,6,Technology,CA,1
+failed,6,Technology,GB,4
+failed,6,Technology,IT,3
+failed,6,Technology,US,25
+failed,6,Theater,US,3
+live,6,Art,US,1
+live,6,"Film & Video",US,1
+successful,6,Art,CA,1
+successful,6,Art,FR,2
+successful,6,Art,GB,1
+successful,6,Art,US,5
+successful,6,Crafts,US,1
+successful,6,Dance,GB,1
+successful,6,"Film & Video",US,3
+successful,6,Music,GB,1
+successful,6,Music,US,7
+successful,6,Photography,GB,1
+successful,6,Publishing,US,2
+successful,6,Theater,US,1
+suspended,6,Music,US,1
+suspended,6,Technology,US,1
+canceled,7,Art,CA,1
