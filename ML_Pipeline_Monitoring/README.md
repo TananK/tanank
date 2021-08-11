@@ -42,4 +42,4 @@ Precision is used as a main indicator to the performance of this ML model becaus
 
 #### Human-in-the-loop validation Flowchart 
 
-<img src="https://raw.githubusercontent.com/TananK/tanank/ML_Pipeline_Monitoring/Model%20Auditing.png" alt="Machine Learning Pipeline Monitoring Flowchart"/>
+<img src="https://github.com/TananK/tanank/blob/main/ML_Pipeline_Monitoring/Model%20Auditing.png" alt="Machine Learning Pipeline Monitoring Flowchart"/>
