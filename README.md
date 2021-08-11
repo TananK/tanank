@@ -15,8 +15,4 @@ You can find source code and detailed information regarding machine learning pip
 * [Interactive Business Plan on Excel from BCIT final project](https://drive.google.com/file/d/0B4qW55Kpo6X7cmVnRHAzTDlrZG8/view?usp=sharing)
 
 #### About me
-With six years of work experience in the area of data analytics and information technology, my career goal is to be one of the top analysts who provides superior insight for organizations through creative storytelling, interactive dashboards, and augmented intelligence technology. The infographic below shows ideal skills of a modern data scientist which I use as a guideline for my personal and professional development.
-
-<img src="https://image-store.slidesharecdn.com/0a3b2049-8973-4df0-981c-c49accce4178-original.jpeg" />
-
-From the infographic above, the areas of my strength are Python programing, SQL database, domain knowledge in geospatial and anomaly detection, communication, and visualization. You can also find more detail of my work experiences and education on my [Linkedin profile](https://www.linkedin.com/in/tanank/). If you are interested to work with me or have any question, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/tanank/). I look forward to hearing with you.
+With eight years of experience in the area of I.T. implementation and building an extensive data pipeline, the areas of my strength are in business intellegence, process automation, and database management. You can also find more detail of my work experiences and education on my [Linkedin profile](https://www.linkedin.com/in/tanank/). If you are interested to work with me or have any question, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/tanank/). I look forward to hearing with you.
